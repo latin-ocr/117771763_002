@@ -1,0 +1,53 @@
+294 BEMERKUNGEN ZUR ABHANDLL'NG
+
+Aus diesen Bemerkungen ergiebt sich unmittelbar die Richtigkeit der im Text (111, 1, 2, 3) aufge-
+stellten Sfitze fiber die Anzahl (m), wcnn man fiir den ersten derselben noch die Bedingung hinzuffigt‚
+dass I) nicht durch pp theilbar scin darf (die Bestimmung der Classenanzahl ist schon in den Disqq. Arithm,
+art. 25ss auf den Fau zuruckgesuhrt‚ in welchem Ι) durch kein Quadrat theilbar ist). Zugleich findet man,
+auch ohne Rueksicht auf diese Beschrenkung‚ dass die unendliche Reihe
+
+¹4f—<2327LJ⁴“(7²1²’)4J11{³-)÷ . . .
+p pp 2²*
+
+ 
+
+den XVerth
+
+ 
+
+hat, je nachdem 21) durch die Primzahl p theilbar oder nicht theilbar ist.
+
+Zu V.
+
+Die zu dor Formel HI hinzugefugte Bemerkung giebt den weg an, auf welchem der Yerf. zur Bestim-
+mung der Anzahl l,- der in dem Complex (J euthaltenen Formen gelangt ist. Aus geometrischen Betrachtun-
+
+gen (vex-gl. 1. art. 5 und ΙΙ. art. 4) ergiebt sich, dass der Grenzwerth, welchem sich der Quotient
+
+<1)÷(2‘› ÷-(2})÷ · · - {502²}
+
+*m
+
+ 
+
+mit unbegrenzt wachsendem m nssthert, d. h. die mittlere Anzahl der Darstellungen einer unbestimmten po-
+
+sitiven ganzen Zahl
+
+ἱεῖς ein zweiter Ausdruck fur denselben Grenzwerth lasst sich auf verschiedene Arten aus der Natur der im
+
+Vorhergehenden bestimmten Anzahl (m) = ef(m) der Darstellungen der Zahl m ableiten. Der zu diesem
+Zweck von dem Verf. zunechst eingeschlagene Weg scheint nach den vorhandenen Bruchstticken (1. artt. 7, 83
+ΙΙΙ und IV) folgender gewesen zu sein.
+
+Ist 0072) irgend eine Funetion der positiven ganzen Zahl m, und p irgend eine Primzahl, so kann
+man aus 9012) immer eine neue Function (Hm) ablesten, deren Werth unabhengig davon ist, ob und wie
+oft J) als Faetor in m enthalten ist, und welche fiir alle durch p nicht theilbaren Zahlen m mit 9(m) fiber-
+einstimmt3 eine solche Function erhalt man, wenn man 9'(m) τ- QZ) sent, wo pn die hbchste in m auf-
+gehende Potenz von p bedeutet3 und man kann sagen, dass die Function 9⁷(m) aus (ΝΜ) durch Elimi-
+nation der Primzahl p entsteht. Bildet man auf diese VVeise aus f(m) eine neue Function f'(m) durch
+Elimination der Primzahl 2, aus dieser die Function f''(m) durch Elimination von 3 u.s.f., so wird jede
+folgende dieser Functionen einen regelmstssigern Verlauf haben, als die vorhcrgehenden3 eliminirt man eine
+
+Primzahl nach der andern, wie sie ihrer Grcsse nach auf einander folgen, so wird eine solche Function
+

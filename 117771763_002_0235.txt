@@ -1,0 +1,48 @@
+DithnsrrmNEs GENERALES DE coNGssUENTns. 225
+
+351.
+
+THEOREMA. Datur valor numeri ν minor quam pm, ita atfunctio arv—1 per
+functionem propositam P m dimensionum, caius pars infima indeterminatam oe non
+involvit, secandam modulam p dividi possit.
+
+Dem. Dividatur per P series functionum 1, oe, «παρ’. . . usque ad xpm—¹,
+simulac dimensionem m superant, et quoniam nulla per P sine residuo dividi
+
+poterit, omnia residua ad hano formam redigi poterunt
+Aoe⁷'²—¹—†—Boem—2—†— . ο ÷N
+
+ita ut omnes eoe'ffioientes sint positivi et <st Sed patet, quum nunquam omnes
+possint esse τ- (), pm-——l tantummodo functiones dari, quarum alicui singulae
+aequales esse debent, quare quum usque ad potestatem ipsius ιτ, cuius exponens
+est pm-l, pm residua habeantur, necessario duo ad minimum eadem esse de-
+bent. Prodeat igitur idem residuum, si coa et a:“†“ per P dividantur, ita ut
+a†v<p”³. Quare oea÷v-oea per P dividi poterit. Hinc quoniam (hyp.) ω
+adeoque etiam ιτα functio estad P prima, etiam oev——l per P dividi poterit
+Q. E. D.
+
+Ooroll. Si συν-1 per P dividatur, etiarn nstv—1 per P dividi poterit.
+denotante lc numerum quemcunque integrum.
+
+352.
+
+THEOREMA. Blanentibus denominationibus at z'n §. praec„ si P ficeritfanctc'o
+prima et α’* infima potestas, quae unitate mulctata per P dividi possit, erit ν aat
+Ξ p⁷⁷²—1 aut pars aliquota haias numeri, eoecepto unico casa, abi P Ξ a).
+
+Dem. Quoniam P est functio prima m dimensionum, dabuntur qim—1
+functiones diversae pauciorum quani m dimensionum (exclusa scilicet ab omnium
+numero functione Ο), quae omnes ad P erunt primae. Iam quum ων suppona-
+tur esse infima potestas, quae per P divisa unitatem relinquit, palam est, si omnes
+
+,ν-Ῑ
+
+inferiores potestates ab 1, ω’, . . usque ad a per P dividantur, ν residua di-
+versa prodire, quae per A generaliter designentur. Iam si haec exhauriant om-
+nia quae sunt possibilia, theorema erit demonstratum; sin vero quaedam nondum
+sint in eorum numero, sit quodcunque eorum B; iam perspicuum est, functionem
+Bao* per P divisam residuum B dare et generaliter esse Boe”†k{Boek³(mod.P);
+sed omnes functiones ab B usque ad ΕΦΨ-1 diversa inter se et ab residuis A
+
+II. 29
+

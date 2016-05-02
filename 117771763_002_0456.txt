@@ -1,0 +1,65 @@
+446 NACHLASS.
+
+mire, dass bei viel weiterer Fortsetzung jene die letztern tibertrzifen. Um Zah-
+lung und For-mel in Uebereinstimmung zu bringen, mfisste man respective anstatt
+A z 1,08366 setzen
+
+1‚09040
+1‚07682
+1‚07582
+1‚07529
+1‚07179
+1,07297
+
+Es scheint, dass bei wachsendem n der (Durchschnitts-)Werth von A ab-
+nimmt, ob aber die Grenze beim Wachsen des n ins Unendliche 1 oder eine von
+1 verschiedene Grbsse sein wird, dartiber wage ich keine Vermuthung. Ich kann
+nicht Sagen, dass eine Befugniss da ist, einen ganz einfachen Grenzwerth zu er-
+warten3 von der andern Seite kennte der Ueberschuss des A fiber 1 ganz ffiglich
+eine Grbsse von der Ordnuno ¹
+
+Ο logn
+
+das Differential der betreffendedn Function einfacher sein muss, als die F unction
+72
+
+lo n
+eine Differentialfunction vorausgsetzen, die etwa
+
+ 
+
+sein. Ich wsirde geneigt sein zu glauben, dass
+
+ 
+
+vorausgesetzt habe, Wiirde LEGENDRE’S Formel
+
+dn ..
+lom—(Ass) ware. Ihre Formel
+
+selbst. Indem ich fiir jene
+
+ 
+
+fibrigens wtirde fiir ein sehr grosses n als mit
+
+n
+
+ 
+
+logn—2sslc
+
+tibereinstimmend betrachtet werden kb'nnem wo lc der Modulus der BRIGffl’schen
+Logarithmen ist, also mit LEGENDRE⁷S Formel, wenn man
+
+A z 2-1]- =1,1513 setzt.
+
+Endlich will ich noch bemerken, dass ich zwischen Ihren Abzeihlungen und
+den meinigen ein Paar Differenzen bemerkt habe.
+Zwischen 59000 u. 60000 haben Sie 95 ich 94
+101000 102000 94 93
+Die erste Differenz hat vielleicht ihren Grund darin, dass in LAMBERT'S Suppl.
+die Primzahl 59023 zweimal aufgefl'ihrt ist. Die Chiliade von 101000-102000
+wimmelt in LAMBERT’S Supplementen von Fehlern, ich habe in meinem Exemplare
+7 Zahlen angestrichen‚ die keine Primzahlen sind, und dagegen 2 fehlende ein-
+

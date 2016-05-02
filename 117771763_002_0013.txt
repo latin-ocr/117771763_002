@@ -1,0 +1,31 @@
+THEOREMATIS ARITHMETICI
+
+DEMONSTRATIO NOVA.
+
+1.
+
+Quaestiones ex arithmetica sublimiori saepenumero phaenomenon singulare
+offerunt, quod in analysi longe rarius occurrit, atque ad illarum illecebras augen-
+das multum confert. Dum scilicet in disquisitionibus analyticis plerumque ad
+veritates novas pertingere non licet. nisi prius principiis, quibus innituntur, quae-
+que ad eas viam quasi patefacere debent, penitus potiti simus: contra in arithme-
+tica frequentissime per inductionem fortuna quadam inopinata veritates elegantis-
+simae novae prosiliunt, quarum demonstrationes tam profunde latent tantisque
+tenebris obvolutae sunt, ut omnes conatus eludant, acerrimisque perscrutationibus
+aditum denegent. Tantus porro adest tamque mirus inter veritates arithmeticas,
+primo aspectu maxime heterogeneas, nexus, ut haud raro, dum longe alia quaeri-
+mus, tandem ad demonstrationem tantopere exoptatam longisque antea meditatio-
+nibus frustra quaesitam longe alia via quam qua exspectata fuerat felicissime per-
+veniamus. Plerumque autem huiusmodi veritates eius sunt indolis, ut pluribus
+viis valde diversis adiri queant, nec semper viae brevissimae sint, quae primo se
+offerunt. In magno itaque certe pretio habendum erit, si, tali veritate longe in-
+cassum ventilata, dein demonstrata quidem sed per ambages abstrusiores, tandem
+
+viam simplicissimam atque genuinam detegere contigerit.
+
+2.
+Inter quaestiones, de quibus in art. praec. diximus, locum insignem tenet
+theorema omnem fere theoriam residuorum quadraticorum continens, quod in Dis-
+
+quisz'tionibus arithmeticis (Sect. IV.) theorematis fundamentalis nomine distinctum
+

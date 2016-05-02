@@ -1,0 +1,39 @@
+108 'rnEomA nnsmuoumu BIQUADRAT1CORUM.
+
+tur productum primarii associati per i, —1 vel -ί, Ηο0 pacto patet, quemvis
+numerum complexum compositum M reduci posse ad formam
+
+][2521121'213'50‘1. . . .
+
+ita ut A, B, C etc. sint numeri primi complexi primarii inaequales, atque
+μ z 0, 1, 2 vel 3. Circa hanc resolutionem theorema se offert, unico tantum
+modo eam fieri posse, quod theorema obiter quidem consideratum per se manife-
+stum videri posset. sed utique demonstratione eget. Ad quam sternit viam sequens
+
+THEOREMA. Productmn M -- ΑαΒῧΟγ . . . ., denotantibus A, B, G etc. mc-
+meros primos compleam· primarios diversos, divisibile esse nequit per ullum numerum
+primum completum primarium, qui [nter A, B, C etc. non reperitur.
+
+Dem. Sit P numerus primus complexus primarius inter A, B, C eto. 11011
+contentus, sintque p, a, h, c etc. normae numerorum P, A, B, C etc. Hinc fa-
+cile colligitur, normam numeri M fore z: ααῦῧεῖ etc., unde hic numerus, si M
+per P divisibilis esset, per Ι) divisibilis esse deberet. Quum singulae normae
+sint vel numeri primi reales (e serie 2, 5, 13, 17 eto), vel numerorum primorum
+realium quadrata (e serie 9, 49, 121 etc), sponte patet, illud evenire non posse,
+nisi J) cum aliqua norma a, b, c etc, identica fiat: supponemus itaque p z α. At
+quum Ρ, A per hyp. sint numeri primi complexi primarii non identici‚ facile
+perspicietur, haec simul consistere non posse, nisi P, A sint numeri complexi
+imaginarii coniuncti, et proin p :- a numerus primus realis impar, (non qua-
+dratum numeri primi): supponemus itaque A z lc—l-Zz', P: lc—li. Hinc (ex-
+tendendo notionem et signum congruentiae ad numeros integros complexos> erit
+A Ξ 2 lc(mod. P), unde facile colligitur
+
+ΜΞ 11163601 . . . . (mod. P)
+Quapropter dum M per P divisibilis supponitur, erit etiam
+2222·ssssss 01 . . . .
+per P divisibilis, adeoque norma huius numeri, quae fit
+
+:- 22αᾶραῦῧυῖ . .
+
+divisibilis per 2). At quum 2 et lc per ρ certo non sint divisibiles, hinc sequi-
+

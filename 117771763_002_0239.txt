@@ -1,0 +1,47 @@
+DistsrrloNEs GENERALES DE CONGRUENTHS. 229 ·
+
+ωὲ-ξ-ωἳΡ-ὶ-ωΨΡ-ἦ-εῐο. Ξ ΑΑ- 2B(m0d. P) etc, etc.
+Exempl. Sit p z: 5 et P Ξ oe2-f-2oe-l—3, erit functio oe-l-oe5 per P
+divisa 3 — 2, ωδ Ξ 3 etc, etc.
+
+358. 359.
+
+THEOREMA. Sit P fimetio prima et ων infima potestas ipsius x, quae per P
+divisa dat residuum 1; porro sit P Ξ (P, pn), erit n alicui numeri p potestati se-
+cundum ν σοηρνίιῑιε. ’
+
+Dem. Supra ostendimus. si P sit
+
+2- αθΠ-ἦ- Α oe⁹’²“‘¹—†— Boe⁷'³·‘²-{- etc.
+fore
+2⁷⁷l†⁴’12⁷n—¹-†-B2⁷²l—2† etc. — (z—oe) (z —— χρ) ο . (Ζ--ιτΡΜ-ί)
+per P divisibilem. Simili modo sequeretur esse
+z²'‘—†—Az⁷'⁸-¹—{—- Bz'n—3-Js— etc. — (ι’-(ψ) (ει-ΜΡ) , , (2—oe²²P”⁸‘¹)
+per P divisibilem. Quoniam autem hi factores inter se sunt primi. necessario
+
+singuli singulis secundum P, p congrui esse debent. Quare z—-oe'² debet esse
+Ξ z ——oeff i. e. 29² Ξ n(mod.v). Q. E. D.*>
+
+De inventione dz'm'sorzcm. primorum functionis :cv-1 secundum modulum primum.
+360.
+Si ν per modulum p seu per aliquam eius potestatem est divisibilis, sit
+
+ν :z pklx, eritque
+oe'‘—l 3(17*—1)Pk(mod.p)
+
+Unde manifestum est, eum tantummodo casum considerari oportere, ubi ν per p
+
+non dividitur.
+
+ 
+
+*) Si (P, (2⁰) 3 (P, pb) (mod.p) erit α Ξ p‘b(mod.v).
+Demonstratio. Sit z''²†A zm*¹ -4-Bzm‘2—l— . . z Π erit (H, ρ’ῑ) Ξ (Π, pb)(m0d.P); est autem
+(ss, pff> Ξ (z—xfl) <2— ωε) <2—x‘1121’) - - (z —x⁰1²''“¹)‚ (ss, ρ’») Ξ (z — aeb)(z—ae'>³²>(z—x²w) - · (ww-¹>
+unde patet propositio.
+Productum ex Π, (Π, 9²), (H, (³³) etc. (Π,ρ”) est Ξ (2²¹——1)⁷”(mod.P); est enim
+(z—x) (z—x²)(z-—x³) . . .(z—ff') 3 (z—xl') (z'—x²1')(z—-:c³l') . . (2-21‘12) 3 etc. 3 zv—-1
+In serie P, (P, 9²), (P, 9³) etc. . . .(P, 9²¹) omnes divisores primi functionis :cv—1 occurrunt, et quidem
+
+quisque m vicibus. Inde patet, productum ex omnibus esse 3 (ων-ψη.
+

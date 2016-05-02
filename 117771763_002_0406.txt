@@ -1,0 +1,37 @@
+3 96 NACHLASS.
+
+V.
+Sollte sich bestiitigem dass jede[Ei]nheitszahl blos aus Factoren von der
+Form
+
+zusammcngcsctzt ware, so wilrde folgendcr Satz bewiesen sein:
+Ist fzge) eine Ez'vlzeitszalzL so ist
+
+[Q Σ 222
+ΛΓ)
+Auch ohncjenen Satz vorazcszzcsetzen ist der Schlusssatz lcicht zu beweisen.
+Es sei
+[ᾗ Ξ Fg
+,Μ’
+so ist
+Fe . ΖΓΕ-1 ’.ἶ- 1
+
+woraus mit Hulfe der Lchre von der Mensur lcicht gcfolgert wird‚ dass
+
+Fe z ssssn
+Das untere Zeichen ist aber unmcglich‚ weil sonst fe durch 1——2 theilbar sein
+musste.
+Dass der Dctcrminant einer von Ο verschiedcnen Zahl nicht = Ο sein
+
+kcnnc. liisst sich lcicht bcwcisen. XVcnn der Detcrminant durch m thcilbar ist,
+so ist die Zahl selbst durch 1-—2 theilbar3 folglich wcnn der Deterrniuaut durch
+m⁷⁷²*¹ thcilbar ist, muss die Zahl selbst durch m theilbar sein. W‘clchcs absurd
+ist, da heim Det. O die zahl erst salvo Det. so oft durch m dividirt wcrdcn Ῑςόῃιῑῑε,
+bis sie nicht mehr thcilbar ware. Der erste Satz aber erhellt so. Es sei die vor-
+
+gegebcnc zahl
+
+a—0-b2†cee-†— etc, Ξ α-ξ-ὂ-με . . mod. 1 -ε
+
+also Determinans Ξ (a-l—b—ff- c . .)7””1 mod. 1—2.
+

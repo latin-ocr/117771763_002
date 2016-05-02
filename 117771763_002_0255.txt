@@ -1,0 +1,40 @@
+DISQUISITIONUM cmm AEQnArroNEs PURAs umemoa avonemo. 245
+
+3.
+Si pro· radice r unitatem accipimus, habemus
+
+[1⁹1³] 2- 1÷R÷R²÷R³ · - -÷R³†-¹ --. 7<1÷R÷R2÷R³ . . . -1-136-1)
+
+huius valor erit Ξ ὄγ, si etiam pro R accipitur radix 1, sed .--- Ο pro quovis
+alio valore ipsius R. Contra manente r indeterminata, positaque R Ξ 1. erit
+[φη 1] = 2·÷r9“-†-r9²“—}-r9³“. . . . —f-r9⁰‘5⁷”“, sive adhibito signo in Disq. Ar. in·-
+troducto‚ [r‚ 1] Ξ (ὄγ, 1), i. e. constabit e periodo ὅγ radicum, e quibus una
+est ipsa r. Quoties est α z 1, haec periodus omnes radices r, 2⁴², 2⁶³. . . . r”‘¹
+complectetur ordine tantum mutato,
+
+Notentur adhuc relationes sequenteS, quarum ratio sponte elucet:
+
+[r‚ R] -- Βῑνθα, R] = R2[r⁹²‘²‚ R] sive generaliter Ξ Ε’Ἵνθαῆ, R]
+
+denotante k integrum positivum quemcunque. Hinc patet, functionem pff, R]
+vel esse ε [1, R]‚ scilicet si fuerit m divisibilis per n, vel reduci posse ad for-
+mam Rf²[r9”‚ R] in casibus reliquis et quidem ita, ut sit ν<α. Si enim m non
+est divisibilis per n, congruus erit secundum modulum n alicui potestati ipsius
+9, cuius exponens ad instar Disq. Ar. per ind. m commode exprimitur3 sta-
+tuendo itaque ind. m = λα-ὶ-ν, quod manifesto fieri potest, ita ut sit ν<α, erit
+
+[νἠ, R] z [r9M*⁹‚ R] :z R—l[2-⁹”,R]: faciendus est itaque μ = -λ aut si expo·
+nentem positivum desideras, μ Ξ -λ<ῑηοᾶ.ὅ).
+4.
+THEOREMA. Desiynante r' perinde ut r indefinite radicem aequationis affl—1 --- 0,
+nec non R‘ perinde ut R indefinite radicem aequationis aeg—1 .--= Ο, erit productum
+[rste] ><[r‘‚R'] z.-
+[2·r'‚RR‘]÷R[r⁹“r‘,RR']÷R²[r⁹²⁰‘r'‚RR‘]
+÷R³[r⁹³“r'‚RR'] . . . . ÷R31‘-¹ [r⁹“⁶*·“r'‚RR']
+
+Demonstr. Absolvendo multiplicationem ipsius [r, R] per singulas partes
+ipsius [r',R'], productum in hac forma exhiberi potest
+
+[φη R] r'÷RR‘[r⁹“, R]r'⁹“ ÷R²R2[r⁹²“‚ R] r'920‘
+÷R³ R'3 [r⁹³“‚ R] ΝΜ . . . . 4- legi-¹ Rev-¹ [γεάὅῖ-α, R]r'⁹“⁶⁷‘“
+

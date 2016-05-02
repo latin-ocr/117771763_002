@@ -1,0 +1,52 @@
+SECTIO OCTAVA. 513
+
+3-72.
+Si η est numerus primus (impar), residua m consistent ex cifra, pro qua
+M z 1, et ex {Oa—1) aliis numeris, pro quibus Μ = 2. Designando haec re-
+sidua (excluso residuo O) indefinite per μ, erit progressio nostra -—-.- 1÷2Er³².
+Porro si per ν designantur indefinite omnes reliqui numeri infra n, quorum mul-
+titudo quoque erit 72-(22—1) et qui omnia non-residua quadratica ipsius n infra n
+complectentur, manifesto erit
+
+1÷22·³*÷2r” τ- 1÷r÷rr÷r=³....÷2-22-1:¹:2³²:0
+
+l—‘r
+Quare ponendo summam progressionis nostrae sive 1 —†- 2 Erv· = A, erit
+1÷2E Ν z: -A, nec non {rr-Er* Ξ A.
+Per art. 356 fit itaque A z: ssvn vel ᾗχί-η, prout n est ΞΙ vel
+Ξ 3 (mod. 4). Sed signum radicis hinc nondum determinatur
+
+Si 1n progressione nostra, quarn per Π designabimus, pro 7· substituitur alia
+similis radix aequationis «τη-1* - 0, puta r ΞΗ , supponamus inde prodire H'.
+
+373.
+Si n est quadratum altiorve potestas numeri primi, puta r: 22², residua m
+quaedam consistent e numeris per p non divisibilibus, alia erunt divisibilia per
+pp neque per altiorem potestatem ipsius p, alia per ρ’* neque veroper 22⁵ dividi
+
+poterunt et sic porro usque ad ea quae per p· ‘²
+¹ neque vero per 29¹⁷, prout π par est sive impar; his denique
+
+neque vero per 22²*¹ divisibilia
+sunt, sive per p
+accedit residuum Ο, quod est unicum per ρ’· divisibile (conf. art, 102). Iam de—
+signando per μ indefinite residua quadratica numeri p infra p cifra exclusa (quo-
+rum multitudo = ἼΞ-(Ρ--’1), illae diversae residuorum classes sequenti modo ex—
+hibebuntur. Prima, quae per p non sunt divisibilia, repraesentantur per μ-ψ-ᾸἸ),
+ubi pro lc substituendi sunt omnes integri a Ο usque ad, 22³*¹—1, ita ut omnium
+residuorum in hac forma contentorum multitudo sit z 21-(p—1)])²‘’¹; pro his sin-
+gulis fit M: 2. Summa autem omnium terminorum in Π his residuis respon-
+
+dentium erit
+
+rpn -1
+‚P-.1
+
+=2Er2†k1²=22r÷*.2 r⁷⁶1⁹=22r÷² Σο
+
+ 
+
+Secunda residuorum classis exhibebitur per pipp-l—kffl ubi pro k substituendi
+sunt omnes integri a 0 usque ad p²‘³—1 ita ut omnium residuorum in hac
+ΙΙ. 79
+

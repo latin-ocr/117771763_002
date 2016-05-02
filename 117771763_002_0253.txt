@@ -1,0 +1,31 @@
+DISQUISITIONUM CIRCA AEQUATIONES PURAS
+
+ULTERIOR EVOLUTIO.
+
+1.
+
+Quum methodus ea, per quam in Disquz‘ss. Arithm. art. 360 aequationem
+ayn—1 z: Ο solvere docuimus, theoriam foecundissimam et gravissimam consti-
+tuat, cuius prima tantum momenta in opere illo attingere licuit, gratum geome-
+tris fore speramus, si hoc argumentum denuo hic resumimus, quae breviter tan-
+tum partimque demonstrationibus suppressis adumbrata fuerant, uberius tracta-
+mus, et quae ex illo tempore accesserunt incrementa profundius persequimur.
+
+Exponens n supponitur esse numerus primm, numerusque n—1 in facto—
+res α >< ὅ >< γ resolutus; porro designamus per 9 aliquam radicem primitivam pro
+modulo η. Exhibeat r indefinite radicem aequationis aen—1 = Ο, atque R in-
+
+definite radicem aequationis ινδ-1 = 0. Designando itaque peripheriam circuli,
+
+cuius radius Ξ 1, per P, quantitatemque imaginariam χΙ-Ῑ per i, omnes radi-
+ces aequationis αῖς-1 = Ο, sive omnes valores ipsius R exhibebunturper formulam
+kP kP
+
+exprimente k indefinite numeros integros 0, 1, 2, 3 . . . 6-1, Porro patet. omnes
+potestates cuiusvis radicis R ipsas quoque esse radiceS‚ nec non, si R fuerit ra-
+dix valori ipsius lc ad ὅ primo respondens, omnes potestates R⁰, R, R2, R3...R3*¹
+inter se diversas esse, adeoque totum radicum complexum exhaurire; in hoc casu
+
+ipsam R radicem propriam aequationis oeg—¹ :- O dicemus; contra radix R va-
+31 *ἶ
+

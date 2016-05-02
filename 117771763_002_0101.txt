@@ -1,0 +1,31 @@
+COMMENTATIO PRIMA. 9 1
+
+adeoque qr -Ξ 4- f (mod. p). Combinando hanc congruentiam cum theoremate
+modo invento obtinemus rr Ξ ss 2 af, et proin, per artt. 19, 20
+
+2b ’Ξ ssrr(mod.p) ²*)
+
+Valde memorabile est, discerptionem numeri p in duo quadrata per operationes
+
+prorsus directas inveniri posse3 scilicet radix quadrati imparis erit residuum abso-
+r
+
+lute minimum ipsius ἦ, radix quadrati paris vero residuum absolute minimum
+ipsius {rr secundum modulum p. Expressionem ἐς, cuius valor pro p :- 5
+fit ςτ- 1, pro valoribus maioribus ipsius p, ita quoque exhibere licet:
+6.10.14.18..... (χο-3)
+2.3.4.5 ..... {(p-—1)
+
+Sed quum insuper noverimUS‚ quonam signo affecta prodeat ex hac formula radix
+quadrati imparis, eo scilicet, ut semper fiat formae alm—kl, attentione perdig-
+num est, quod simile criterium generale respectu signi radicis quadrati paris hacte-
+nus inveniri non potuerit. Quale si quis inveniat, et nobiscum communicet, mag-
+nam de nobis gratiam feret. Interim hic adiungere visum est valores numerorum
+a, b, f, quales pro valoribus ipsius p infra 200 e residuis minimis expressionum
+
+ᾗ, {rm qr prodeunt.
+
+ 
+
+²⁴) atque {(a‡b)q}2 Ξ α Ξ (r-2qrr)2
+

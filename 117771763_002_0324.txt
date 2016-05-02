@@ -1,0 +1,39 @@
+3 14 NACHLASS.
+
+5.
+
+Der Kiirze wegen wollen wir imaginiire Grbssen wie oe÷iy auch durch
+einen einzigen Buchstaben bezeichnen, wie z.
+
+6.
+
+Die Figur, welche durch die geraden Linien κε’, z'z''„ z''z'''. . . ,τη-12η, 2⁷²2 be-
+grenzt wird, nennen wir schlechtweg die Figur zz'z''z'''. . κη. Wir schliessen da—
+bei den Fau nicht au& wo etwa einige dieser Linien einander schneiden.
+
+7.
+
+Durch fflz, z'‚z'' . . . κη) bezeichnen wir allgemein die Summe von so vielen
+reellen ganzen Zahlen, als Ganzepunkte innerhalb der Figur hegen, indem wir
+fur jeden Punkt‚ um den die Grenzlinie der Figur einmaL zweimal, dreimal u.S.w.
+herurngeht, die Zahl -j—-L ss‘Z, ss 3 etc, setzen3 die obern Zeichen gelten, wenn
+die Grenzlinie den Punkt 80 unigibt, dass dieser auf der rechten Seite der Figur
+liegt, die untern im entgegengesetzten Fan. Schneiden sich also keine Seiten der
+Figur, 80 ist S(z‚z'‚z''. ) schlechthin die Anzahl der Punkte innerhalb der Figur‚
+positiv oder negativ genommen.
+
+8.
+Offenbar ist immer
+S(z‚z'.z'' . . ,2⁷²3 z: S(z',z''‚z'''. . . z⁷²',z]·› z S(z''‚z'''. ,z') etc.
+:- —S<z⁷²*,z⁷²-¹. ,z'',z'‚z) 2: —- &ss-¹. ἶφι-’2. . z'.z,z⁷²) ete.
+9.
+
+Wie es hiebei mit den auf der (irenzlinie selbst liegenden Punkten gehalten
+werden soll. muss noch niiher bestimmt werden. Es gibt viele F alle, wo auf der
+Grenzlinie gar keine ganze Punkte liegen kbnnen: dann ist keine Bestimmung
+ncthig. Liegen aber auf der Grenzlinie zz' solche Punkte‚ 80 zeigen wir durch
+ein zwischen z und κ’ eingeschobenes —†- an, dass diese Punkte 80 betrachtet
+werden sollen‚ als legen sie rechts von der Grenzlinie, so wie durch ein —, als
+stigen sie links, Auch werden wir wol ein 0 oder ᾗ einschieben, wodurch an—
+gedeutet werden soll, dass sie gar nicht oder nur mit dem halben Werthe auf je-
+

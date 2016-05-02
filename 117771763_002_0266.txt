@@ -1,0 +1,51 @@
+256 Χ NAcHLAss.
+
+14.
+
+Calculus in praecc.'ita absolutus, ut ad omnes valores ipsius r ipsiusque R
+extendi possit, notabiliter contrahitur, si ipsam R statim ab initio tamquam ra-
+dicem propriam aequationis ιτ’ῧ--1 z Ο consideramus. Haece suppositione pro·
+ductum 1) 12³²] ><[r, Ην] reducetur ad formam B[r‚R÷*†2]‚ quoties &24⁸² per 6
+11011 est divisibilis; quando vero μ-ἦ-κ) per ὅ divisibilis est. illud productum
+fit :(22—1)132('²‘¹)³*-{-[r‚1]>]R¹*i¹¹d³⁵‚ substituendo pro indoe omnes numeros
+Ο, 1, 2, 3 . . . . η- 2 excepto hoc {in—1). Hinc facile colligitur (si μ et proin
+etiam ν per ὅ 11011 est divisibilis), in hoc casu esse
+
+[22 Βμ].[ν,1ῐν] = R‘³(⁷²‘¹>¹²{n-1—[r‚ 1]}
+
+adeoque ---- Ο pro r :z 1, et Ξ ηΕὲ(””-1)μ
+
+ὲΨ-θμ fiat z: -l-1‚ vel :- -—-1‚ prout 'Eg-¹42 est numerus par
+vel impar, productum nostrum fit in casu priori Ξ n, in posteriori z -η,
+
+pro quovis alio valore ipsius r. Ce-
+terum quum R
+
+Hinc porro sequitur, statui posse
+
+[r, R]²—- - A' [⁹3 R2]
+[r‚R².] [γ’ Rl— A''-[oR ³]
+[r‚R³].[r‚R] --- A'' [ἢ R l
+etc. usque ad
+[η Rss-2]. [7313] -- siff-2> [η Ra-1]
+unde habemus
+[r, R]²- -- A'[r, R2]
+[r, R]3-- - -'''AA μ’, R3]
+[r, Rjst- „- ΑἈ’ ''''A [η R' l
+
+etc. Denique
+[η R? Ξ ÷22A'A‘'A“'. Affi-2>
+
+ubi signum superius vel inferius accipiendum est, prout 'lg—¹ par est vel impar.
+
+Patet itaque, postquam valor ipsius [r‚ R] inventus fuerit, functiones re-
+liquas
+
+[r,R2] Ξ QX, [η 12³] Ξ [γ’ 1³3³ etc.
+
+A‘ A'A
+
+ 
+
+hic multo expeditius determinari posse, quam in casibus iis , ubi α non est -ε 1,
+

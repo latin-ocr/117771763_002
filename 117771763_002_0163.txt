@@ -1,0 +1,41 @@
+THEOREMATIS ARITHME'I'ICI DEMONSTRATIO NOVA. 153
+
+dieser treffliche Analyst den Beweis auf sehr scharfsinnige Untersuchungen zu
+grfinden gesucht‚ die aber gleichwohl nicht zu dem gewfinschten Ziele gefi'ihrt ha-
+ben, welches, wenn wir uns nicht irren, auch auf diesem WVege nicht erreicht
+werden konnte.
+
+Der Verfasser der Abhandlung‚ welcher diese Anzeige gewidmet ist, be-
+trat die Bahn der hebern Arithmetik zu einer Zeu, wo ihm alle frfihern Arbeiten
+andrei· Geometer in dieser Wissenschaft ganz unbekannt waren; diesem Umstande
+ist es hauptsachlich zuzuschreiben, dass er tiberall einen ganz eigenthtimlicben
+Gang genommen hat. ε161163 Fundamental-Theorem saud er zwar sehon sehr frfih
+durch Induction‚ allein erst ein ganzes Jahr spater gelang es ihm, nach vielen
+Schwierigkeiten und vergeblichen Vei-suchen‚ den ersten vollkommen strengen
+Beweis aufzufinden, der im vierten Abschnitte seiner Disquz'sitiones Aritlzmetz'cae
+entwickelt ist: dieser Beweis grsindet sich aber auf sehr niuhsame und weitlauftige
+Auseinandersetzungen. In der Folge kam er noch auf drei andre Beweise‚ die
+zwar von jener Unbequemlichkeit frei sind, aber dagegen andre sehr tiefliegende
+und ihrem Inhalte nach ganz heterogene Untersuchungen voraussetzen: der eine
+dieser Beweise ist gleichfalls in dem angefi'ihrten Werke Art. 262 mitgetheilt‚
+die beiden andern werden zu ihrer Zeit bekannt gemacht werden. Immer blieb
+’ also noch der Wunsch fibrig‚ dass es meglich sein mechte, einen ktirzern‚ von
+fremdartigen Untersuchungen unabhangigen‚ Beweis zu entdecken. Der Verf.
+hofft daher, dass die Freunde der hebern Arithmetik mit Vergni’igen einen funf-
+ten Beweis sehen werden, der in gegenwartiger Abhandlung auf weniger als ffinf
+Seiten vorgetragen ist, und in jeder Hinsicht nichts zu wl‘inschen 1'ibrig zu lassen
+scheint. Bei der gedr'angten Kfirze. worin dieser Beweis abgesasst ist, kbnnen
+wir freilich hier von dem Gange desselben nur eine unvollkommene Idee geben:
+mehr wiirde hier aber auch um so fiberfltissiger sein, da der XVIte Band der Com-
+mentationeS, worin er bereits abgedruckt ist, nachstens erscheinen wird.
+
+Die Grundlage des Beweises ist folgender neuer Lehrsatz: WVenn p eine
+(positive ungerade) Primzahl. Ιι· 61116 behebige, durch p nicht theiibare, ganze
+Zahl bedeutet; wenn ferner unter den Resten ‚ die aus der Division der —3-(22—1)
+Producte lc, 2k, 3lc . . . . >3-(p-—1‘jk durch p entstehen‚ in allen sich μ Reste be-
+finden, die griisser als {p sind (also τ’ῑ(])-1)-μ solche, die kleiner sind als
+..g-p), so wird lc ein quadratischer Rest von p sein, wenn μ gerade ist, hingegen
+ein quadratischer Nichtrest‚ wenn μ ungerade ist. Die Zahl μ, die bloss von k
+
+11. 20
+

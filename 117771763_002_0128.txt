@@ -1,0 +1,43 @@
+118 TfflzomA ansiouomm BIQUADRA'HGORUM.
+
+res, divisores communes maximi appellandi erunt, horumque norma erit multi-
+plum normae cuiusvis alius divisoris communis.
+
+Si resolutio duorum numerorum propositorum in factores simplices non ad-
+est, divisor communis maximus adiumento similis algor-ithmi eruitur, ut pro nu-
+meris realibus. Sint m, m' duo numeri propositi, formeturque per divisionem re-
+petitam series Μ’, mmet& ita, ut Μ” sit residuum absolute minimum ipsius m se-
+cundum modulum Μ’, dein mm residuum absolute minimum ipsius ἔφη’ secundum
+modulum Μ” et sic porro. „ Denotando normas numerorum m, Μ’, Μ”, m'''etc. resp.
+
+per p‚p'‚p'',p''' ete„ erit ἔξ, norma quotientis Ξ-
+
+, adeoque per definitionem resi-
+dui absolute minimi certo non maior quam {5 idem valet de ἓξ etc, Quapropter
+integri reales positivi pfl ῤ’, pm etc. seriem continuo decrescentem formabunt, unde
+necessario tandem ad terminum 0 pervenietur, sive, quod idem est, in serie
+m, Μ’, Μ”, Μ”’ etc. tandem ad terminum perveniemus, qui praecedentem absque
+
+residuo metitur. Sit hic Μ(”“Η), statuamusque
+
+m Ξ km' †m''
+m! Ξ klmll ÷mln
+ml! Ξ kllqnlll÷ mllll
+
+eto. usqne ad
+mvl) Ξ k(⁷2)m(⁷³†¹)
+
+Percurrendo has aequationes ordine inverso, elucet, m(⁷²‘*'¹) singulos terminos
+praecedentes Μ(”) . . . . Μ”, Μ’, Μ metiri3 percurrendo autem easdem aequationes
+ordine directo, manifestum est, quemvis divisorem communem numerorum Μ, Μ’
+etiam metiri singulos sequentes, Conclusio prior docet, m('²†¹) esse divisorem
+communem numerorum Μ, Μ’; posterior autem, hunc divisorem esse maximum.
+Ceterum quoties residuum ultimum m(⁷²4¹) alicui quatuor unitatum
+1, -1, i, -ί aequale evadit, hoc indicium erit, m et m' inter se primos esse.
+
+47.
+Si aequationes art. praec, omissa ultima, ita combinantur, ut Μ”, Μ”’,
+Μ””. . . . ΜΨ) eliminentur, orietur aequatio talis
+
+m(⁷²†¹) ετ- hm 4- h'm'
+

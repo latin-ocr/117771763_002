@@ -1,0 +1,25 @@
+Gettingische gelehrte Anzeigen. 1808 Mai 12.
+
+Eine vom Herrn Prof. GAnss am 15. J anuar d. J. der kenigl. Societffl: der
+
+Wissenschaften fiberreichte Abhandlung,
+
+Theorematis arithmetici demonstratio nova,
+
+deren Inhaltsanzeige wir hier noch nachzuholen haben, hat das berfihmte Fun-
+damental-Theorem der Lehre von den quadratischen Resten zum Gegenstande,
+welches sowohl in der ganzen hdhern Arifflmefflc, als in den angrenzenden Thei-
+len der Analysis eine So wichtige Rolle spielt. Bekanntlich heisst eine ganze
+Zahl a quadratischer Rest der ganzen zahl b, wenn es Zahlen der Form oeoe--a
+gibt, die durch b theilbar sind, sowie im entgegengesetzten Falle a quadratisclzer
+Niclztrest von b genannt wird: die Zahl a kann positiv oder negativ sein, b hin-
+gegen wird immer als positiv angesehen. Die 11611616 Arithmetik lehrt, dass alle
+Primzahlen b, fiir welche eine gegebene Zahl a quadratischer Rest ist, unter ge-
+wissen linearischen Formen begriffen sind, so wie wiederum andere linearische
+Formen alle Primzahlen enthalten‚ von denen a Nichtrest ist. So ist z.B. —-1
+quadratischer Rest aller Primzahlen der Form 4n—{—1 ‚ quadratischer N ichtrest
+aller Primzahlen der Form 4 η-Ι- 3 ; ferner -Ι- 2 ist quadratischer Rest aller Prim-
+zahlen der Form 8n÷1‚ Sn—{—7, hingegen quadratischer Nichtrest aller Prim—
+zahlen der Formen 872—1— 3, 8724- 5. Aehnlicher specieller Lehrsetze gibt es eine
+unendliche Menge‚ die sich aber alle aus der Verbindung der beiden angeffihrten
+

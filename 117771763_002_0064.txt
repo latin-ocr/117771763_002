@@ -1,0 +1,41 @@
+54 THEOREMATIS FUNDAMENTALIS IN DOCTRINA DE RESIDUIS QUADRATIGIS
+
+similique ratione etiam erit
+6÷y Ξ ÷(⁹12—1)(M-1)
+
+Iunctis omnibus numeris classium II, IV, Vl, manifesto habebimus omnes
+numeros infra {mM‚ qui alicui residuo ex F' secundum modulum M congrui
+sunt. Iidem vero numeri ita quoque exhiberi possunt:
+
+F', M-f- F'‚ 2M÷F‘‚ 3M-1-F'....—.3-<m-3)M-ff-F'
+unde omnium multitudo erit z: {On—1) <M—1), sive habebimus
+6÷6÷N Ξ ÷(m-1)(M—1)
+Perinde e iunctione omnium classium III, IV, VIII colligere licet
+7÷6÷n Ξ -11-(222—1>(M-1)
+Ex his quatuor aequationibus oriuntur sequentes:
+
+2α z: ‡(on—1)(M—1)—{-n-†-N
+
+26 :fflm—lssBI—NJ-kn--N
+27:71-(222—1M —1)—n—{-N
+23 =÷(m-—1)(M—1)—-n—N
+
+quarum quaelibet theorematis veritatem monstrat.
+
+3.
+
+Quodsi iam supponimUS‚ m et M esse numeros primOS‚ e ‘combinatione
+theorematis praecedentis cum lemmate art. 1 theorema fundamentale protinus de-
+manabit. Patet enim,
+
+1. quoties uterque m, M, sive alteruter tantum, sit formae 4Ιε-1- 1, nu-
+merum {On—1) (M-1) fore parem, adeoque η et N vel simul pares vel simul
+impareS‚ et proin vel utrumque m et M alterius residuum quadraticum, vel
+utrumque alterius non-residuum quadraticum.
+
+II. Quoties autem uterque m, M est formae 4lc-f- 3, erit 71-(m—1)(M-—1)
+impar, hinc unus numerorum n, N par, alter impar, et proin unus numerorum
+m, M alterius residuum quadraticum, alter alterius non-residuum quadraticum.
+
+Q. E. D.
+

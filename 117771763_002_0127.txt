@@ -1,0 +1,57 @@
+COMMENTATIO SECUNDA. 1 17
+
+Residua absolute minima.
+
+Ξ-ΐ-ηἱ σε’-ΗΜ ’ᾗ Ξ-Ι-ηἱ wrm 5÷ni aeq-312·
+
+ 
+
+ 
+
+ 
+
+ 
+
+-14— δι’ -2-2ῑῇ-4-1οί “mi-¹- 5— 22· -Η
+-13-ἦ-1ιι· -3-1- iff—3-4- 72: —1-1- iJ'-1- 6—14i -†-2—-2i
+—12— ι· —2- ιῇξ-ρ- 52· —z' -ι- 7-1- 32‘ -†-1-†- ι·
+-11—1322 -1-3ffi —1-1-122' —1—1—22’: -4- 8— 92· —{—2—-z'
+—¹0÷ 42· —2 0 0 {-}- 9-1- 82· -4-14-22·
+- 9—- sz· —1—22· -4-1—122· -1-1--22'4-10— 42· 42
+
+- 8-1- 9ι· -2—4— i1÷2÷ 52: 4- ist-Js-11-Q—13z' ÷1÷3i
+- 7- 32' —1—iiiq—3— 72· ÷1- ι ÷12÷ i-†—2-†-z'
+- 6-1-142: —2-4-2ii-4-4-1-10231 ÷2i2 -4-13—112· —1—3— ἰ·
+- 5-4- 22·- —1 ²! g3÷14÷ δι’ -†-2-{-22·
+
+ 
+
+ 
+
+ 
+
+Casum secundum, ubi α, b non sunt inter se primi, facile ad casum prae-
+cedentem reducere licet. Sit λ divisor communis maximus numerorum a, b, at-
+que a z: λα’, b z Ma'. Denotet F indefinite residuum minimum pro modulo λ,
+quatenus tamquam numerus complexus consideratur, i. e. exhibeat indefinite
+numerum talem ,νηὶ-μί, ut azy sint vel inter limites Ο et λ, vel inter hos
+—fflt et —ff—{Jx (prout de residuis vel simpliciter vel absolute minimis agitur):
+denotet porro F' indefinite residuum minimum pro modulo a'4-b'i. Tunc erit
+(a'÷b'i)F-†- F' indefinite residuum minimum pro modulo a÷bi‚ prodibitque
+systema completum horum residuorum, dum omnia F cum omnibus F' combi-
+
+nantur.
+
+46.
+
+Duo numeri complexi inter se primi dicuntur, si praeter unitates alios divi-
+sores communes non admittunt: quoties autem tales divisores communes adsunt,
+ii divisores communes maximi vocantur, quorum norma maxima est.
+
+Si duorum numerorum propositorum resolutio in factores primos praesto est,
+determinatio divisoris communis maximi prorsus eodem modo perficitur, ut pro
+numeris realibus (Disquiss. Ar. art. 18). Simul hinc elucet, omnes divisores com-
+munes duorum numerorum datorum metiri debere eorundem divisorem communem
+maximum hoc modo inventum. Quare quum sponte iam pateat, ternos numeros
+huic socios etiam esse divisores communes, semper quaterni numeri, et non plu-
+

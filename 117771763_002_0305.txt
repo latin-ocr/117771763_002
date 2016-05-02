@@ -1,0 +1,66 @@
+DE Nssxn mma MULTITUDINEM oLAssmu E'rc. 295
+
+9(m) fiir unendlich viele Werthe von m den Werth f (1) = 1 haben, und namentlich ftir alle diejenigen
+Werthe von m, welche kleiner sind als die zuletzt eliminirte Primzahl. Durch unendliche Fortsetzung
+dieses Processes nahert man sich immer mehr der Function s00(m), welche fiir alle Werthe von m den
+WVerth 1 hat, und deren mittlerer Werth folglich ebenfalls z 1 ist. Gelingt es nun den mittlern Werth
+irgend einer Function 0(m) durch denjenigen der nachstfolgenden 9⁷(m) auszudrfieken, so wird man auch
+den mittlern W erth der Funetion f (m) durch eine unendliche Kette von Operationen finden k6nnen.
+
+Ist p die Primzahl, durch deren Elimination 9¹(m) aus 9(m) entsteht, so ist 9(m) = 9'(m)f(p⁷'),
+wenn 1st wieder die hechste in m aufgehende Potenz von p bedeutet. Far den Fall, dass p nicht in
+
+21) aufgeht, findet man. hieraus leicht, dags
+
+θ’(ω) z 0(mp>— :fimo
+ἱεῖς setzt man zur Abkfirzung
+
+‹³0⁷2› = 0(1)÷0(2>† . . . ÷⁹(m)
+ω’(ω) 2 0‘(1)÷0‘(2)÷ . . . μαψ)
+
+so ergiebt sich
+ss'(mp) z &mmm—(1139) (3022)
+und hieraus, wenn man mit ω, ω’ resp. die mittlern VVerthe der Functionen 9(m), 9'(m) bezeichnet‚
+
+ω,
+ι-(ῑ-ἕῃὲ,
+
+W enn aber die Primzahl p in 21) aufgeht, so findet zwar zwischen den Functionen 9(m) und 9'(m) im
+
+m:
+
+ 
+
+Allgemeinen keinre so einfache Beziehung mehr Statt; indessen ergiebt sich auf ahnliche Art leicht, dass in
+diesem Fan ω z ω’ ist. Ein anderer Weg, die Beziehung zwischen ω und ω’ ἰῐι beiden Fallen abzulei-
+ten, ist folgender. Setzt man
+
+θυι) 2 y002>
+wo das Summenzeichen sich auf alle Zahlen μ bezieht, die nicht durch p theilbar und ausserdem nicht
+
+gresser als m sind, und bezeichnet man mit m', m'¹‚ m'''. ...resp die grbssten in ⁷3, Q, Έ- , , . euthal-
+
+tenen ganzen Zahlen‚ so ist P Ρ Ρ
+
+Θ(”ἠ z:&(nQ-f3(nff)f(p)÷-&0n”2f(pp)4-80nm)f(p³)4-, --
+ffl'(m) τ- Nm) 4- 3(m') ἦ- θ(φη” ) -1- θ(1η”’) -ὗ- . . .
+und hieraus folgt
+
+fi: (1--3)51÷÷f(1')÷f(²’²⁹) ΙΨ) ι ξ
+pp ρ’
+
+ 
+
+was mit dem eben gefundenen Resultat ubeleinstimmt (vergl. die Note zu ΙΙΙ und lv).
+Der mittlere Werth der Function f(m) ist daher gleich dem unendlichen Product
+1
+
+1—‹ssss›
+
+sl
+
+ 
+
+1
+F
+

@@ -1,0 +1,41 @@
+TnEomA RESIDUORUM BIQUADRATICORUM. COMMENTATlo PRIMA. 167
+
+lein die Unterscheidung, welcher dieser beiden Faue eintrete, ist eine Untersu-
+chung von viel heherer Art, und es werden dazu in der Abhandlung zwei ver-
+schiedene Criterien entwickelt.
+
+Das erste Criterium hangt mit der Zerlegung der Zahl p in ein einfaches
+und ein doppeltes Quadrat zusammen, die bekanntlich (da, wie sehon bemerkt
+ist. angenommen wird, dass p eine Primzahl sei> immer mssglich und nur auf
+Eine Art mbglich ist. Setzt man p z: 99-ξ-21ι1ι, so wird ss 2 ein biquadrati-
+schel· Rest von p, wenn 9 von der Form 8η-Ι-1 oder Sn—{-7, ein biquadrati-
+soher Nichtrest hingegen, wenn 9 von der Form 8n÷3 oder Suq—5 ist.
+
+Das zweite Criterium heingt zusammen mit der Zerlegung der Zahl p in
+zwei Quadrata die bekanntlich auch immer meglich und nur auf Eine Art meg-
+lich ist. Setzt man p z ee÷ff‚ und nimmt an, dass ee das ungerade, ff das
+gerade Quadrat bedeutet‚ so bringt sehon die vorausgesetzte Form von p Ξ 8n÷1
+mit sich, dass auch {f eine gerade Zahl wird, also f entweder von der Form
+Sm oder von der Form 8m÷42 im ersten Fan nun wird „422 biquadratischer
+Rest, im andern biquadratischer Niehtrest von p sein.
+
+Wir deuten hier nur die Bemerkung an, wozu die hb'here Arithmetik 8ο oft
+Gelegenheit gibt, dass nicht 8ο wohl die Schbnheit und Einfachheit der Theoreme
+selbst, als die Schwierigkeit ihrer Begrfindung sie vorzl‘iglich merkwfirdig macht.
+Sobald man einmal veranlasst ist, das Dasein eines Zusammenhanges zwischen
+dem Verhalten der Zahl ss 2 und den beiden angeffihrten Zerlegungen der Zahl
+p zu vermuthen‚ ist es {iusserst leicht‚ diesen Zusammenhang durch Induction
+wirklich zu entdecken. Allein sehon bei dem ersten Criterium ist der Beweis da—
+ffir nieht ganz leieht zu sumen, viel tiefer versteckt liegt er aber bei dem zweiten,
+wo er mit anderweitigen subtilen Hfilfsuntersuchungen innigst verkettet ist, die
+ihrerseits wieder zu einer merkwurdigen Erweiterung der Theorie der Kreisthei-
+lung ffihren. Diese wunderbare Verkettung der Wahrheiten ist es vorzfiglich.
+wate, wie man sehon oft bemerkt hat, der h6he1·n Arithmetik einen so eigenthl'im—
+lichen Reiz gibt. Diese Begrsindungen selbst vertragen fibrigens natsirlich hier*
+keinen Auszug, und mussen in der Abhandlung selbst nachgesehen werden. Al-
+lein ein paar andere neue arithmetische Theoreme‚ welche gleichfalls mit der Be—
+grsindung des zweiten Criterium innigst verbunden sind, verdienen wohl, ihrer
+Einfachheit wegen‚ hier noch besonders herausgehoben zu werden.
+
+VVenn p eine Primzahl von der Form 4k—1-1 istss und :2 ee—-ff—ff‘ge-
+

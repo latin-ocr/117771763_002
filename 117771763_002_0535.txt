@@ -1,0 +1,62 @@
+BEMERKUNGEN. 525
+
+Die von den Rechnern bis jetzt angewandten Arten zur Bestimmung von Ξ = (Ι) ,tent Gmss in
+
+der folgenden Uebersieht zusammen
+
+MAcmN (1) = 4(5)——(239) auch CLAst-:N
+
+Ennea = (2)-†—(3) (Eum-71³ ἐι GOLDBACH 1746 Mai 28)
+
+VEGA = 5(7) —4-2('-7{2) (VmA Thesaurus logar. p. 633)
+
+VEGA = 2(3) -l— (7) auch CLAUSEN (Astr. Nachr. B. 25. S. 209)
+Rmmmom) Ξ 4(5)-(70)-Ι-(99) (Philos. Trans. 1841. p. 283)
+
+DAsE τ- (2)—}- (5) ÷(8) (CRELLE Journal. B. 27. S. 198)
+GAUSS. 1. z 12 (18) ἦ- 8 (57) —— 5 (239)
+
+GAUss· 2· = 12(38) ψ 20 (57) 4- 7 (239) 4- 24(268)
+
+Die ersten Rechnungen fiir die Tafeln gehiiren der Zeit der Ausarbeitung der Disquiss. Arr. an,
+sie sind dann besonders in den Jahren 1846 und 47 geferdert. Am 21. Juli 1847 waren 2283 Zerlegungen
+nach der hier wiedergegebenen Ordnung in Tafeln gebracht, die &brigen 169 sind spater bereehnet‚ und
+ich habe sie diesem Abdruck (der sich vom Original in der Einriehtung nur durch die des leichtern Satzes
+wegen statt der IJotenzen angewandte Sehreibweise der Wiederholung der Factoren unterscheidet) mit ein-
+geordnet.
+
+Die Manuseripte mit diesen letzten Rechnungen scheinen die Resultate in der Form zu emh-alten,
+wie sie unmittelbar gefunden wurden. Die Reihenfolge‚ in weloher dabei die Zahlen a auftreten‚ lasst
+vermuthen , dass nur fiir die kleinern die Theiler von aa —l- 1 u.S. f. ausgesucht wurden, und dass die grbssern
+Zahlen sich aus diesen durch Anwendung besonderer Kunstgriffe ergeben haben. Aufgezeichnet ist aber
+nur folgende Regel: Aus drei Zahlen a, ιιι-η, 2a÷nfi2zdet sich eine vierte
+
+4a3—(nn—-Q
+
+nn†1
+
+ 
+
+Dt'ese ist immer eine {same Zahl sicr n = 0 und n = 1, sonst nur
+
+fiir a Ξ 0 und Ξ ᾗχί-Ι mod (nn 4- 1) wenn n yerade
+
+ 
+
+und fiir a Ξ 0 und Ξ ssxl— 1 modnnz'l— Ι wemz n anyer-ade
+Beispiele α = 253, n Ξ 6, 1750507
+α = 294, n = 11, 832902
+α = 119, n = 1, 3370437
+a Ξ 572 η = 32 74043
+a = 123, n = 9, 90657
+
+Zu der vierten Zahl gehiiren nemlioh keine andern Primtheiler als zu den ersten dreien und davon sind
+
+auch nur diejenigen ungeraden Primtheiler ausgeschlossen, welche der Zahl n zugehbren.
+
+Die Tabelle ‘Quadratorum myrias prima’ enthiilt in der Zeile der &hex-schrift die Tausende und
+
+Hunderte, in der ersten senkrechten Spalte die Zehner und Einer der Grundzahl semer in der letzten
+
+11. 82
+

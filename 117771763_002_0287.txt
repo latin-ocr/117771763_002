@@ -1,0 +1,44 @@
+Dr: NEXU mma MUL‘rrrUmNEM anssnm Ero. 2¹77
+
+2.
+
+Ad propositum nostrum opus erit theoremate per se quidem arithmetico,
+cuius tamen indolem commodius et clarius per considerationes in forma geome-
+trica exhibendas ob oculos ponere licet.
+
+Proposita in plano indefinito figura per lineam qualemcunque terminata, il-
+lius area approximative assignari poterit, si plano in quadrata dispertito multi-
+tudo tum eorum quae integra sunt intra figuram, tum eorum quae ambitus figurae
+secat, numeretur, manifestoque area justo minor vel maior prodibit, prout qua-
+drata posteriora vel omittuntur vel prioribus adnumerantur: si vero quadrata poste-
+riora in limine sita, ad normam qualiscunque principii, partim excludere partim
+adnumerare placuerit, error modo positivus modo negativus esse poterit, necessa-
+rio tamen minor quam aggregatum cunctorum quadratorum in limine. Quo mi·
+nora quadrata accipiantur, eo exactius hoc modo area determinabitur, talemque
+approximationem in infinitum producere sive quadrata tam parva accipere licebit,
+ut error quavis quantitate data minor evadat. Quod quamquam iam per se evi·
+dens esse videatur, tamen demonstratione rigorosa munire non aspernabimur.
+
+Bina quadrata vel unum punctum angulare, vel duo, vel nullum commune
+habere possunt3 in casu primo et secundo contigua, in tertio disiuncta dicentur.
+Manifesto quadrata, quae omnia inter se contigua sint, quaterna tantum exstant,
+adeoque inter quina quadrata diversa duo ad minimum disiuncta inveniri debent.
+lam quum distantia inter duo puncta in quadratis disiunctis sita nequeat esse mi-
+nor quam latus quadratorum, quod per a designabimus, patet, si punctum a
+quocunque alicuius quadrati loco profectum deinceps quadratum secundum, ter-
+tium, quartum traiecerit, tandem ad quintum pervenerit, longitudinem viae certe
+non esse minorem quam a. Et quum simili ratione si linea continuo alia qua-
+drata permeat, pars inter quadratum quintum et nonum. nec non inter nonum
+et decimum tertium eto. non possit esse minor quam a, facile colligimus, lineam
+
+quamcunque in se ipsam redeuntem. quae omnino n quadrata diversa attigerit,
+(η - 4)α
+
+certo non posse esse minorem quam --3-2 Vice versa itaque linea clausa,
+cuius longitudo est z l, certo plura quam 4-4—{l quadrata diversa attigisse
+non potest. Quorum area -τ 4αα-1-4αἰ quum decrescente a in infinitum qua-
+
+vis quantitate data minor fieri possit, idem a potiori valebit de errore quadraturae
+
+de qua supra diximus.
+

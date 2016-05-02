@@ -1,0 +1,44 @@
+COMMENTArio PR1MA. 85
+
+denotare multitudinem
+
+ 
+
+Signum solutionum congruentiae
+(00) 1-)-α-)-γ Ξ 0
+(01) 1-4-α-)-δ Ξ 0
+(02) 1-(-α-)-α’Ξ 0
+(03) 1-(-α-(-’ὅ Ξ 0
+(10) 1-)-ὄ«)-γ Ξ 0
+(11) 1454ss Ξ 0
+(12) 1-)-6-)-α Ξ 0
+(13) 1÷6÷6'3 0
+(20) 1-)-γ-)-γ’Ξ Ο
+(21) 1-)-γ-)-δ Ξ 0
+(22) 1-(-γ-)-α Ξ 0
+(23) 1-(-γ-·)-ὄ Ξ Ο
+(30) 1-)-δ-)-γ Ξ 0
+(31) 1-)-δ-)-δ’Ξ 0
+(32) 1-)-δ-(-α Ξ 0
+(33) 3 1-)-δ-)-ὅ Ξ 0
+
+unde statim habentur sex aequationes:
+(00) = (22), (01) z (32), (03) = (12), (10) Ξ (23), (11) :z (33), (21) z (30)
+
+Multiplicando congruentiam 1†a†y Ξ 0 per numerum γ’ e complexu G
+ita electum, ut fiat γγ’Ξ 1, accipiendoque pro γ” residuum minimum producti αγ’,
+quod manifesto quoque complexui O adnumerandum erit, prodit γ’ἦ- γ”-ὶ-1 Ξ 0.
+unde colligimus (00) = (20).
+
+Prorsus simili modo habentur aequationes (01) = (13), (03) z: (31),
+(10) z (11) z: (21).
+
+Adiumento harum undecim aequationum sedecim incognitas nostras ad quin-
+que reducere, schemaque S ita exhibere possumus:
+
+h, τ’, lc, l
+m, m, l, z· ¹
+h, m, h, m
+
+m, l, i, m
+

@@ -1,0 +1,38 @@
+326 NAcnnAss.
+
+[IL]
+VORBEREITUNGEN ZUR ALLGEMEINEN THEORIE
+DER BIQUADRATISCHEN RESTE.
+
+ 
+
+(1·)
+
+Es sei P: oe—4—2'31, wo weder a: noch y eine ganze zahl ist. Wir bezeich-
+nen die-Zahl -†-1 durch LP, L'P‚ L''P, L'''P, je naehdem P im ersten, zwei-
+ten, dritten oder vierten Quadranten liegt (im ersten und zweiten Quadranten ist
+[y] gerade, im dritten und vierten ungerade3 im ersten und vierten ist [m] ge-
+
+rade‚ im zweiten und dritten ungerade). In allen Fffllen, wo diese Zeichen nicht
+
+Ξ 1 sind, werden sie τε Ο vorausgesetzt. Man hat dann folgende 24 Relationen
+L(Pss1): L'P L(Pss2·) :z L'''P L(Pss1ss2) :z L‘'P
+L'(P——{-1):LP L‘(Pssz·) :L''P L'(Pss1ss2) :L‘''P
+L''(Pss1).—- L'''P L''(Pssi) z: L'P L''(Pss1ss2) z LP
+L'''4Pss1) z L''P L'''<Pssi) z LP L‘'‘OE ss1ssz) :z L'P
+
+LszLmP L(—P):LP L—iP)-—.=L'P
+
+LszLP L(—P):LP L —z‘P):-L''P
+
+LszL'P Ls—P) :LP L -z‘P):-L'‘'P
+
+LszLP Lss—P):LP Ls—iP):LP
+(2)
+
+Dure-h PP' oder z bezeichnen wir eine Linie. 'die von P anfiingt und in
+P' endigt. Sie braucht, nicht gerade zu sein. Wir legen allen geraden Linien
+von 2oe÷2273s nach Qoe—†—(2y —14—1J‘i gezogen (wo azy] indefinite alle ganzen zah-
+len bedenten) eine positive und eine negative {Seite bei3 frix· jene wfflssen wir die
+mahte, fiir diese die linke. Dnrch Τι’ bezeichnen wir die Anzahl aller Sehnitte
+

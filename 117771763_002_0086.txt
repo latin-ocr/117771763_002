@@ -1,0 +1,43 @@
+76 TnnoniA Rusinuonun BiQUADRA'rioonUM.
+
+1 3.
+
+Si exempla art. praec. inter se comparantur, vprimo saltem aspectu criterium
+nullum simplex se offerre videtur, per quod modulos priores a posterioribus digno—
+scere liceret. Nihilominus (leco huiusmodi criteria dantur, elegantia et simplici—
+tate perinsignia, ad quorum alterum considerationes sequentes viam sternent.
+
+Modulus p, tamquam numerus primus formae 8η-1-1, reduci poterit, et
+quidem unico tantum modO, sub formam aa—l- 2hb (Dz'sqm'ss. Arithm. art. 182, II);
+radices a, b positive accipi supponemus Manifesto a impar erit, b vero par;
+statuemus auten] b Ξ 2)*(3, ita ut c sit impar. Iam observamus
+
+Ι. quum habeatur J) Ξ aa(mod. c), ipsum p esse residuum quadraticum
+ipsius c, et proin etiam singulorum factorum primorum, in quos c resolvitur: vi-
+cissim itaque, per theorema fundamentale‚ singuli hi factores primi erunt residua
+quadratica ipsius J), et proin etiam illorum productum c erit residuum quadrati-
+cum ipsius J). Quod quum etiam de numero 2 valeat, patet, b esse residuum
+quadraticum ipsius p, et proin bb, nec non —hb‚ residuum biquadraticum.
+
+ΙΙ. Hinc »- 2ὂῦ ad eandem classem referri debet, in qua. invenitur nume-
+rus 2· quare quum αα- {T —2bb‚ manifestum est, 2 vel in classe A, vel in
+classe C inveniri, prout (ι sit vel residuum quadraticum ipsius p, vel non-resi-
+duum quadraticum.
+
+III. Iam supponamus, (ι in factores suos primos resolutum esse, e quibus
+ii, qui sunt vel formae Sm—l—1 vel Sat—ld, denotentur per α, α’, α” etc„ ii vero,
+qui sunt vel formae Sm—l-‘3 vel 87η-4-5, per ὅ, δ’, δ” etc: posteriorum mul-
+titudo sit :z μ. Quoniam 2) Ξ 2 bb (mod. a), erit p residuum quadraticum eo-
+rum factorum primorum ipsius a, quorum residuum quadraticum est 2, i. e. fac-
+torum α, α’, oc''etc.; non-residuum quadraticum vero factorum eorum, quorum
+non-residuum quadraticum est 2, i. e. factorum ὅ, δ’, (Veto. Quocirca, vice versa,
+per theorema smidamentale, singuli α, α’, α” etc. erunt residua quadratica ipsius
+st, singuli ὅ, δ’, 6''etc. autem non-residua quadratica. Ex his itaque concludi—
+tur, productum α fore residuum quadraticum ipsius p„ vel non-residuum, prout
+μ par sit vel impar.
+
+IV. Sed facile confirmatur, productum omnium α, α’, α” etc. fieri formae
+Son-kl vel Sm—f—7‚ idemque valere de producto omnium ὅ, δ’, δ” eto, si ho-
+rum multitudo suerit par, ita ut in hoc casu etiam productum a necessario fieri
+debeat formae 8m÷1 vel Sm-l— 7 ;“ contra productum omnium ὅ, δ’, 6''etc.‚ quo-
+

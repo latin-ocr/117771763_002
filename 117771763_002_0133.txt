@@ -1,0 +1,65 @@
+οοΜΜΕΝΤΛΤιο SECUNDA. 123
+
+Demonstr. Si t non esset divisor ipsius u, sit qt multiplum ipsius u pro-
+xime maius quam u, adeoque ,φτ-τι integer positivus minor quam t. Ex
+kt Ξ 1, ku Ξ1, sequitur 0 Ξ lew—ku Ξ k“(k⁹²³-²⁴-1)‚ adeoque lest-‘⁶ Ξ 1,
+i. e. datur potestas ipsius k cum exponente minori quam t unitati congrua, con-
+tra hyp.
+
+Tamquam corollarium hinc sequitur, t certo metiri numerum p—1.
+
+Numeros tales k, pro quibus t Ξ p—1 ‚ etiam hic radices primitivas pro.
+modulo m vocabimus: quales revera adesse iam ostendemus.
+
+53.
+Resolvatur numerus Ρ- 1 in factores suos primos, ita ut habeatur
+
+p—1 Ξ.- ααόὅσῖ . . ..
+
+designantibus a, b, c ete. numeros primos reales positivos inaequales, Sint
+A, B, C ete. integri (complexi) per m non divisibiles, atque resp. congruentiis
+p—1 p-—l p-l
+
+wa Ξ1,α7 Ξ1,ευῡΞ16ῖο.
+
+ 
+
+ 
+
+secundum modulum m non satisfacienteS‚ quales dari e theoremate art. 50 mani—
+
+festum est. Denique sit h congruus secundum modulum m producto
+
+p—1 p—-1 p—-1
+A αα B-ffl‘ O σγ .. .
+
+ 
+
+ 
+
+Tunc dico, Ιι fore radicem primitivam.
+
+Demonstr. Denotando per t exponentem infimae potestatis ht unitati con-
+gruae, erit, si lz non esset radix primitiva, t submultiplum ipsius p—-l‚ sive
+Ρ-ἰὲἷ integer unitate maior. Manifesto hic integer factores suos primos reales in-
+ter hos a, b, c etc. habebit: supponamus itaque, (quod licet), Ρ Τ
+bilem per a, statuamusque p-—1 Ξ atu. Erit itaque, propter ht Ξ 1, etiam
+
+esse divisi-
+
+ 
+
+hta Ξ 1 sive
+p—1 p——i p—1·p—1 p—¹·P-1
+
+Aaoe a 137,ss- a ουν α :11
+
+ 
+
+ 
+
+At manifesto ‘'a—{5¹ est integer, adeoque
+
+perinde etiam
+1 6 ²*
+

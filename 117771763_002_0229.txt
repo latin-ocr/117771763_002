@@ -1,0 +1,52 @@
+msomsmonas GENERALES DE consumemus. 219
+
+sunt. Remaneantque λ, λ’, λ”. .; μ, μ’, μ”, . . . eritque μ ad λ, λ’, λ” etc. prima,
+quare etiam ad productum λλ’λ” etc.; tamen esse debet
+λλ’λ”. . Ξ μμ’μ”. . i. e. Usu}— Ξ μ’μ”. . Q. E. A.
+341.
+
+Primum caput harum investigationum in eo consistet, ut functionum pri-
+marum cuiusvis dimensionis multitudinem determinemus, Quoniam enim pro
+modulo determinato numerus omnium functionum diversarum (incongruarum) cu-
+iuslibet gradus est definitus ex his vero aliae sunt ex primis inferiorum graduum
+compositae, aliae primae, etiam harum numerus finitus erit. Rigor-osa huius rei
+
+evolutio satis est lubrica; a casibus simplicioribus incipiemus.
+
+t
+
+Posito modulo ΞΡ, numerus omnium functionum diversarum ni gradus
+
+huius formae
+oen 4- Αω”“1 -ξ- Exn—² -1- Off* -ἱ- etc.
+
+erit p'²; coe'fficientium enim-A, B. C etc. numerus est n; et quum quivis inde-
+pendenter a reliquis possit esse Ξ Ο, 1, 2, 3 . . (p—1)(mod.p). ex combinatio-
+num theoria sequitur, pn combinationes diversas haberi; quae igitur omnium
+functionum diversarum huius gradus complexum definiunt.
+
+Ita functiones unius dimensionis erunt p, scilicet αι’, αι’-ὶ-Ῑ, oe÷2 usque ad
+oe—1—p———13 functiones duarum dimensionum pp eto.
+
+342.
+
+Iam supra monuimus, omnes functiones primi gradus pro primis habendas
+esse; si igitur, quod ad propositum nostrum sufficit. ad eas functiones nos re-
+stringamus, quarum terminus summus habet coe'fficientein 1. erunt p functiones
+primi gradus seu unius dimensionis.
+
+Functiones secundi gradus omnes aut e binis primi gradus erunt compositae
+aut primae. Iam ex combinationum theoria constat, p res diversas admissis repe-
+
+titionibus &5²33ss modis diversis combinari posse, quare totidem functiones erunt
+
+²⁰·¹²{}5—¹ Ξ {tw—1²)
+
+ 
+
+e binis primis unius dimensionis compositae, adeoque pp·—
+
+functiones primae duarum dimensionum.
+
+28*
+

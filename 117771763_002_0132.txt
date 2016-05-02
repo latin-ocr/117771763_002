@@ -1,0 +1,42 @@
+122 'minoem REsmnoRmr BIQUADRA'rlcORUM.
+
+5 1 .
+
+Quae in Sectione tertia Disquisitionum Arithmetz'carum circa residua potesta-
+tum tradita sunt, ad maximam partem, levibus mutationibus adhibitis, etiam in
+arithmetica numerorum complexorum valent: quinadeo demonstrationes theore-
+matum plerumque retineri possent. Ne tamen quid desit, theoremata principalia
+demonstrationibus concisis firmata proferemus, ubi semper subintelligendum est,
+modulum esse numerum primum.
+
+THEOREMA. Denotante k inteyrum per modulum m, cuius norma z p, non
+divisibilem, crit lcP'*¹ Ξ 1 (φηοιίωι).
+
+Demonstr. Constituant a, b, c etc. systema completum residuorum incon-
+gruorum pro modulo m, ita tamen, ut residuum per m divisibile omissum sit,
+adeoque multitudo illorum numerorum, quorum complexum denotamus per O,
+sit :tp—l. Sit porro C' complexus productorum lca, leb, lec etc. Ex his pro-
+ductis per hyp. nullum erit divisibile per m, quare singula habebunt residua con-
+grua in complexu C, puta fieri poterit alc Ξ α’, bk Ξ δ’, ck Ξ c' etc. <mod.m>‚
+ita ut numeri α’, ff, c' etc. ipsi in complexu C inveniantur: denotemus com-
+plexum numerorum α’, b'. c' etc, per C''. Sint P, P'‚ P'' producta e singulis
+
+numeris complexuum C, C', C'' resp, sive
+
+P :s abc . . ..
+P' Ξ lcP-1abc. . . , = ΙςΡ-ῙΡ
+''= a‘b'c‘ . . . .
+
+Quum numeri complexus O'' deinceps congrui sint numeris complexus δ’, erit
+P‘' Ξ Ρ’ sive Ρ”Ξ k2'“¹ P. At quum facile perspiciatur, binos quosvis numeros
+complexus O'‘ inter se incongruos, adeoque omnes inter se diversos esse, neces-
+sario numeri complexus O'' cum numeris complexus C prorsus conveniunt, or-
+dine tantummodo mutato, unde fit P'':: P. Erit itaque (lcP‘¹-1)P numerus
+per m divisibilis, unde, quum m sit numerus primus singulos factores ipsius P
+non metienS‚ necessario kP-¹—1 per m divisibilis esse debebit. Q. E. D.
+
+52,
+THEOREMA. Denotante lc, ut in art. praec. , inteyrum per modulum m non di-
+visibilem, atque t exponentem minimum (praeter 0), pro quo kt} 1 (mod. m), erit t
+divisor cuiusvis alius exponentis u, pro quo ku Ξ 1 (mod. m).
+

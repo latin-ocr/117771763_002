@@ -1,0 +1,42 @@
+213 ΝΑΟΗιΑεε. ANALYsrs Rsssmuonum.
+
+luissemus, omnes nostras disquisitiones sequentes incomparabiliter contrahere li-
+cuisset: sed nihilominus maluimus omnia ex principiis deducere ²¹⁸).
+
+339.
+F unctiones secundum modulum determinatum primae vocantur, quae per
+nullas functiones inferiorum dimensionum secundum hunc modulum dividi possunt.
+Ita omnes functiones unius dimensionis erunt primae, functiones autem dua·
+rum dimensionum aut erunt primae aut ex binis unius dimensionis compositae:
+quare Ξ erit functio prima duarum dimensionum, si congruentia ξΞ Ο nullas
+radices reales admittit. Ex. gr. oeoe÷oe÷1 pro modulo 5 est prima, quia
+
+«τω-μανψ] Ξ (oe--2)²— 3 (mod. 5)
+
+et 3 non-residuum quadraticum numeri 5.
+
+Hae vero functiones primae prae omnibus attentionem nostram desiderant.
+Quamvis enim aliae quam primi gradus ad inveniendas radices reales inservire non
+possint, amplior earum consideratio tum ob insignes ipsarum proprietates tum ob
+
+alias egregias veritates ex his deducendas sese commendat.
+
+340.
+
+THEOREMA. Functio quaecunque aut est prima aut ece functionibus primis com-
+posita3 posteriorz'que casu ‘emico tantum modo e functionibus primis componi potest.
+
+Demonstr. Nisi enim functio proposita A sit prima, per aliam inferioris
+dimensionis B dividetur. Si B non est functio prima, per aliam O inferioris
+gradus dividetur, itaque pergendo patet, tandem ad functionem primam deveniri.
+quoniam alias haec series foret infinita, quod, quoniam dimensiones perpetuo de·-
+crescunt, absurdum est. Jam si ultima functio prima sit L, haec omnes antece-
+dentes metietur. Quare A Ξ LA' eritque A' inferioris dimensionis quam A.
+Quod iterum fiet Α’Ξ L'A‘' etc.‚ patet, tandem ad functionem primam perveniri,
+adeoque A erit Ξ producto e functionibus primis L, L', L''etc. ·Q. E. Pr.
+
+Iam si etiam esset A Ξ MM'M'' etc. neque omnes L, L'‚ L''etc. eaedem
+cum omnibus Μ M', M '' etc.‚ eiiciantur eae, quae utrique seriei communes
+
+*) Alia forsan occasione de hac re opinionem nostram fusius explicabimus.
+

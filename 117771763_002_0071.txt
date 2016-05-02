@@ -1,0 +1,43 @@
+DEMONSTRATIONES ET AMPLIATIONES NOVAE. 61
+
+6. Numerus 5 est non-residuum quadraticum numeri 103 (theor. fund. et 5).
+
+7. Numerus 2 est non-residuum quadraticum numeri 5 (theor. III).
+
+8. Numerus 7 est non-residuum quadraticum numeri 5 (Ι et 7).
+
+9. Numerus 5 est non-residuum quadraticum numeri 7 (theor. fund. et 8).
+10. Numerus 103 est non—residuum quadraticum numeri 7 (1 et 9).
+
+11. Numerus 7 est residuum quadraticum numeri 103 (theor. fund. et 10).
+12. Numerus 70 est non-residuum quadratioum numeri 103 (II, 1, 6, 11).
+13. Numerus 379 est non-residuum quadraticum numeri 103 (I et 12).
+14. Numerus 103 est residuum quadraticum numeri 379 (theor. fundet 13).
+
+In sequentibus brevitatis caussa utemur signo in Comment. Gottiny. Vol. XVI
+introducto. Scilicet per [α’] denotabimus quantitatem ευ ipsam, quoties ευ est in-
+teger, sive integrum proxime minorem quam «υ, quoties α] est quantitas fracta, ita
+ut oe—v-[oe] semper fiat quantitas non negativa unitate minor.
+
+3.
+PROBLEMA. Denotantibus (ι, b intefflvs positivos inter se primos, et posito
+[ᾗ a] :z a', invenire ayyreyatum
+
+[}]÷[²{’]÷ [ἕΉ [ῗΗ etc· Ηῖ-ὂ]
+
+SOL. Designemus brevitatis caussa huiusmodi aggregatum per 2p(a‚b)‚ ita
+ut etiam fiat
+
+φ<ὂά) ; [Ἠ-ἱ-[ἳῖαἩΙ-[ἒἽ-Ι- etc. -i-[Z'gi]
+
+si statuimus [ff] Ξ b'. In demonstratione tertia theorematis fundamentalis osten-
+sum est, pro casu eo, ubi a et b sunt impareS‚ fieri
+
+φία, b) ΔΓ φῶ, α) == a'b'
+
+facileque eandem methodum sequendo veritas huius propositionis ad eum quoque
+casum extenditur, ubi alteruter numerorum a, b est impar, uti illic iam addigita-
+vimus. Dividatur‚ ad instar methodi, per quam duorum integrorum divisor com-
+munis maximus investigatur, a per b, sitque ’ὅ quotiens atque c residuum; dein
+dividatur b per c et sio porro, ita ut habeantur aequationes
+

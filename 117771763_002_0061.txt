@@ -1,0 +1,45 @@
+DEMONSTRATIONES ET AMPLIATIONES N OVAE. 51
+
+THEOREMA TIS FUNDAMENTALIS IN THEORIA RESID UOR UM Q UADRA TIOOR UM
+DEMONSTRATIO QUINTA. '
+
+1 .
+
+Iu introductione iam declaravimus, demonstrationem quintam et tertiam ab
+eodem lemmate proficisci, quod commoditatis caussa, in signis disquisitioni prae-
+senti-adaptatis hoo loco repetere visum est.
+
+LEMMA. Sit m numeras primas (positivus impar), M inteqer per m non divi-
+
+sibili& capiantur residua minima positiva numerorum
+
+M, ΞΜ, 3Μ, 4M ....... ion-mn
+
+secundam modulam m qaae partim erant minora quam ἔφη, partim maiora: poste-
+riorum multitado sit :- η. Tunc erit Μ residuum quadraticam ipsim m, vel non—
+residaam, prout n par est, vel impar.
+
+DEMONSTR. Sint e residuis illis ea, quae minora sunt quam {m haec a‚b‚c,d
+eto, reliqua vero, maiora quam ἔφη, haec α’, b', ε’, d' eto. Posteriorum comple-
+menta ad m, puta m—-a'‚ m—b', m—-c', m——d' eto. manifesto cuncta minora
+erunt quam {ms atque tum inter se tum a residuis a, b, c, d eto. diversa, quam-
+obrem cum his simul sumta, ordine quidem mutam, identica erunt cum omnibus
+
+numeris 1, 2, 3, 4 . . . . Ἶἔφη-1). Statuendo itaque productum
+1.2.3.4.....÷(m—-1):P
+erit
+P z: abed. . . . >< (m—a')(m—b')(m-—c')(m—d') . . . .
+adeoque
+(-1)⁷²P z abed . . . . >< (a'—m)(b'—-m)(c'-m)(d'—m) . . ..
+
+Porro fit, secundum modulum m,
+PM{(m—¹) Ξ abed.. >< a'b'c'd'.. Ξ abed.. >< (a'—-m)(b'—m)(c'—m)(d'-—m)..
+adeoque
+PM‘2*(⁷²²-¹) Ξ P(-1>n
+
+Hinc Mam—¹) Ξ ss1, accepto signo superiori vel inferiori, prout n par est vel
+impar, unde adiumento theorematis in Disqaisitz‘onibus Aritkmeticz's art. 106 de-
+
+monstrati lemmatis veritas sponte demanat.
+7 ὴὲ
+

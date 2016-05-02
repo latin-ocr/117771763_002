@@ -1,0 +1,42 @@
+mstsrmoNEs GENERALES DE coNoRUEN'rns. 215
+
+habeat i. e. ad numerum‚· hoc autem casu functiones A, B communem divisorem
+non habent.
+
+Demonstr. Si divisor E functionem praecedentem sine residuo dividat,
+omnes antecedentes dividere facile perspicitu1·; quare E erit divisor communis
+functionum A, B. Q. Ε. Pr. Si autem daretur divisor maioris dimensionis, puta
+E'‚ hic propter ΟΞ Α-αΒ etiam O similique argumento etiam D eto. adeo-
+que ,Ε divideret, functio maioris dimensionis functionem minoris. Q. E. A. Q. E.
+Sed. Hinc etiam patet, si divisor communis ullius dimensionis datur, ad resi-
+duum nullius dimensionis perveniri non posse3 alias enim functio nullius dimen-
+sionis per functionem alicuius dimensionis divideretur. Q. E. A.
+
+335.
+THEOREMA. Sa· A, B sint functiones inter se primae secundum modulum p;
+A antem dimensionis α, Β dimensionis ὄ; inveniri poterunt functiones P, Q, di-
+mensionum quae sunt respective <ὄ, <α, ita ut
+
+PA÷ QB 3 1 (mod.p)
+Demonstr. Hoc enim casu erit
+
+ΑΞαΒ-ὶ-Ο, ΒΞόΟ-ὶ-Β, ete. K3kL÷M
+
+ita ut dimensiones functionum A, B, O, D, . . K, L, M continuo decrescant et,
+M nullam dimensionem habeat. Iam formentur series
+
+a, a a ‚ a''', a(⁷')
+1, b z> b'', {kk-¹)
+ita ut
+α’ Ξ ὂα-1-1 α” Ξ σαῖ-ἦ-ιι α”’ Ξ ἀεί’-1- α’ etc.
+b‘3 οὔῆ-1 b'' Ξ db'-1—b b''' Ξ eb''—{—b' etc.
+eritque
+
+A-aB Ξ -Ρ-Ο, bA—-a'B 3 —D, b'A-a''B 3 ÷E, etc.
+
+uti sine negotio perspicitur3 hinc tandem
+
+b<²-1)A- ΜΒ 3 ssM
+
+Iam sit 4—¹-M 3 μ, eritque ponendo P 3 ubst-¹), Q 3 ——32a(²)
+

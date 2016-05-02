@@ -1,0 +1,43 @@
+DisQU1s1r10NuM CIRCA AEQUATIONES PURAs mammon Evonu‘rlo. 251
+
+siquidem r et R radices ab 1 diversas exhibere supponuntur, et proin semper
+e :z Vn (Disq. arithm. art. 360 fin.).
+
+1 Ο.
+
+Hactenus disquisitionem nostram summa generalitate instituimus ‚ ut valo·-
+res quoscunque numerorum α, ὅ, γ complectatur: abhinc vero ad casum magis
+limitatum, ubi α -.- 1, transibimus, qui ad disquisitiones foecundissimas et ele-
+gantissimas viam nobis sternet. Exprimet itaque signum [r.R] functionem
+
+r-}-R 2·⁹-{-R²2·9²-†- R3r9³÷ etc. ÷Rn-2Y9⁷²-²
+
+ubi n est numerus primuS, r indefinite radix aequationis ‹vn—1 z Ο (radice 1
+non excepta), R indefinite radix aequationis oeg—w1 z Ο, denotante ὅ divisorem
+datum ipsius n—1‚ denique 9 integer, qui est radix primitiva determinata pro
+modulo n. Porro brevitatis caussa scribemus
+
+1-1- r -1- r² —†- r³ —{— etc, -ἦ- φ·”’”-Ῑ z 3
+1÷R÷R2÷R³÷ etc. ÷R²2-2 z s
+
+unde patet s fieri z n pro r z: 1, sed s :z 0 pro quovis alio valore ipsius r,
+et perinde S z n—1 pro R z 1, sed S z: Ο pro quovis alio valore ipsius R.
+
+Per art. 3 itaque habemus [1‚R] --- S. [φη 1] z s—-1; porro pro quovis
+valore integri m per n non divisibili [rm‚R] z R—indm[r‚R]‚ aut generalius
+[rm’RM] z: R-Mindmffl RM]‚ ubi indm est exponens potestatis numeri 9 secun-
+dum modulum n ipsi m congruae. Applicando hanc transformationem ad ea,
+
+quae in art. 5 docuimUS, sequitur, productum e duabus pluribusve functionibus
+talibus [rh’RH] reduci ad formam hanc
+
+A[1‚R>=]÷B[r,Rl]
+
+ubi A et B erunt furctiones rationales ipsius R cum coe'fficientibus integris, at-
+que λ aggregatum omnium valorum ipsius H. Magni momenti erit, huiusmodi
+transformationes ad algorithmum expeditum reducere. ad quem finem imprimis
+indoles producti e duabus functionibus propius nobis consideranda erit.
+
+1 1.
+Productum [r‚ Rr] >< [vn R2] per theorema art. 4 fit :z
+

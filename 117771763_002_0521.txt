@@ -1,0 +1,39 @@
+NACHLAss. sEc'rio OCTAVA. 511
+
+posueramus, sed etiam, quod multo adhuc gravioris erat momenti, szynum quan—
+titatis radicalis indefinitum reliquimus, seu potius hanc determinationem paucis
+addigitatam demonstratione solida fulcire negleximus. Hos itaque defectus ante
+omnia supplere oportebit. ’
+
+369.
+
+Jam sit itaque η numerus integer positivus quicunque, R radix aequa-
+
+tionis „vn—10: Ο talis, cuius nulla potestas inferior quam ηῐὶὶ unitati aequa-
+
+lis fiat (V. art. 359, IL), designemusque per [λ] ‚ ut in Sect. VII potestatem R7‘,
+ita ut [Ο] z 1, [1], [2], [3] . . . . [qa—1] omnes radices aequationis ⁴z’⁷²—1 Ξ 0
+exhibeant. Porro denotemus aggregatum
+
+[0]÷[1]÷[4]÷[9]÷. . ..ψ [οι-ψ] per Σω]
+et generamus -
+[0]÷[NJ÷[4NJ÷[÷>NJ . -- .÷[i<n-*1>²] per Σωλ]
+
+ita ut Q indefinite quadrata numerorum Ο, 1, 2, 3 . . . ,n—-l indicet. Patet igi—
+tur, sicut generaliter est [λ] z [μ], si λ, μ sunt integri quicunque (positivi seu
+negativi) secundum n congrui, ita etiam fore E[D)k] 2: QQQ, si λ Ξ μ. His
+
+ita praeparatis habemus sequens.
+
+370.
+PROBLEMA. Productum e duobus ayyreyaffis 2[Q] et 2[—D] assiynare.
+Solutio. Quum sit nn Ξ Ο, (n†1)² Ξ 1, (η-Ι-2)2Ξ 4 etc. (modat), facile
+patet fieri Z[Q]
+
+etc. aut generaliter
+
+Ξ [kk] -l- [(lc-{-1.>²] -l- i<k÷ 2)²] -l- [OE-l- 3)²l ····· ΔΓ [(ῃ -l- k—1)²]
+
+Hinc [—kk]><2[o]
+Ξ [0] ÷[2k-{-1]÷[4k÷4]-{-[6k÷9] . . . ..÷[(n—-1)²÷2(n—1)k]
+

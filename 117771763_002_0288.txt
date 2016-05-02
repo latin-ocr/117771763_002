@@ -1,0 +1,53 @@
+278 NACHLASS.
+
+3.
+
+Principium admissionis vel exclusionis quadratorum in limite figurae posi-
+torum multis modis diversis condi posset: simplicissimum tamen videtur, tantum-
+modo situm centri cuiusque quadrati respicere, ita ut admittantur quadrata, quo-
+rum centra sunt intra figuram ‚ excludantur ea, quorum centra sunt extra figuram,
+denique arbitrio relinquatur, utrum centra, quae forte in peripheria ipsa sunt, in-
+terioribus vel exterioribus adnumerare malimus. Loco centrorum etiam quaevis
+alia puncta in singulis quadratis similiter sita adoptare possemus.
+
+Hoc pacto res eo redit, ut in plano puncta aequidistantia etin rectis ae-
+quidistantibus ita disseminata concipiamus, ut quadrata offerant: quo facto per
+theorema art. praec. affirmare possumus, multitudinem punctorum in figura con-
+tentorum in quadratum distantiae binorum punctorum proximorum multiplicatam
+areae figurae quam prope velis aequalem evadere, si modo distantia ista satis parva
+accipiatur, sive ad instar vulgaris loquendi modi, productum illud aream exhibere,
+si distantia sit infinite parva.
+
+4.
+
+Curva per aequationem inter coordinatas orthogonales p, q hancce
+app÷2bpq÷0qq 2=1
+
+expressa, est sectio conica, et quidem ellipsis, si a, c atque ac——bb sunt quan-
+
+„ . Valor
+quantitatis app—l—2bpq—l—cqq extra ellipsem ubique fit maior qviica‘in— {²1⁶3 intra el-
+lipsem minor quam 1, negativus nullibi.
+
+n·-
+
+titates positivae: area hac ellipsi circumscripta invenitur ,Ξ
+
+ 
+
+Concipiatur systema punctorum per planum, in quo ellipsis sita est, ita dis-
+seminatorum, ut forment quadrata, quorum latera z λ axibus coordinatarum
+sint parallela, ubi nihil refert, utrum initium coordinatarum sive centrum ellipsis
+cum aliquo horum punctorum coine-idat necne. Sit multitudo punctorum intra
+ellipsem, adnumeratis si quae sunt in ipsa peripheria, z m, eritque per theo-
+
+rema art. praec. >affin—bb) limes quantitatis mii, ad quem quam prope velis ac-
+
+ 
+
+cedit, decrescente λ in infinitum.
+
+Si initium coordinatarum cum aliquo systematis puncto coincidere suppo-
+nimus, statuendo p 2: λα’, q z λῃ, manifesto pro singulis punctis systematis α’
+et y erunt numeri integri, et vice versa quaevis combinatio valorum integrorum
+

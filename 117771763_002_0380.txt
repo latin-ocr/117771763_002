@@ -1,0 +1,48 @@
+3 70 NAanAss.
+
+κ” mit mi, κ”’ mit ms, κ mit mum, λ’ Glieder u. 8. w. Es sei ε der kleinste Rest
+von N-}-·2)»''—†- 3λ’” nach dem Modulus 4, oder ε eine der viel· Zahlen O, 1, 2, 3,
+je nachdem λ’-4-2λ”-1ρ-3λ”’ von der Form 4η, 4η-ᾔ-1, 4η-ὶ-2, 4n÷3 ist. Ich
+behaupte nun. dass ε von der Anordnung des Viertelsystems κ unabhiingig ist.
+
+Um die Beweisffihrung zu erleichtern‚ bediene ich mich folgender Bezeich-
+nung. 11ss soll die zahl Ο, 1, 2. 3 bezeichnen, je nachdem die durch μ nicht.
+theilbare zahl ᾧ sich (selbst oder durch Congruenz Repriisentation) in der Gruppe
+κ, κ’, κ”, κ” befindet. Von selbst hat man daher die Folge
+
+I. Πζίψ) Ξ 1-ὒ-ΠψζηιοᾶΑ).
+
+Π. Die Zahl ί-Πψηῲ findet sich, entweder selbst oder durch Congruenz
+
+Repriisentation in der Gruppe κ.
+III. ΣΠφηφ Ξ ε, (mod. 4), wenn die Summation tiber alle in κ befindliche
+
+Glieder φ erstreckt wird.
+Es sei nun lc ein anderes Viertelsystem, bestehend aus f,f'‚f''u.s.w.‚
+xviihrcud κ aus φ φ’, φ”ι]. sav. besteht. Ich setze voraus, was erlaubt ist, da die
+
+Orclmmgs der Glieder in κ willktirlich, dass f mit φ identisch oder zusammen-
+hiingend ist, f' mit (ρ’, f'' mit ‘4¹‘ u. S. w. Die mit lc zusammenhz'ingenden Vier-
+telsgruppen scien [ε’(Ξ ilc), m} ——lc)‚ mg ——ilc). Es habe ferner die Cha-
+rakteristik l' in Beziehung auf die Gruppen lc, ld, last, lc''' dieselbe Bedeutung wie
+Ι] in Beziehung auf κ, κ’, κ”, κ”’, so dass Ρψ ε·- Ο, 1, 2, 3, J'e nachdem ψ zu
+k. k', ls''‚ [ιμ’ gehbrt.
+
+Es wird demnach‚ wenn man von der Vertheilung der χ in die Viertelsy-
+sterne lc, [τ’. lc', W anstatt von κ, κ’, κ”, κ”’ ausgeht, an die Stelle von ε treten
+der kleinste Rest von me—f-me'÷me''—{-me'''u.s.w. u s.w. oder von {2me
+nach dem Modulus 4 und es handelt sich, zu beweisen, dass EPms—ZHmcp
+
+durch 4 theilbar ist.
+Wir schreiben diese G1·6sse 8ο
+
+me -4- me'†me''—{—me'''—{- u. S.w.
+-szp — szp'——Pm2p''- szpm—
+
+÷Pm2p—†-Pm<p'—†—Pm<p''-†—szpm—{—
+—ngo — Hmzp'—qu>''—Hmzp'''—
+
+Da der Voraussetzung nach s und φ congruent sind oder zusammengehbrem 8ο
+
+gilt dasselbe auch von mf und φηψ und man hat
+

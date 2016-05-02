@@ -1,0 +1,54 @@
+zust THEORIE ΗΕΒ BIQUADRATISCHEN RESTE. v. 367
+
+[w]
+
+Die 128 Ffflle, welche in obiger Tafel bei der Bestimmung von ψ unter-
+sehieden sind, lassen sich viel ksirzer auf folgende Weise umfassen:
+
+r! z k ἶ
+
+Z· --· ——Z wenn zugleich a, A, α, b, B, ὅ die Zeichen -1- -Ι- -}- -— ——- -
+haben, sonst immer “
+
+k· z Ο
+
+-2b(M—-1) gel-ade {stne—el) gerade l: -ὶ-4, wenn AB& positiv
+—4 ‚ wenn AB& negativ
+0, in allen iibrigen Fauen
+
+ 
+
+{UBI-4) gerade »ΗΜ-1) ungerade l: -4, wenn A negativ
+Ο, Wenn A positiv
+
+ἐμή-’1) ungerade »ΗΜ-1) gerade l: 0
+
+.3.<M--1> ungerade ἐφη-1) ungerade l: ,—2
+
+Zu versuchen ist noch, ob es vortheilhafter ist, A und a positiv‚ dagegen
+aber m Ξ 1, M} 1 nur nach mod. 2 (nicht nach Modulus 2†2i) zu nehmen.
+
+Das Endresultat muss werden
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Dec. 3⁷}— Dee. gf Ξ
+ΜΞ
+ΜΞ 11 14—22· 3 34³2
+1 '‘0— ο ’Τ 0 —
+1÷21 0 2 2 0
+3 0 2 Ο 2
+3†2210¹ 0 121 2
+
+ 
+
+Alles nach Mod. 4.
+

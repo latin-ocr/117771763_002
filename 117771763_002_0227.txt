@@ -1,0 +1,45 @@
+D1SQU1s1T10NEs GENERALES DE conenunn'rns. 217
+
+PA-i- QB÷R0÷SD÷ eto. Ξ 1
+
+Sit divisor maximae dimensionis inter A et B, M; inter M et C, M'; inter
+Μ’ et D, M'' etc.: patet, ultimum huius seriei terminum fore nullis dimensionis
+(hyp.). Quare poni poterit
+
+aA-i-bB Ξ M, ΜΖΙΙ-Ι-εί* Ξ Μ’, Μ’]ΙΓ-Ι-ᾱῦ Ξ Μ”, ete.
+
+unde substitutionibus factis theorematis veritas apparet.
+
+337.
+
+THEOREMA. Si A, B, C etc. sint functiones inter se primae (quarum binae
+quaeque nullum habeant divisorem communem) secundum modulum p, et functio M
+secundum eundem modulum per siwyulas sit divt'sz'bz'lz‘s; etiam per omnium productum
+erit divisibilis.
+
+Demonstr. Poni enim potest PA-i- QB— Ξ 1, quare erit
+
+ἴρ-Ῠ-ΒῙΡΞΗΆΞΒ
+
+Iam quum Ο ad AB prima, erit etiam M per ABG divisibilis similique ratio-
+cinio per ΑΒ OD etc.
+
+338.
+
+Si congruentia ξ Ξ Ο habeat radices οι’ Ξ α, oe Ξ b, α’ Ξ c etc., ξ per
+productum ex (ay—a), (ce—b), (χ’-ε) etc. dividi poterit; cum enim a, b. c. etc.
+supponantur incongrui, functiones «κ’-ιι, oe—b, oe—c etc, erunt primae inter
+se , et quum ξ per singulas dividatur, etiam per productum ex omnibus dividetur.
+Hinc patet, radicum multitudinem congruentiae dimensionem superare non. posse:
+quae est demonstratio huius theorematis, quam polliciti sumus:
+
+Sed simul hinc perspicitur, quomodo congruentiarum solutio partem tan-
+tummodo constituat multo altioris disquisitionis, seilicet de resolutione functionum
+in factores. Manifestum est, congruentiam ΕΞ 0 nullas habere radices reales,
+si ξ nullos factores unius dimensionis habeat; at hinc nihil obstat, quominus ξ
+in faetores duarum, trium pluriumve dimensionum resolvi possit, unde radices
+quasi τῗφηαρὶῃαντάθ illi attribui possint. Revera, si simili licentia, quam recentio-
+res mathematici usurparunt, uti talesque quantitates imaginarias introducere vo-
+
+11. 28
+

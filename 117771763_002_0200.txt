@@ -1,0 +1,38 @@
+190 Anzmoss.
+
+ohne Unterschied positive und negative Zahlen darstellbar sind (indifferente For-
+men), theils solche Formen, durch die entweder nur positive oder nur negative
+Zahlen sich darstellen lassen (positive oder negative Formen); allein positive For-
+men gibt es nur fiir negative Determinanten‚ und negative nur fiir positive. Ue·-
+brigens ist es von selbst klar, dass die Qualification einer Form, insofern sie in-
+different. positiv oder negativ ist, zugleich der ganzen Classe, zu welcher sie ge-
+hort, zukommt. Das vorliegende XVerk beschrankt sich auf die positiven For-
+men, deren Determinanten also negativ sein mfissen: offenbar findet aber alles,
+was von diesen gilt, von selbst seine Uebertragung auf die negativenFormen, wah-
+rend die in dem Werke ganz ausgeschlossenen indifferenten Formen eine ganz
+abweichende Behandlung ersordern.
+
+In den Dz'sqzcisz'tc'ones Arithmeticae war, wie sehon erwahnt ist. die Theorie
+der ternaren Formen nur so weit entwickelt, als fiir den dortigen Zweck nothig
+war, und daher die Aufgabe, die Aequivalenz zweier gegebenen ternaren Formen
+zu entscheiden‚ noch nicht in vollstandiger Allgemeinheit aufgeloset. Zwar war
+daselbst gezeigt‚ wie man zu jeder vorgegebenen Form eine aquivalente der ein-
+fachsten Art finden, und dass es solcher reducirten Formen fiir jeden gegebenen
+Determinanten nur eine endliche Anzahl geben konne3 allein da es in jeder Classe
+mehrere solcher reducirten Formen gibt, die sich nicht in allen Fallen soyleich
+als {iquivalent ergeben‚ so fehlte noch ein Kriterium, woran man die Aequivalenz
+oder 'Nicht-Aequivalenz solcher Formen mit Gewissheit erkennen kann. Dieses
+Bedfirfniss hat nun der Verfasser des vorliegenden Werks in Beziehung auf die
+positiven Formen vollstandig und mit mustei-hafter Grijndlichkeit gehoben. Sein
+Verfahren ist librigens etwas andei-s eingekleidet, als wir die Sache so eben aus-
+gesprochen haben, und wie sie sich verhalten mstsste, wenn man in den Begriff
+der reducirten positiven Formen nur die Wesentlichsten Bedingungen der gross-
+ten Einfachheit aufnimmt‚ welche in dem Fal] der positiven Formen die sind,
+dass die (ihrer Natur nach positiven> Zahlen a, b, c nicht kleiner sein dfirfen‚ als
+respective b' oder ε’, α’ oder ε’, α’ oder b' ohne Rficksicht auf die Zeichen. Herr
+SEEBER hat nemlich dem Begriffe der reducirten Formen noch solche Modificatio-
+nen hinzugesetzt‚ dass es in jeder Classe immer nur Eine der Art geben kann,
+Eine aber geben muSS. Wegen eines schonen von Herrn SEEBER durch Induction
+gesundenen weiter unten noch zu erwahnenden Theorems fi‘ihren wir hier die
+Hauptbedingungen‚ welche Hr. S. in den Begriff der reducirten Formen ausge-
+

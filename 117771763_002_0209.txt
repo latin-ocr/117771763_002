@@ -1,0 +1,27 @@
+SOLUTIO CONG-RUENTIAE Xm— 1 Ξ Ο.
+
+ANALYSIS RESIDUORUM. CAPUT SEXTUM. PARS PRIOR.
+
+237.
+
+In Cap. 111 docuimus, congruentiam «τήΞ 1, si pro modulo accipiatur
+numerus primus p, habere μ radices, quando μ est maxima communis mensura
+numerorum n et p—1‚ hasque radices cum radicibus congr. ωμΞῙ penitus
+convenire. Quamobrem eum casum considerare sufficit, ubi η est pars aliquota
+numeri p-1. Quod autem non modo congruentiae ayn—1 Ξ Ο sed cuiusvis
+alius solutio pro modulis quibuscunque ex solutione pro modulis, qui sunt numeri
+primi, possit derivari, iam passim est ostensum infraque (Capvnr) fusius-docebitur.
+
+238.
+
+Sed ne hic quidem subsistere opus est; namque eodem Capite 111 exposui«
+mus, congruentiae ωηΞ 1 solutionem a resolutione similium congruentiarum
+pendere xa Ξ 1, oeb Ξ 1 etc.‚ ubi a, b etc. sunt numeri primi aut numerorum
+primorum potestates et n productum ex his numeris. Si scilicet A, B etc. sunt
+respective radices quaecunque congruentiarum ιτα Ξ 1, oeb Ξ 1 etc., productum
+ex his AB . . . erit aliqua e radicibus congruentiae «τη Ξ 1. Nostrae igitur in-
+vestigationes ad solutionem congruentiae oe⁷² Ξ 1 <mod.pl restringentur‚ quando
+p est numerus primus, n numerus primus aut numeri primi potestas, simulque
+
+pars aliquota numeri p—J.
+

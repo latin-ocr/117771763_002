@@ -1,0 +1,48 @@
+DE NEXU ιΝΤΕκ MULTITUDINEM anssmM erc. 299
+
+Ganz {ihnlich wurden sich die Falle behandeln lassen, in welchen D gerade ist. —
+
+&Vas die Bestimmung der Classen-Anzahl fur positive Determinanten D betrifst, so finden sich
+ausser der im Text mitgetheilten Schlussformei nur einzelne geometrische Figuren vor, welche Hyper-bel-
+Sectoren von endlichen Dimensionen dammum, und neben denselben Ungleichungen‚ durch welche die
+Punkte, deren Coordinaten die Variabeln der quadratischen Formen sind, in das Innere eines solchen Hy-
+perbcl-Sectors gedriingt werden. Diese Hyper-bel-Sectoren treten an die Stelle der Ellipsen, welche den
+quadratischen Forrnen von negativen Determinanten entsprechen, und durch die Bestimmung ihres Flachen-
+inhalts ergiebt sich wieder die- mittlere 1⁷)arstellungsanzahh wenn nemlieh nur solche ])arstellungen zuge-
+lassen werden, bei welchen die Variabeln den eben erwiihnten Ungleichungen Geniige leisten. Anderer-
+seits dienen diese Ungleichungen dazu, aus den unendlich vielen Darstellungen einer Zahl m, welche alle
+
+zu einer und derselben VVurzel η der Congruenz nn - D Ξ 0 (mod. ἣυἷ’-1 geheren und welche den sammt-
+
+lichen Auflbsungen der Gleichung tt—Duu Ξ 1 entsprechen (vergis-'ffssDiSqq- Arithm. art. 205), eine ein-
+zige zu isoliren und alle andern auszuschliessen. Die Anzahl aller zugelassenen Darstellungen der Zahl m
+<lux-eh den Complex aller nicht eigentlieh equivalenten formae proprie primitivae ist dann gleich dem Werth
+der Function f(m), in welcher nur -D durch D zu ersetzen ist, und aus der Betrachtung der Eigen-
+schaften derselben ergiebt sich, wie fruher bei negativen Determinanten, ein zweiter Auzdruck fur die mitt-
+
+lere Darstellungsanzah15 die Vergleichung desselben mit dem vorher durch geometrische Betrachtungen ab-
+
+geleiteten Werthe fuhrt dann unmittelbar zu der Bestimmung der Anzahl der Classen.
+
+Zu VIII.
+
+Hier bedeutet p eine positive Primzahl von der Forrn 4n†¹; die Bezeichnung stimmt mit der in
+der Abhandlung Theorz‘a residuorum biqnadraticorum 1. art. 23 angewendeten uberein; es ist also
+f? 1.2.3 . . . . {⁷(p—3).-3-(p-1)(mod.p)
+p :- aa†bb; a Ξ1(1Πο(1.4); b Ξ af(mod.p)
+die mit α, 6 bezeichneten Zahlen sind durch die Zerlegung p z amq—236 bestimmt. Die columne fist
+(len beiden voi-gesundenen Tubellen hinzugesugt3 ausserdem sind einige Lucken in denselben ausgel'flllt.
+Der im Text aufgestellte Satz hengt mit dem biquadratischen Charakter der Zahl 2 zusammen; da
+
+nilmlich (vergi. Jheore'a resz'd. biqu. 1. art. 21)
+
+p-1
+
+2 ⁴ ÷f{b(m0d.p)
+ist, so folgt aus der Congruenz
+
+b Ξ 2272 ÷a—1 (mod. S)
+die andere
+
+381(ζ
+

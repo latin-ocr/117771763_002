@@ -1,0 +1,54 @@
+SUMMATIO QUARUMDAM SERIERUM SINGULARIUM. 157
+
+1—<m‚1)-{—<m‚2)-(m‚3)—}- ete·
+1÷oe÷(m‚ γιμιβίιψη, 2)÷oe}<m‚ 3)-1- etc.
+
+nach dem m-4-1Sten Gliede ab, insofern m eine ganze positive Zahl bedeutet‚ und
+die Summe der ersten Reihe wird fiir gerade Werthe von m
+
+:z (1—oe)(1—-oe3)(1—oe⁵) . . . (1-oem-1)
+
+und --- Ο fiir ungerade Werthe von m3 hingegen die Summe der zweiten Reihe
+wird allemal
+
+=(1÷oe-22>(1÷oe><1÷oe÷).. -<1÷oe‘³‘⁷⁷²>
+
+Auch fiir gebrochene und negative Werthe von m ffihrt die Summation dieser Rei-
+hen auf interessante Resultate‚ obwohl dieselben zu der gegenweirtigen Absicht
+nicht nethig sind: wir begnfigen unS, nur eines derselben hier anzuffihren. Die
+unendliche Reihe
+
+1÷oe÷oe³÷oe⁶÷oe¹⁰÷ etc,
+
+wo die Exponenten die Trigonalzahlen sind, ist das Product aus den Factoren
+
+1-scoe 1-οεἰ 1——oe⁸ 1-—oe3
+
+>< ><
+
+1—oe 1—x³ 1—ae5 1—-x⁷ ἐπ’
+
+ 
+
+ 
+
+ 
+
+ 
+
+oder, wenn man lieber will, aus
+
+(1-1-0v)²(1-†-oeoe)²<1÷oe³)²(1-†-oe‘¹)² etc.
+m (1—oe)(1—-oeoe)1—-oe³)(1-oe⁴) ete.
+
+Die Entwickelung der Art, wie diese Summationen auf den Hauptgegen-
+stand angewandt werden, Wfirde uns hier zu weit ffihren: wir dfirfen die Leser
+um so eher auf diese selbst verweisen, da sie bald im Druck erscheinen wird. J ene
+oben angeftihrten Summationen sind nur eine specielle Anwendung von der Sum-
+mation folgender Reihen:
+
+1÷coskoe†cos4lcu›-{-cos9km—l— etc. -ff-cos(n—1)²ku› z Τ
+ΞῙΠΙεω-ξ-εἰη4ἷεω-ὶ-είῐ191εω-«1- etc. ÷sin(n—1)²km Ξ U
+
+welche in der Abhandlung fiir alle Werthe von k, und ohne die Einschreinkung,
+

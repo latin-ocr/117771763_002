@@ -1,0 +1,40 @@
+COMMENTATIO SECUNDA. ’ 1 1 1
+
+Demonstr. Ι. Sint α, ὅ integri tales qui faciant aa÷6b = 1, unde erit
+i z ab-6a÷m(6—{-az·)
+Proposito itaque numero integro complexo A-l-Bi‚ habebimus
+A ÷Bi z: Α-ξ- (αἶ) - 6a)B-‡-m(6B-†-aB2·)
+
+Quare denotando per Ιι residuum minimum positivum numeri A-st-(ab-*oaffl
+secundum modulum p, statuendoque
+
+A÷(ab—6a)B z h-i-kp :- h÷m(ak—bki)
+emt A-ff-Ba· z lz÷m(6B—-1—ak-†-(ocB—-blc)i)
+s1ve
+
+A-q-Bz· Ξ h(mod.m). Q. E. P.
+
+Π. Quoties eidem numero complexo duo numeri reales h, h' secundum
+modulum m congrui sunt, etiam inter se congrui erunt. Statuamus itaque
+
+li ψ- Ιί z: m(c—†-di), unde fit
+(12—12'><a—b2·>:20<c÷d2·>
+
+adeoque
+
+(h—h')a :2²0³ (la—list> z -pd
+nec non, propter αα-Ι-ὂὸ :z 1,
+h—-h' z p(coc——d6), i. e. lc Ξ lz'(mod.p)
+
+Quapropter li et ll, siquidem sunt inaequales, ambo simul in complexu nu—
+
+merorum 0, 1, 2, 3 . . . ‚p—1 contenti esse nequeunt. Q. E. S.
+41.
+THEOREMA. Secundum modulum compleoeum m 2: .a-{-bi‚ cuius norma
+
+aa†bb r: p, et pro quo a, b non suut iuter se primi. sed divisorem communem
+maximum λ habeut (quem positive acceptum supponimus), quilibet uumerus complexus
+couyruus est residuo oe—1-yi tali, ut α’ sit aliquis numerorum Ο, 1, 2, 3 . . . . ξ —-1‚
+atque y aliquis horum Ο, 1, 2, 3 . . . . λ-1, et quidem unico tautum inter omnia p
+residua, quae tali forma yaudeut.
+

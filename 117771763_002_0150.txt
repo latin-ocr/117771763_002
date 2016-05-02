@@ -1,0 +1,38 @@
+140 maomA Rasmuosstm BIQUADRATICORUM.
+
+69.
+
+Longe vero difficilius absolvuntur moduli a÷bi tales, pro quibus non est
+b = 0 (numeri quartae speciei art. 34), pluresque disquisitiones erunt praemit—
+tendae. Normam aa-1- bb, quae erit numerus primus realis formae 4η-1-1,
+designabimus per p.
+
+Denotetur per S complexus omnium residuorum simpliciter minimorum pr'o
+modulo a—ff—bz' :z m, exclusa cisra, ita ut multitudo numerorum in S conten-
+torum sit z: 10—1. Designet oe—l—yi indefinite numerum huius systematis,
+statuaturque aoe-l-by z ξ, ay—boe Ξ η. Erunt itaque Ε. η integri inter limi-
+tes 0 et J) eoeclusive contenti; in casu praesente enim, ubi a, b inter se primi sunt,
+formulae art. 45, puta η Ξ ki, ΕΞ·- -Ιτη (modp) docent, neutrum numerorum
+ξ, η esse posse z Ο, nisi alter simul evanescat. adeoque fiat αι’ = 0, y = Ο,
+quam combinationem iam eiecimus. Criterium itaque numeri oe†yi in S con-
+tenti, consistit in eo, ut quatuor numeri ξ, η, Ρ-ξ, Ρ-τ] sint positivi.
+
+Praeterea observamus pro nullo tali numero esse posse ξ = “¹1³ hinc enim
+sequeretur λῦμ’-μμ) :- a(S—}-n)—†-b(E-—n) z 2αξ, quod est absurdum, quum nul-
+lus factorum 2, a, ξ per p divisibilis sit. Simili ratione aequatio p(oe—y—}-a-{-b>
+Ξ 2αξ-ὶ-(α-ἦ-ὒ)(ρ-Ε-η) docet, esse non posse Ε-Ι-ἠ zp. Quapropter quum
+numeri ξ-η, Ρ--ξ-η esse debeant vel positivi vel negativi, hinc petimus sub-
+divisionem systematis S in quatuor complexus O, 02 O''‚ C'''‚ puta ut conii-
+
+ciantur
+in complexum ἱ numeri pro quibus
+” C Ξ ξ-η positivus, ρ-ξ--η positivus
+C' ι ξ-η positivus, p—E—-n negativus
+0⁰ ι ξ-η negativus, p——ss—vz negativus
+ΟΜ 1 ξ-η negativus, p-E—-n positivus
+
+Criterium itaque numeri complexus C proprie sextuplex est, puta sex numeri
+Ξ, η, Ρ-Ε, Ρ-η, “i—n, p-——E—i] positivi esse debent; sed manifesto condi-
+tiones 2, 5 et 6 iam sponte implicant reliquas. Similia circa complexus O', 0¹¹,
+C‘'' valent, ita ut criteria completa sint triplicia, puta
+

@@ -1,0 +1,31 @@
+ZUR THEORIE DER BIQUADRATISCHEN RESTE.
+
+{L}
+
+1.
+
+Wir erweitern das Gebiet der hehern Arithmetik‚ indem wir darin auch die
+imaginaren Grbssen aufnehmen. Bei der gegenweirtigen Untersuchung nennen
+wir eine ganze imaginere Zahl jede Grbsse oe÷iy, wenn α’, sq reelle ganze Zah-
+len sind.
+
+2.
+
+Die unendliche Anzahl imaginffirer ganzer Zahlen liisst sich am hequem-
+sten durch Punkte in einer unbegrenzten Ebene sinnlich darstellen; wir nennen
+schlechthin denjenigen Punkt‚ dessen Abscisse oe, die Ordinate y ist, den Punkt
+oe÷iy‚ alle Punkte, die ganze Zahlen vorstellen‚ sollen Ganzepunkte heissen.
+
+3.
+Um etwas bestimmtes festzusetzen‚ sollen die Abscissen immer auf der lin-
+ken Seite positiv, die Ordinaten oben positiv sein.
+
+4.
+
+Die gerade Linie von dem Punkte aeq—dy zu dem Punkte oe'-‡- iy' gezogen
+soll schlechtweg die gerade Linie (oe÷iy‚ σε’-μέγ) heissen, wir nehmen dabei
+zugleich, insofern es darauf ankommt‚ auf die Richtung Rficksicht und unter—
+scheiden also die gerade Linie oe÷iy‚ αφ’-μῶρ’ von der oe'-†- ἐρ’, ω’-ἦ-ίμ.
+
+11. 40
+

@@ -1,0 +1,26 @@
+DEMONsTRATION DE QUELQUES THEOREMES coNCERNANTs
+
+LEs PERIODES DEs eLAssEs DEs FORMES BINAIRES DU sEcoND Dnessn.
+
+Tmionmm. Ι. Le nombre des classes (pr. pr.) d'un meme determinant, qui ele-
+vees ὰ Za diynite' ΡΜ, Ρ e'tant ou un nombre premier ou la puissance d'nn nombre
+premier -Ξ 22², produisent Za classe principale K, est ἐμαί oa ὰ 1 ou ὰ nne puis-
+sance de ce meme nombre premier p.
+
+Demonstration. Soit (Ω) 16 groupe entier de toutes les classes en question
+et n leur nombre. Puisque la classe principale K est necessairement contenue
+dans (Ω), 16 theoreme est, evident‚ si elle y est la seule. Mais s’il y en a d’autres,
+le nombre des classes contenues dans la periode de chacune sera une puissance cle
+p3 soit une d’elles A, et supposons que sa periode (91) contienne p⁰² classes, qui
+seront toutes comprises dans (Ω). Or si les classes de cette periode (91) epuisent
+(Ω), on aura Ρη :- n, et le theoreme sera demontre; sinon, soit B une classe
+quelconque de (Ω) non contenue dans (21) ‚ et supposons que sa periode soit de-
+veloppee jusqu’a ce qu'on y parvienne a une classe bB, qui soit en meme temps
+parmi les classes de (21),oe qui doit necessairement ari-iver, parceque du moins la
+classe principale est commune a cette periode et a (91). Or supposant que bB
+soit la premiere classe dans la periode de B commune a (Q), ou b le plus petit
+possible, je dis
+
+1⁰. Que b sera une puissance de p. Car il est evident qu'en faisant b ερῧΙι,
+bB z: {A et kk Ξ- 1 (mod. pff) (ce qui se pourra) on aura ka :pgth :pr z: ikA,
+

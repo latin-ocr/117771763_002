@@ -1,0 +1,50 @@
+16 summinio QUARUMDAM
+
+4.
+ln omnibus hisce exemplis quantitas radicalis signum positivum obtinet,
+idemque facile pro valoribus maioribus η z 23, n z 29 etc, confirmatur, unde
+
+fortis iani probabilitas oritur, hoc generaliter perinde se habere. Sed demonstra-
+tio huius phaenomeni e principiis 1. c. expositis peti nequit, plenissimoque iure
+altioris indaginis aestimanda est. Propositum itaque huius commentationes eo
+tendit, ut demonstrationem rigorosam huius elegantissimi theorematis, per plures
+annos olim variis modis incassum tentatam, tandemque per considerationes sin-
+gulares satisque subtiles feliciter perfectam in medium proferamus, simulque theo—
+rema ipsum salva seu potius aucta elegantia sua ad longe maiorem generalitatem
+evehamus. Coronidis denique loco nexum mirabilem arctissimum inter hanc sum—
+mationem aliudque theorema arithmeticum gravissimum docebimus. Speramus‚
+hasce disquisitiones non modo per se geometris gratas fore, sed methodos quoque,
+per quas haec omnia efficere licuit, quaeque in aliis quoque occasionibus utiles
+
+esse poterunt, ipsorum attentione dignas visum iri.
+
+5.
+Petita est demonstratio nostra e consideratione generis singularis progres—
+sionum, quarum termini pendent ab expressionibus talibus
+
+(1—aem) <1—xm-1) (1ssaem-2)....(1-xm-t⁴÷¹)
+
+Brevitatis caussa talem fractionem per (m, μ) denotabimus, et primo quasdam ob-
+servationes generales circa huiusmodi functiones praemittemus.
+
+I. Quoties m est integer positivus minor quam μ, functio (m, μ) mani-
+festo evanescit, numeratore factorem 1—oe0 implicante. Pro m τε μ, factores
+in numeratore identici erunt ordine inverso cum factoribus in denominatore, unde¹
+erit (μ, μ) z 1 : denique pro casu e0‚ ubi m est integer positivus maior quarr
+μ, habentur formulae
+
+ 
+
+- (1-2ffi*²)(1—ff*¹)
+
+l
+(aq-242) — Π (μω- = (μ-ὶ- 2- 2)
+
+(Ι-ῑμψδ) (1—2”*²)(¹-2“*¹) „-
+
+(μ -1-3ν μ) Ξ ῑῖΤῃ-Τ-ῖιῑ- - (μ *l- 3, 3) etc·
+
+(ι —220
+
+ 
+

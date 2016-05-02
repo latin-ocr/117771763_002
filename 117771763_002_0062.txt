@@ -1,0 +1,43 @@
+52 THEOREMAws FUNDAMENTAXAS ΙΝ DOCTRlNA DE Rsssmms QUADRA'rmls
+
+2.
+THEOREMA. Sint m, M intqqri positivi impares inter se primi, n multitudo
+eornm e residuis ‘minimis positivi-5 numerorum
+M, 2M‚ 3M ..... ἶξ-(φη--ῙΗΙΙ
+κρυηηιῖηιη modulum m, qnae sunt maiora quam {mm ac perinde N multitudo eoram
+e residuis minimis positivis· numerorum
+
+m, 2772, 3m ..... *HM—Um
+
+>effandum modulum Μ, quae sunt maiora quam {M Tunc tres numeri n, N.v
+41 sm — 1 ’ἃ ’ΧΣῑΙ- l) vel omnes simul pares θνῑιητ, vel unus pao· duoque reliqui impares,
+
+DEMONSTR. Designemus
+
+per f complexum numerorum 1, 2, 3 ..... {Mn—l)
+
+per f' complexum numerorum m -1‚ 7η- 2, m —— 3 ..... ᾖ (m -†-1)
+per F complexum numerorum 1, 2, 3 ..... {(M—1)
+
+per F' complexum numerorum M—1‚ M— 2, M— 3 ..... -g-(M-ffl)
+
+Iudicabit itaque n, quot numeri Mf residua sua minima positiva secundum
+modulum m habeant in complexu f'‚ et perinde N indicabit, quot numeri mF
+habeant residua sua minima positiva secundum modulum M in complexu F‘.
+
+Denique designet
+
+φ complexum numerorum 1, 2, 3 ..... ‡(mM—-1)
+φ’ complexum numerorum mM—1‚ mM—2‚ mM— 3 ..... ᾖφηΜ-ὶ-Ῑ)
+
+Quum quilibet integer per m non divisibilis seeundum modulum m vel alicui re-
+siduo ex f vel alicui ex f' congruus esse debeat, ac perinde quilibet integer per
+M non divisibilis secundum modulum M congruus sit vel alicui residuo ex F vel
+alicui ex F': ornnes numeri φ, inter quos manifesto nullus per m et M simul
+divisibilis occurrit, in octo classes sequenti modo distribui possunt.
+
+Ι. In prima classe erunt numeri secundum modulum m alicui numero ex j}
+
+seeundum modulum M vero alicui numero ex F congrui. Designabimus multi-
+tudinem horum numerorum per α.
+

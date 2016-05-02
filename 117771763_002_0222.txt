@@ -1,0 +1,28 @@
+DISQUISITIONES GENERALES DE CONGRUENTIIS.
+
+ANALYSIS RESIDUORUM CAPUT OCTAVUM.
+
+330.
+
+Quae in Sectionibus praecedentibus de congruentiis sunt tradita, simplicis-
+simos tantum casus attinent methodisque particularibus plerumque sunt eruta. In
+hac Sectione periculum faciemus congruentiarum theoriam, quantum quidem'adss
+huc licet, ad altiora principia reducere, simili fere modo ut aequationum theoria
+considerari solet, quacum insignis intercedit analogia, uti iam saepius observa-
+vimus, Quoniam igitur omnes congruentiae algebraicae unicam incognitam in-
+volventes ad hanc formam reduci possunt
+
+ΧΞΟ
+
+ubi X est functio algebraica incognitae αφ, nullas fractiones involvens, huiusmodi
+functiones imprimis erunt considerandae.
+
+3 3 1 .
+Si P, Q sint functiones indeterminatae «τ’ huius formae
+
+A÷Boe÷ Cxx†Doe³—{— . ..
+H-4-Ioe-1-Koeoe-1-Loe3-1- . ..
+
+(quales abhinc semper per functiones simpliciter designamus) et in utraque coe’ffi-
+cientes similium ipsius oe potestatum secundum quemcunque modulum sint con-
+

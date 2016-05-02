@@ -1,0 +1,48 @@
+DEMONSTRATIONES ET AMPLIATIONES NOVAE. 53
+
+ΙΙ. Numeri secundum modulos m, M resp. numeris ex f, F' congrui, quo„
+rum multitudinem statuemus = 6.
+
+ΙΙΙ. Numeri secundum modulos m, M resp. numeris ex f', F congrui,
+querum multitudinem statuemus :z γ.
+
+IV. Numeri secundum modulos m, M resp. numeris ex f, F' congrui,
+quorum multitudo sit :r- δ.
+
+V. Numeri per m divisibiles, secundum modulum M vero residuis ex F
+congrui.
+
+VI. Numeri per m divisibiles, secundum modulum M vero residuis ex F'
+congrui.
+
+VII. Numeri per M divisibiles, secundum modulum m autem residuis ex
+f congrui.
+
+VIII. Numeri per M divisibiles, secundum modulum m vero residuis ex
+f' congrui.
+
+Manifesto classes V et VI simul sumtae complectentur omnes numeros mF,
+multitudo numerorum in VI contentorum erit z N, adeoque multitudo nume-
+rorum in V contentorum erit ÷(M—1)-N. Perinde classes VII et VIII simul
+sumtae continebunt omnes numeros M f in classe VIII reperientur n numeri,
+
+in classe VII autem 7}(m—-1)—n.
+Prorsus simili modo omnes numeri φ’ in octo classes IX ..XVI distribuen-
+
+tur, in quo negotio si eundem ordinem servamUS‚ facile perspicietur, numeros
+
+in classibus
+IX, X, XI, XII, XIII, XIV, XV, XVI
+
+contentos resp. esse complementa numerorum in classibus
+IV, III, II, Ι. VI, V, VIII, VII
+
+contentorum ad mM, ita ut in classe IX reperiantur δ numeri; in classe X, γ
+et sic porr0. Iam patet, si omnes numeri primae classis associentur cum omni-
+bus numeris classis nonae, haberi omnes numeros infra mM, qui secundum mo-
+dulum m alicui numero ex f, secundum modulum M vero alicui numero ex F
+sunt congrui, quorumque multitudinem aequalem esse multitudini omnium com—
+binationum singulorum f cum singulis F, facile perspicitur. Habemus itaque
+
+ειμι-δ =÷<m—1><M—1>
+

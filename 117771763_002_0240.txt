@@ -1,0 +1,53 @@
+230 NAoHLAss. ANALYSIS RESIDUORUM.
+
+Si pm} 1 (mod. ν) et quidem m quam minimus, tum patet xpm* ¹—1 per
+oeV—-l dividi posse. Quamobrem oe ——1 alios divisores habere nequit quam
+ιΥῙ)”’“Ῑ--1. At haecce expressio habet divisores primos m dimensionum aliosque,
+quorum dimensionum numerus est divisor numeri m. Tales igitur etiam ὥθ’-1
+habebit. Quot autem cuiusvis generis habeat, per exemplum declaramus, unde
+facile lex generalis deduci poterit.
+
+Sit ν :z 63 et p 213, erit m z: 6. Quare oe03-1 secundum modu-
+lum 13 factores primos habebit sex, trium, duarum dimensionum uniusque. Iam
+palam est, productum ex factoribus unius dimensionis fore divisorem communem
+(maximae dimensionis) functionum oe⁶³—1 et aem—1 i. e. ,273——1; quare tres
+erunt factores primi unius dimensionis Productum ex omnibus factoribus pri-
+
+mis duaium dimensionum uniusque elit divisor communis functionum oe⁶³—1 et
+
+ 
+
+,rems—1 i. e. 35⁴² l·——1,quaie eiunt ²¹ 3 sive 9 factores duarum dimensionum. Pro-
+ductum ex factoribus piimis tiium dimensionum uniusque erit divisor communis
+functionum <2³⁰ 3——1 et oe²¹⁹⁶—1 i. e. ί19-1; quare erunt *ἓξ-3 i. e. 2divisores
+
+trium dimensionum. Tandem reliqui erunt sex dimensionum, quorum igitur nu-
+
+63—6—-18-3 ·
+
+merus z 6 κ 1. e. 6.
+
+Facile per attentam huius rei ponderationem sequens regula generalis de-
+
+ 
+
+ducitur:
+Sit δ divisor ipsius m, sint omnes numeri ὃ divisores ipso ὃ minores δ’ δ”, om
+etc. Sint divisores communes maximiipsizis ν cum p ⁰-‚1 p —-1‚p²³-1et6.re-
+μ μ
+
+spective μ μ’, μ’ '.,etc sit ἶ, μ-Π, 3⁹-- etc. - -’,λ ,’λ’ , λ”’ etc. kabebitque α) —1 ῖτὶεε
+
+tot divisores primos ὃ dimensionum, quot infra mimeram μ scint numeri per millum
+numerorum λ’, λ”, λ”’ etc. divisibiles.
+
+361.
+THEOREMA. Sisimctio X indeterminatae υτ· per aliam {dividi possit et X si
+pro α] scribatur oek' transeat in X'‚ X' per (ξ, pk > dividipoterit.
+Dem. Sit ΧΞξυ transeantque ξ, υ 111 ξ, u', si pro x scribatur mk.
+Patet, fore Χ’Ξξύ’. At ξ’ per <Zp—¹¹⁶] dividi potest. Quare etiam X'. Q.E.D.
+
+362.
+His principiis positis facili negotio divisores primos functionis oe”—1 deter—
+minare possumus. Supponimus, omnes eos divisores, qui etiam functionem ali-
+

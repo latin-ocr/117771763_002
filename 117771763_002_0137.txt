@@ -1,0 +1,47 @@
+οοΜΜΕΝΤΑΤιο SECUNDA. 12 7
+
+character hoc respectu tribuendus est, quo gaudet numerus systematis illi
+congruus. “
+
+Porro ibinde sequitur. productum e duobus residuis quadraticis‚ nec non
+productum e duobus non-residuis esse residuum quadraticum, contra productum
+e residuo quadratico in non-residuum fieri non-residuum; et generaliter productum
+e quotcunque factoribus esse residuum quadraticum vel non-residuum, prout mul-
+titudo non-residuorum inter factores par sit vel impar.
+
+Pro distinguendis residuis quadraticis a non-residuis statim se offert crite-
+rium generale sequens:
+
+Numerus lc per modulum non divisibilis huius residuum vel non—residuum
+quadraticum est, prout habetur vel k÷(10—¹)3 1, vel hisp-¹) Ξ —1 (mod,m)‚
+
+Veritas huius theorematis statim inde sequitur, quod, accepta radice primi-
+tiva quacunque pro basi, index potestatis kap-¹) fit vel Ξ Ο vel Ξ ÷(p—l)‚
+
+ι
+u
+
+prout index numeri k· par est vel impar.
+
+57.
+
+Facile quidem est, pro modulo dato systema residuorum incongruorum com-
+pletum in duas classes, puta residua et non-residua quadratica distinguere, quo
+pacto simul omnibus reliquis numeris classes suae sponte assignantur. At longe
+altioris indaginis est quaestio de criteriis ad distinguendum modulos eos, pro qui-
+bus numerus datus est residuum quadraticum, ab iis, pro quibus est non-residuum.
+
+Quod quidem attinet ad unitates reales -1-1 et —1‚ hae in arithmetica nu—
+merorum complexorum sunt reapse quadrata, adeoque etiam residua quadratica pro
+quovis modulo. Aeque facile e criterio art. praec. sequitur, numerum i (et per-
+inde -ἰ’) esse residuum quadraticum cuiusvis moduli, cuius norma p sit formae
+8 η-ξ-Ῑ, non-residuum vero cuiusvis moduli, cuius norma sit formae 8η-Ι- 5. Quum
+manifesto nihil intersit, utrum numerus m, an aliquis numerorum ipsi associato-
+rum im, —m, —im pro modulo adoptetur, supponere licebit, modulum esse
+associatorum primarium (art. 36, ΙΙ), adeoque statuendo modulum z a÷bi‚ esse
+(ι imparem, b parem. Quo pacto quum semper sit aa Ξ1(ηιο(1.8), bb vero vel
+Ξ O vel Ξ 4 (mod. 8), prout b sit pariter par vel impariter par, patet, nume-
+ros -fi-z· et —z' in casu priori esse residua quadratica moduli, in posteriori non· ’
+
+residua.
+

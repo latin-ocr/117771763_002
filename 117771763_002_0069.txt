@@ -1,0 +1,62 @@
+ 
+
+l
+l
+l
+l
+Ξ
+l
+l
+l
+
+DEMONSTRATIONES ET AMPLIATIONES NOVAE. 59
+
+⁷¹2(<1-¹).-7³ adeoque etiam propter δδ :z 1, numerus
+
+lis, nec non etiam Bp
+222³(q-¹)-73 per q divisibilis erit.
+
+Quodsi iam per 6 designatur unitas positive vel negative accepta, prout p
+est residuum vel non—residuum quadraticum numeri q, erit p'}(q—¹)—6 per q
+divisibilis, adeoque etiam ὅ-γδ, quod fieri nequit, nisi fuerit 6 :- γδ. Hinc
+vero theorema fundamentale sponte sequitur. Scilicet
+
+Ι. Quoties vel uterque p, q, vel alteruter tantum est formae 4Ιε-ᾖ-1, adeo-
+que δ 2- -l-l, erit 6 :- γ, et proin vel simul q residuum quadraticum ipsius
+p, atque p residuum quadratioum ipsius q; vel simul q non—residuum ipsius p,
+atque p non-residuum ipsius q.
+
+ΙΙ. Quoties uterque p, q est formae 4lc-l—3, adeoque &rs-*h erit
+6 = -- γ, adeoque vel simul q residuum quadratioum ipsius p, atque p non-re-
+siduum ipsius q3 vel simul q non—residuum ipsius p, atque p residuum ipsius q.
+
+Q. E. D.
+
+Alqore'thmus novus ad decidendum, utrum numerus inteyer positivus datus numeri primi positivi dati
+
+residuum quadr-aticum sit cm non-residuum.
+
+1.
+
+Antequam solutionem novam huius problematis exponamus, solutionem in
+Disquisz'tionibus Arithmetc'cis traditam hio breviter repetemUS‚ quae satis quidem
+expedite perficitur adiumento theorematis fundamentalis atque theorematum no-
+torum sequentium:
+
+“ Ι. Relatio numeri a ad numerum b (quatenus ille huius residuum quadra-
+tioum est sive non-residuum), eadem est quae numeri c ad b. si a Ξ εςῐηοᾶ. b).
+
+II. Si a est productum e factoribus α, 6, γ, δ ete.. atque b numerus pri-
+mus, relatio ipsius a ad b ita a relatione horum factorum ad b pendebit, ut a
+fiat residuum quadr-aticum ipsius b vel non-residuum, prout inter illos factores re-
+peritur multitudo par vel impar talium, qui sint non-residua ipsius h. Quoties
+itaque aliquis factor est quadratum, ad eum in hoc examine omnino non erit re-
+spiciendum3 si quis vero factor est potestas integri cum exponente impari, illius
+vice ipse hic integer fungi poterit.
+
+ΙΙΙ. Numerus 2 est residuum quadraticum cuiusvis numeri primi formae
+87n÷1 vel Sm÷7‚ non-residuum vero cuiusvis numeri primi formae 8m—{-3
+
+vel Son—¹5·- 5.
+t μ
+

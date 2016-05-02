@@ -1,0 +1,26 @@
+GAUSS AN ENKE.
+
+Hochzuverehrender F reund ἒ
+
+—- - Die giitige Mittheilung Ihrer Bemerkungen fiber die Frequenz der Prim-
+zahlen ist mir in mehr als einer Beziehung interessant gewesen. Sie haben mir
+meine eigenen Beschssiftigungen mit demselben Gegenstande in Erinnerung ge-
+bracht, deren erste Anffinge in eine sehr entfernte Zeit fallen, ins J ahr 1792 oder
+17 93, wo ich mir die LAMBERT'schen Supplemente zu den Logarithmentafeln ange-
+schafft hatte. Es war noch ehe ich mit feineren Untersuchungen aus der behem
+Arithmetik mich befasst hatte eines meiner eeren Geschssifte, meine Aufmerksam-
+keit auf die abnehmende Frequenz der Primzahlen zu richten‚ zu welchem Zweck
+ich dieselben in den einzelnen Chiliaden abzfflsste, und die Resultate auf einem
+der angehefteten weissen Blatter verzeichnete. Ich erkannte bald, dass unter al-
+len Schwankungen diese F requenz durchschnittlich nahe dem Logarithmen ver-
+kehrt proportional sei, so dass die Anzahl aller Primzahlen unter einer gegebenen
+Grenze n nahe durch das Integral
+
+3⁷2-
+
+logn
+ausgedrfiekt werde, wenn der hyperbolische Logarithm. verstanden werde. In sp&-
+terer Zeit, als mir die in VEGA's Tafeln (von 1796) abgedruckte Liste bis 400031
+bekannt wurde, dehnte ich meine Abzzihlung weiter aus , was jenes Verhz‘sstniss
+bestiitigte. Eine grosse F reude machte mir 1811 die Erscheinung von CHERNAc's
+

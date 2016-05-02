@@ -1,0 +1,52 @@
+3 16 NAanAss.
+
+Inbegriff der Zahlen f, s'‚ s''etc. das System der Primitivreste von m. Ihre An-
+zahl ist immer z acl-l-bb,
+
+1 2.
+
+Man kann das System der Primitivreste auf vielfache Art bilden3 die ein—
+fachste ist. die Punkte innerhalb des Quadrats 0, m, (1—†-i)m‚ im zu weihlem
+dazu nn‘jssen aber noch hinzugefsigt werden
+
+Ι. (161· Punkt oder die Grbsse Ο
+
+Π. alle Punkte auf zwei einander nicht gegenfiberliegenden Grenzlinien.
+
+Anstatt auf einer der 4 Grenzlinien alle Punkte zu nehmen, kann man 816
+auch auf mehren zugleich nehmen.
+
+Diese Auswahl dieser Punkte auf den Grenzlinien‚ falls welche darauf fal-
+1611, kann auf mehrfache Art geschehen‚ 8ο dass obigen Bedingungen Genfige ge—
+schieht. Am einfachsten ist die folgende Manier.
+
+Man nehme auf der Grenzlinie O‚m alle Punkte zwischen Ο und {m inclus.
+und auf der Grenzlinie O‚im alle Punkte von {im bis im exclusive und auf
+fihnliche Art bei den beiden andern.
+
+Man kann diese beiden Manieren 8ο sinnlich darstellen
+
+(1÷i)m (μί’)ῃ,
+
+mss &Nm ³3¹
+N& s ”⁷ ‘⁷⁷¹
+‘Ns *as
+
+1 3.
+
+Schliesst man von den Primitivpunkten aus
+
+I. Bloss den Punkt 0, wenn a gerade und b ungerade oder umgekehrt.
+
+ΙΙ. Die Punkte Ο 1111(1 {(1-}-i)m‚ wenn a und b beide ungerade.
+
+III. Die vier Punkte 0, ἐφη, {Off-issa, {inu wenn a und b beide gerade‚
+so nennen wir die fibrigbleibenden eigentliche Primitivpunkte‚ die ausgeschlosse—
+nen uneigentliche. Die Anzahl von jenen ist also
+
+in Fan I τ- αα-ἦ-ὒό-1
+II z aa—ff-bb— 2
+III Ξ aa-l—bb—-cl
+
+also immer durch 4 theilbar.
+

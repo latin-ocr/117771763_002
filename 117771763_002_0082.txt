@@ -1,0 +1,47 @@
+7 2 mssomA RESIDUORUM BIQUADRATICORUM.
+
+ 
+
+ad residua minima numeronum
+A 1, 9⁴‚9⁸‚ 9¹2 ..... 9Ρ-’5 —
+B 9, 9⁵, 99, 9¹3 ..... 910’4
+
+C 99, 9⁶, 9¹⁰, 9¹⁴ ····· 9²³⁴
+
+D 9³, 9⁷. 9¹¹, 9¹⁵ ..... 9Ρ’“2
+
+Hinc omnes propositiones praecedentes sponte demanant.
+
+Ceterum sicuti hic numeri 1, 2, 3 . . . ,Ρ-Ῑ in quatuor classes distributi
+sunt, quarum complexus per A, B, C, D designamus, ita quemvis integrum per
+Ρ non divisibilem, ad normam ipsius residui minimi secundum modulum Ρ, ali—
+cui harum classium adnumerare licebit.
+
+9.
+Denotabimus per f residuum minimum potestatis 9
+
+lum Ρ, unde quum fiat ff.-—-: 9*²³*(²⁰”¹) Ξ ——J (Disq'uis.Arithffffiartdffl), patet, cha-
+÷ p—1
+
+ἕρμ’) secundum modu-
+
+racterem f hic idem significare quod in art. 6. Potestas 9 itaque, deno-
+tante λ integrum positivum, congrua erit secundum-modulum Ρ numero 1, f,
+——1,—f, prout λ formae 4m, 4m-l—1‚ 4m÷2, 4m—†-3 resp., sive prout resi-
+duum minimum ipsius 9λ in A, B, O, D resp. reperitur. Hinc nanciscimur cri-
+terium persimplex ad diiudicandum, ad quam classem numerus datus h per Ρ non
+divisibilis referendus sit3 pertinebit scilicet k ad A, B, C vel D, prout potestas
+hap—¹) secundum modulum Ρ numero 1, f, —1 vel —f congrua evadit.
+Tamquam corollarium hinc sequitur, —-1 semper ad classem A referri, quo-
+ties Ρ sit formae Sn-l-1, ad classem Ο vero, quoties Ρ sit formae 8⁷2÷5. De-
+monstratio huius theorematis a theoria residuorum potestatum independens ex iis,
+quae in Disquisz'tiom'bus Arithmetz'cis art. 115, III docuimus, facile adornari potest.
+
+1 Ο.
+Quum omnes radices primitivae pro modulo Ρ prodeant e residuis potesta-
+tum 9², accipiendo pro λ omnes numeros ad Ρ-1 primos, facile perspicitur, il-
+las inter complexus B et D aequaliter dispertitas fore, basi 9 semper in B con—
+tenta. Quodsi loco numeri 9 radix alia primitiva e complexu B pro basi accipi-
+tur, classificatio eadem manebit; si vero radix primitiva e complexu D tamquam
+basis adoptatur, classes B et D inter se permutabuntur. ’
+

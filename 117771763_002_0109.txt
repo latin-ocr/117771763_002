@@ -1,0 +1,47 @@
+COMMENTATIO SECUNDA. ¹ 99
+
+Pro numero —19.
+A Ι ὂΞ Ο, 2α,5α,14α, 17a(mod.19)
+
+ 
+
+B ὒΞ3α,7α,11α,13α,18α
+C αΞ Ο; ὂΞ4α, 9α, loa, 15a
+D b Ξ a, 6α, Sa, 12⁶1, 16α
+Pro numero —23.
+A αΞο; 5Ξο,7α,1οα,13α,16α<ωοᾱ.23>
+Β ὒΞ2α,3α,4α,11α,15α, 17a
+C ὒΞα,5α,9α,’14α,18α,22α
+D ὂΞ6α,8α, 12α, 19α, 2οα,21α
+
+ 
+
+28.
+
+Theoremata specialia hoc modo per inductionem eruta confirmari inveniun-
+tur, quousque haec continuetur, formamque criteriorum pulcherrimam manifestant.
+Si vero inter se conferuntur, ut conclusiones generales inde petantur, primo sta-
+tim aspectu se offerunt observationes sequentes.
+
+Criteria diiudicationiS‚ ad quemnam complexum referendus sit numerus pri-
+mus ssq (sumendo signum superius vel inferius, prout q est formae 4η-ί-1 vel
+4oz† 3), pendent a formis numerorum a, h inter se collatorum respectu moduli q.
+Scilicet
+
+I. quoties a Ξ 0 (mod. q), ssq pertinet ad complexum determinatum, qui
+est A pro q: 7‚17,23‚ nec non C pro q: 3‚11‚13‚19‚ unde coniectura
+oritur, casum priorem generaliter valere, quoties q sit formae Snssl, posterio—
+rem vero, quoties q sit formae 822ss 3. Ceterum complexus B et D iam abs-
+que inductione excluduntur pro valore ipsius a per q divisibili, ubi fit p Ξ bh
+(mod. q), i. e. ubi 2) est residuum quadraticum ipsius q, unde per theorema fun-
+damentale ssq esse debet residuum quadraticum ipsius p.
+
+ΙΙ. Quoties autem a per q non est divisibilis, criterium pendet a valore
+
+b
+
+expressionis 3(mod. q). Admittit quidem haec expressio q valores diversos, puta
+
+Ο, 1, 2, 3 . .. ‚q—-1 : sed quoties q est formae 4724-1, excludendi sunt bini valo-
+13 *ἶ
+

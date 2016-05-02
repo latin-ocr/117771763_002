@@ -1,0 +1,41 @@
+'I'HEORIA RESIDUORUM BLQUADRA'I'ICORUM· COMMENTATIO SECUNDA. 173
+
+einer der Zahlen —†—1‚ -1-ἱ, -1, —z‘ congruent sein, und dadurch eine Verthei-
+lung 31111111111101161· durch a-4—bz' nicht theilbarer Zahlen in vier Classen 116811111-
+(161, denen der Reihe nach der biquadratische Character Ο, 1, 2, 3 1161861681 wird.
+Offenbar bezieht sich der Character Ο auf die biquadratischen Reste, die fibrigen
+auf die biquadratischen N 1011116316, und zwar so, dass dem Character 2 zugleich
+quadratische Reste‚ den Charactern 1 und 3 hingegen quadratische Nichtreste
+entsprechen.
+
+Man erkennt leicht‚ dass es haupts‘zichlich darauf ankommt, diesen Cha-
+racter blos fiir solche Werthe von lc bestimmen zu kffinnen‚ die selbst complexe
+Primzahlen sind, und hier ffihrt sogleich die Induction zu 11001131 einfachen Re-
+sultaten.
+
+Wird zuerst lc z 1-1-2' gesetzt, so zeigt sich, dass der Character dieser
+Zahl allemal Ξ ἑμ-αα-ὶ- 2 ab — 3bb-†-1) (mod. 4) wird, und {ihnliche Ausdrficke
+finden sich fiir die Fene k =1—z·‚ lc :- —1—†-z'‚ lc :- -1—i.
+
+Ist hingegen lc :- oc-f-ssi eine solche PrimzahL wo α ungerade und ὅ 86-
+rade 131, 30 6181111 sich durch die Indue-tion 36111· 1616111 6111 (16111 Fundamentaltheo-
+rem fur die quadratischen Reste ganz analoges Reciprocitz'itsgesetz, welches arn
+einfachsten aus folgende Art ausgedrfickt werden kann:
+
+Wenn sowohl a÷fi—l als a÷b—1 durch 4 theilbar sind (auf welchen
+Fan alle fibrigen 1610111211111611861ῖ1111111761ᾶ611 kfinnen)‚ und der Character der zahl
+a÷6i in Beziehung auf den Modulus a÷bi durch λ, 11111868611 der Character
+von a—l—bz' in Beziehung auf den Modulus a-†-6z· durch Z bezeichnet wird: so
+ist λ .-- ἰ, 11761111 zugleich eine der Zahlen 6, b <oder beide) durch 4 theilbar ist.
+hingegen λ :z 2ss 2, wenn keine der Zahlen ὅ, b durch 4 theilbar ist.
+
+Diese Theoreme enthalten im Grunde alles Wesentliche der 'l'heorie der bi-
+quadratischen Reste in sich: so 1610111 63 aber war, sie durch Induction zu 6111-
+(16011611, 30 schwer ist es, strenge Beweise fiir sie zu geben, besonders fiir das
+Ζ1176116, das Fundamentaltheorem der biquadratischen Reste. Wegen des grossen
+Umfanges, zu welchem sehon die gegenwia‘rtige Abhandlung angewachsen ist, sah
+sich der Verfasser 8611ὂ111181, (116 Darstellung des Beweises fur das letztere Theo-
+rem, in dessen Besitz er 3611 20 J ahren 131, fiir eine kfinftige dritte Abhandlung
+zuriickzulassen. Dagegen 131 111 vorliegender Abhandlung noch der vollstssndige
+Beweis fiir das erstere (116 zahl 1÷i betreffende Theorem (von welchem die an—
+

@@ -1,0 +1,45 @@
+114 ΤΗΕΟΒῙΑ nnsmuonum BiQnAnnA‘mcoRuM.
+
+ 
+
+τ’-ξ-μί-τ-ἒ-Ξ-ἶ.
+sive
+ὦ, 2 “fs-‘⁷ = A-aF÷bG
+y 2- “ffj-bf Ξ B-aG-bF
+
+ 
+
+Manifesto residua minima f, y vel inter limites 0 et p—1‚ vel inter hos -ffp
+
+et -l-{P accipi debent, prout numeri complexi vel residuum simpliciter mini-
+mum vel absolute minimum desideratur.
+
+44.
+
+Constructio systematis completi residuorum minimorum pro modulo dato
+pluribus modis effici potest. Methodus prima ita procedit, ut primo determinen-
+tur limites, intra quos termini reales iacere debent, ac dein pro singulis valoribus
+intra hos limites sitis assignentur limites partium imaginariarum. Criterium
+generale residui minimi oe†yi pro modulo a—1-bi in eo consistit, ut tum
+ιιω-ἧ-ὒμ z: ξ, tum ay-—boe Ξ η iaceat inter limites Ο et aa-l-bb, quoties de
+residuis simpliciter minimis agitur, vel inter limites -τὲ-(αα-Ι-ὂό) et ÷{(aa—†-bb),
+quoties residua absolute minima desiderantur. limite altero excluso. Regulae spe-
+ciales distinctionem casuum, quos varietas signorum numerorum a, b affert, re-
+quirerent, cui tamen evolvendae, quum nulli difficultati obnoxia sit, hic im-
+morari supersedemus: sufficiat, methodi indolem per unicum exemplum expo-
+suisse.
+
+Pro modulo 5-4- 22' residua simpliciter minima oe÷yi ita comparata esse
+
+debent, ut tum 5oe—{- 2y :- ξ, tum 53] —- 2oe Ξ η aequetur alicui numerorum
+(ι, i, 2, 3 . . . . 28. Aequatio 29oe = 5Ξ-2η ostendit, valores positivos ipsius
+
+21: maiores esse non posse quam ⁵2—-32—8, negativos abstrahendo a signo non maiores
+
+quam ²—J-32-S. Omnes itaque valores admissibiles ipsius α) erunt —1, Ο, 1, 2, 3, 4.
+Pro oe z —1 debet esse 2y aequalis alicui numerorum 5, 6, 7 . . . . 33, atque
+:By alicui horum —2‚ —1, Ο, 1 . . . . 26; hinc valor minimus ipsius [ι] est -1-3,
+maximus ÷5. Tractando perinde valores reliquos ipsius x, oritur sequens
+
+schema omnium residuorum minimorum:
+

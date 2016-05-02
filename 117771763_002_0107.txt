@@ -1,0 +1,68 @@
+ΟΟΜΜΕΝΤΑΤΙΟ SECUNDA. 97
+
+Primo saltem aspectu nexum simplicem inter valores numerorum α, b, qui-
+bus idem complexus respondet, non animadvertimus. At si perpendimus, diiu-
+dicationem similem in theoria residuorum quadraticorum per regulam Simplicio-
+rem absolvi respectu numeri — 3, quam respectu numeri —3-3‚ spes affulget suc-
+cessus aeque secundi in theoria residuorum biquadraticorum. Invenimus autem,
+
+-- 3 pertinere ad complexum
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A pro l} B pro l: O pro D pro
+p a 3 b ]) α b 332) α ὂ ]) α b
+37-3-1-——ssz 5,“l‘1-l*23,1-3-3-l-2129÷5†2
+61-3-5-63 17’-1-1-41’73-3-8 41-3-5-4
+157—11 6339-3—5-33397-3-9-3-21 53-—7-3-2
+193 - 7 -123113 — 7 — 8ῑ169 — 3 -3-10101-3-1-3—10
+Ι1137 -11 —- 411819- 9 -3-10197 -3-1—14
+3149- 7 -3-1033229 —15 -3- 2 269 -3-13 -3—10
+3173 -3-13 23- 233241-15 —- 4 293 -3-17 -3- 2
+1233 -3—13 4- 8 27734- 93-3-14
+3257 —3- 1 -16
+3231 -3- 5 -3-163
+
+ 
+
+ubi lex inductionis sponte se offert. Scilicet pertinet ——3 ad complexum
+
+A, quoties b per 3 divisibilis est, sive b 3 0 (mod. 3)
+
+B, quoties a—3-b per 3 est divisibilis, sive b 3 2a(m0d. 3)
+O, quoties a per 3 est divisibilis, sive a 3 0 (mod. 3)
+
+D, quoties a——b per 3 divisibilis est, sive b Ξ a (mod. 3)
+
+26. ,
+Numerum —3—5 adscribendum invenimus complexui
+
+A pro p :101,109,149,181‚269
+
+Β pro p Ξ 13. 17, 73, 97, 157, 193, 197, 233, 277, 293
+C pro p :z 29, 41, 61, 89, 229, 241, 281
+
+D pro ]) :z 37, 53, 113, 137, 173, 257
+
+In considerationem vocatis valoribus numerorum a, b singulis ]) respondentibus,
+lex hic aeque facile, ut pro classificatione numeri ——3, prehenditur. Scilicet
+
+incidimus in complexum
+II. 1 3
+

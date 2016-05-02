@@ -1,0 +1,41 @@
+2 74 NAanAss.
+
+i. e. f'A a relatione ipsius A ad divisorem 3 erit independenS, unde seriei
+f'1‚ f'2‚ ΓΒ, f'4, f'5‚ f‘6 etc, irregularitas tum serius incipiet tum longe minor
+
+erit. Porro si statuimus
+
+f'1÷f'2 ÷f'3 ÷f''4-1— etc. ÷f‘m Ξ F'm
+em ΡΜΣ F3A÷f3÷fss÷f9÷ . 4-f9A
+Ξ F3A-1- FA
+
+Hinc facile concluditur crescente A in infinitum, statui debere
+
+F ’ΒΑ z 4πΑ
+sive valorem medium terminorum seriei f'1‚ f'2‚ f'3. f'4 etc. esse
+Ξ ξπ
+Simili modo statuendo generaliter —f'm-1—f'5 m :f''m, fiet
+
+f''A Ξ 4(7)(11)(13) . ..
+
+sive e serie nova f''1, f''2 etc. abeunt vacillationes a relatione ad numerum ὅ
+pendentes, Statuendoque aggregatum
+
+fi f''1÷f''2÷f“3÷ - - - ÷f‘'m ε Fm
+et
+
+F⁰5m = —F'm4F'5m
+unde concluditur crescente m in infinitum, statui debere
+
+F''5m z: {anaim
+
+sive valorem medium terminorum seriei esse == ⁷⁴}- {a
+
+Si eodem modo ulterius procedimus, progressiones novas formando, dum
+deinceps factores 47), (11), (13), (17) etc. tollimus, hae continuo magis ad inva-
+riabilitatem appropinquabunt, valoresque medii deinceps novos factores ἐξ, -ξ-Ξη
+ff, {³⁷²³ 4-3- etc, nanciscentur, ubi denominatores erunt numeri primi serie natu-
+rali, numeratores vero unitate vel maiores vel minores, prout illi sunt formae
+
+422-1, vel 4 n—{-1. Quare quum hoc processu in infinitum continuato valor con-
+

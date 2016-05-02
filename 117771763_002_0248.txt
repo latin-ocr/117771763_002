@@ -1,0 +1,55 @@
+238 NACHLASS. ANALYS1s Rsssmnomm.
+
+373.
+PROBLEMA. 82· semotio X secundnm modulum p in factores inter se primos
+
+.-.
+
+Ε, Ξ’, Ξ” etc, sit resoluta, X secundum modulam pp in similessactores a, Ξ’, Ξ” εις,
+
+resolvere ita, ut sit
+
+²:¹¹! ξΙΙ
+*d ο
+
+‘m'
+
+Ξ ξ’
+*⁴2
+
+Ξ”, etc. (mod.p)
+
+ΙΙ]
+
+Sol. Sit ΧΞ ξψῌᾙοᾶφ) seu X :z ξψ-ἢ-ρΣ. Ponatur
+Ξ = ΞΉνφ, Ψ 2- ‹p-fflaffl
+
+erit
+
+ΞΨ z X-J²2÷(<?de-1—Sw)12÷2⁹10‘÷2w
+
+Si igitur ΞΨ esse debet Ξ X(mod.pp), necessario debet esse <p<p÷³5m—E
+per p divisibilis. At cum ψ et ξ secundum modulum p sint functiones inter
+se primae, φ et ω ita determinari poterunt, ut haec conditio adimpleatur (g. 336),
+et. quidem insuper ita, ut dimensiones ipsarum φ et ω sint respective unitate mi-
+nores dimensionibus functionum ξ, ψ. Hinc erit ΧΞ ΞΨ(η]ο(ῑ1.ρ]ο). Patet,
+
+simili modo Ψ rursus in factores ΞΏ discerpi posse, ita ut alter ει sit Ξ ξ’
+(mod.p) et, ita porro, unde tandem
+
+X Ξ Ξ Ξ’ Ξ” ete. (modpp). Q. E. Fac.
+
+374.
+Facile hinc probari potest, functionem X etiam seeundum modulos 293, ρ’*
+etc, in factores resolvi posse. Generaliter sit
+
+X Ξ PQ(mod.p⁹²2) seu X ⁷- PQ†me
+et functio P ad ipsam Q prima secundum modulum μ posito
+
+' r: P-ff-Ap’n, Q' z Q-ff-Bpm
+erit
+PQ' τ- Χ-ρΊἭῆ-(Αρ-ι-ΒΡψΜ-ι-ΑΒΡΜ
+
+Hinc pro quovis modulo 10v (v existente >m et <2m÷1) erit
+P'Q' Ξ Χ, si R Ξ AQ÷BP(m0d.p”-m)
+

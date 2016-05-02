@@ -1,0 +1,44 @@
+128 rnEomA REsmuoRUM BiQUADRArlcoRUM.
+
+58.
+
+Quum diiudicatio characteris numeri compositi, utrum sit residuum quadra-
+ticum an non-residuum, pendeat a characteribus factorum. manifesto sufficiet, si
+evolutionem criteriorum ad distinguendos modulos, pro quibus numerus datus lc
+sit residuum quadraticum, ab iis, pro quibus sit non-residuum, ad tales valores
+ipsius k lhuitemus, qui sint numeri primi, insuperque inter associatos primarii.
+In qua investigatione inductio protinus theoremata maxime elegantia suppeditat.
+
+Incipiamus a numero 1-ὶ-ἰ, qui invenitur esse residuum quadraticum mo-
+
+dulorum
+
+—1-1-22·, ÷3—2i‚ ——5—-22’, -1—6i‚ ÷5÷4i, —1-5-4i, -7‚ ÷7÷2i‚
+—5†ssi‚ etc,
+
+non-residuum quadraticum autem sequentium
+
+—1-225, —3, ÷3÷2i‚ —f-1-4—423 ÷1—4i‚ —5—†-2i, -1-1-627‚ -1-7-223
+—5—62', —3—1-82', —3-82, -4-5-4-823 -1-5—81, ÷9÷4i, ÷9-4ietc.
+
+Si hunc conspectum, in quo semper e quaternis modulis associatis prima-
+rium apposuimus, attente examinamus, facile animadvertimus, modulos a-l-bi
+in priori classe omnes esse tales, pro quibus a-l—Z) fiat Ξ μ1--1 (mod. S), in poste-
+riori vero taleS, pro quibus a—§—b Ξ —3(mod. 8). Manifesto hoc criterium, si
+loco moduli primarii m adoptamus associatum -—m, ita immutari debet, ut pro
+modulis prioris classis sit a-}-b Ξ -1, pro modulis posterioris Ξ 4- 3 (mod. 8).
+Quare, siquidem inductio non fefellerit, generaliter, designante a-Js-bi nume-
+rum primum, in quo a impar. b par, ¹-l‘i fit eius residuum quadraticum vel
+non-residuum quadraticum, prout a—l—l) Ξ ss1, vel Ξ ss3(mod. 8).
+
+Pro numero —1—2' eadem regula valet, quae pro 1-}—i. Contra conside-
+rando 1—2' tamquam productum ex ——i in 1-1-2', manifestum est, numero 1—23
+eundem characterem competere, qui tribuendus sit ipsi 1-1-2', quoties h sit pariter
+par, oppositum autem, quoties b sit impariter par, unde facile colligitur. 1——2‘
+esse residuum quadraticum numeri primi α-ι-ὂὶ, quoties sit a-—b Ξ ssL non-
+residuum autem, quoties habeatur α —b Ξ ss3 (mod. 8), semper supponendo, α
+esse imparem, b parem.
+
+Ceterum haec secunda propositio e priori etiam deduci potest adiumento
+theorematis generali01·iS‚ quod ita enunciamus:
+

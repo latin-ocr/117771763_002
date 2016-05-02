@@ -1,0 +1,44 @@
+οοΜΜΕΝΤΑΤῙο SECUNDA. 139
+
+At non obstante summa huius theorematis simplicitate. ipsius demonstratio
+inter mysteria arithmeticae sublimioris maxime recondita referenda est, ita ut,
+saltem ut nunc res est, per subtilissimas tantummodo investigationes enodari pos-
+sit, quae limites praesentis commentationis longe transgrederentur. Quamobrem
+promulgationem huius demonstrationis, nee non evolutionem nexus inter hoc theo-
+rema atque ea, quae in initio huius commentationis per inductionem stabilire coe-
+Peramus‚ ad commentationem tertiam nobis reservamus. Coronidis tamen loco
+iam hic trademus, quae ad demonstrationem theorematum in artt. 63. 64 proposi-
+torum requiruntur.
+
+68.
+
+Initium facimus a numeris primis a÷hi talibus, pro quibus b -—-- 0 (ter—
+tia specie art. 34), ubi itaque (ut numerus inter associatos primarius sit) a debet
+esse numerus primus realis negativus formae —— (4 n-{— 3), pro quo scribemus --φ
+quales sunt ——3‚ —7‚ —-1 1, ——19 etc. Denotando per λ characterem numeri
+1—4-2', illo numero pro modulo accepto, esse debet
+
+ff Ξ (1 —l—i)⁷'‘(qq”¹' Ξ 2aqq—1Q2-flw-1> (mod. q)
+
+Sed constat, 2 esse residuum quadraticum, vel non-residuum quadraticum ipsius
+q, prout q sit formae 8n†7‚ vel formae 8π-ἧ-3, unde colligimus, esse gene-
+
+raliter
+
+2÷(q-¹) Ξ (—1)÷(q÷1) Ξ [ΕΗ-1) (mod-q)
+
+adeoque evehendo ad potestatem exponentis ÷(q-}-1)
+
+2÷(qq—¹) Ξ ἐξω-ΗΥ (mod⁸ q>
+
+Aequatio itaque praecedens hanc formam induit
+
+ii Ξ 2÷(q†1)²†1}(qq-¹)‘ Ξ [ΜΗ-9) (mod. q)
+
+unde sequitur
+λ Ξ &qq-kq) Ξ ‡(q÷1)²—÷(q÷1)(mod.4>
+sive quum habeatur {Aqui-1)2 Ξ- Ο (mod. 4), λ Ξ -ἑζᾳ-Ι-Ῑ) Ξ fiet—1) (mod. 4).
+
+Quod est ipsum theorema art. 63 pro casu b --- 0.
+18*
+

@@ -1,0 +1,72 @@
+DE NEXU mma MULTITUDINEM anssmM E'rc. 297
+
+desselben ihrem absoluten Werth nach die endliche, nur von dem Determinant D abhfingige Grbsse
+
+Δ = φ(2 D) niemals fibertrifl't. Verbindet man diese beiden Bemerkungen mit einander, so findet man
+
+—Dwm
+
+leicht, dass die Summe aller auf das Glied ( n ln* folgenden Glieder absolut genommen kleiner als
+vl
+
+Δῖ ist, und dasss folglieh der Quotient G(m)=m bei unendlich wachsendem m die in der angegebenen
+
+Art geordnete, convergirende unendliche Reihe
+
+ 
+
+*32³2-
+zum Grenzwerthe hat. Nachdem so der gemeinschaftliche mittlere Werth der Functionen 9(m) und f(m)
+gesunden ist, erhiilt man unmittelbar
+’ k Ξ em) X(-D) L
+n
+
+‘tt n
+
+ 
+
+ 
+
+Es verdient noch bemerkt zu werden, dass die Artikel 6 und 8 der Abhandlung 11 auf eine in man-
+eher Beziehung einfachere und auch leicht auszuft'ihrende Behandlungsweise des Problems hindeuten, bei
+welcher nur die Darstellungen ungerader oder sogar nur soleher Zahlen betraehtet werden, die relative
+
+Primzahlen zu 2D sind.
+
+Zu VI und VII.
+
+—D){ ausgestihrt hat, ergiebt sich aus ei-
+
+ 
+
+Die Art, wie der Verf. die Summation der Reihe Σ( n
+nigen speciellen Beispielen, welche sich auf einzelnen Blettern vorfinden.
+
+lst D Ξ 3(rnod. 4), so folgt aus dem Fundamentaltheorem in der Theorie der quadratischen Reste
+
+mit Benutzung der Reihe
+
+1 1 1 1 1
+
+ 
+
+ 
+
+cotangu= u—l-u—z—l—u-fft-l—u——ffit-l—uss‘zft—l- ⁶ ' ⁸
+dass
+2(729){²²({33{52JbXGletangffn
+
+d—1 z i, 003⁸—†z'si11 5¹? z r
+
+und bezeichnet mit μ alle relativen Primzahlen zu I), welche nicht grijsser als D sind, so lasst die vor-
+
+stehende Summe sich leicht in die folgende umfovmen
+
+ 
+
+-Dxl πί 2 , μχφῆίψψι
+Σ( 32⁷⁷ >22 Ξ {DQ-²& ram-ri
+wendet man nun die fur jede WVurzel ω der Gleichung oeD z 1 gultige Formel
+
+ΙΙ. 3 8
+

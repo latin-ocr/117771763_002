@@ -1,0 +1,44 @@
+COMMENTATIO SECUNDA. 107
+
+quaestio oritur, num similis distinctio inter quaternos numeros complexos socios
+stabiliri possit, et pro utili haberi debeat. Ad quam decidendam perpendere opor—
+tet, principium distinctionis ita comparatum esse debere, ut productum duorum
+numerorum, qui inter socios suos pro primariis valent, semper fiat numerus pri-
+marius inter socios SUOS. At mox certiores fimm, tale principium omnino non
+dari, nisi distinctio ad numeros integros restringatur: quinadeo distinctio utilis ad
+numeros impares limitanda erit. Pro his vero finis propositus duplici modo attingi
+potest. Scilicet .
+⁷ Ι. Productum duorum numerorum a—l-bzf, a'—†-b'i ita comparatorum, ut
+a, α’ sint formae 4n—{—1‚ atque h, ῥ’ pare& eadem proprietate gaudebit, ut pars
+realis fiat Ξ 1 (mod.4), atque pars imaginaria par. Et facile perspicietur, inter
+quaternos numeros impares associatos unum solum sub illa forma contentum esse.
+
+Π. Si numerus cc—l-bz' ita comparatus est, ut a-—1 et b vel simul pari-
+ter pares sint, vel simul impariter pares, eius productum per numerum com-
+plexum eiusdem formae eadem forma gaudebit, facileque perspicitur, e quaternis Ἰ
+numeris imparibus associatis unum solum sub hac forma contineri.
+
+Ex his duobus principiis aeque fere idoneis posterius adoptabimus, scilicet
+inter quaternos numeros complexos impares associatos eum pro primario habebi-
+mus, qui secundum modulum 2—1-22' unitati positivae fit congruus: hoc pacto
+plura insignia theoremata maiori concinnitate enunciare licebit. Ita e. g. sunt nu-
+meri primi complexi primarii *1-1-21, -1-21, -1-3-4-21, -1-3-21, -Ι-ῑ-ἧ-ιιὶ,
+-4-1-41 etc.‚ nec non reales — 3, -7, —11, —-19 etc, manifesto semper signo
+negativo afficiendi. Numero complexo impari primario coniunctus quoque pri—
+marius erit.
+
+Pro numeris semiparibus et paribus in genere similis distinctio nimis arbitra-
+ria parumque utilis foret. E numeris primis associatis 1—†-z·, 1—2‘, —1—f-z', -—1—z'
+unum quidem prae reliquis pro primario eligere possumus, sed ad compositos ta—
+
+16111 distinctionem non extendemus
+
+37.
+
+Si inter factores numeri complexi compositi inveniuntur taleS, qui ipsi sunt
+compositi, atque hi iterum in factores suos resolvuntur, manifesto tandein ad facto-
+res primos delabimur, i. e. quivis numerus compositus in factores primos resolu-
+bilis est. Inter quos si qui non primarii reperiuntur, singulorum loco substitua-
+
+1 4 *
+

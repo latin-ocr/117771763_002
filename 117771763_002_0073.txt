@@ -1,0 +1,53 @@
+DEMONSTRATIONES ΕΤ AMPLIATIONES NOVAE. 63
+
+lore aggregati φ(α, 2b). Scilicet prout hoc aggregatum est numerus par vel im-
+par. erit b residuum quadraticum ipsius ἀ vel non-residuum. Ad eundem vero
+finem ipsum quoque aggregatum φ(α,ὂ) adhiberi poterit, ea tamen restrictione,
+ut casus ubi b impar est ab eo ubi par est distinguatur. Scilicet
+
+Ι. Quoties b est impar, erit b residuum vel non-residuum quadraticum
+ipsius a, prout 2p(a,b) par est vel impar.
+
+II. Quoties b est par, eadem regula valebit, si insuper α est vel formae
+Suq-1 vel formae 8n†7; si vero pro valore pari ipsius b modulus a est vel
+formae 8724— 3 vel formae Sn—l— 5, regula opposita applicanda erit, puta, b erit
+residuum quadraticum ipsius a, si <p(a‚b) est impar, non-residuum vero, si φ(α, b)
+est par.
+
+Haec omnia ex art. 4 demonstrationis tertiae facillime derivantur.
+
+ἱ).
+Eoeemplum. Si quaeritur relatio numeri 103 ad numerum primum 379, ha—
+bemus, ad eruendum aggregatum φ(379, 103),
+
+a: 379 a': 189 ¹
+
+ 
+
+{2:103 H: 51 6-——3
+c: 70 ε’-τ 35 γ--τ1
+d: 33 d'z 16 3———2
+er:- 4 e'z 2 3:85
+
+ 
+
+ 
+
+hinc
+φ<379,ιυ3);; 9639——17854-560-—-32—-3978÷-630——272—k242:24786
+
+unde 103 erit residuum quadraticum numeri 379. Si ad eundem finem aggrega-
+tum (379, 206) adhibere malumus, habemus hocce paradigma:
+
+ 
+
+379 189 ²
+206 103 l 1
+173 86 i 1
+33 Ι 16 5
+s 4 4
+
+ 
+
+unde deducimus
+

@@ -1,0 +1,42 @@
+DISQUISITIONUM cch AEQUA'rloNics PnRAs omnmore Evommo. 257
+
+ut iam in Disq. Ar. (Art. 360, 111) monuimus. Per considerationem uberiorem in·-
+dolis functionum A'‚ A'' etc. hae operationes adhuc magis facilitabuntur.
+
+15.
+In art. 9 ostendimus, valorem functionis [r‚ R] reduci posse ad formam
+Vn(cosf-}-isinf)‚ eodemque modo functiones [r‚R2], [r‚R3] etc. usque ad
+[r,R'3‘¹] ad similem formam reduci poterunt. Statuamus
+
+[r, R] :z &somcosf' ÷isinf')
+[r‚ R2] z ffn(cosf'' ÷isinj''')
+[φη R3] z «Moosfm—i—isinfm)
+etc,
+
+eritque
+
+A‘ ε vncos<2f'-f”>÷2·s1n(2f'—f”>)
+” -—- vncos (f‘÷f''—f''') ÷isin (f‘÷s''-f''‘>›
+Am: «meos<f‘-÷-f'‘'-f‘''')÷2·s1n<f‘÷f'‘'—f‘'''>›
+etc.
+Hinc patet, si functiones A', A'', A''' etc. reducantur ad formas
+A' z: α’ (cos b' -†—isin b')
+A'' :2- a'' (cos b'' -†-isin b'')
+Am z a'''(cos b‘''-†- i sin hm)
+etc.
+
+et quidem ita, ut omnes α’, a''‚ a''' etc. sint positivi, fore
+α’ z a'' Ξ am etc. Ξ §sn
+f' Ξ }(b'-}-b''-1-b'''-÷- etc. ÷b(ss-2))
+
+si fuerit ’ἒξ-1 par, vel
+
+f' ,τ -}(1so⁰÷b'-{-b''÷ etc. ἥψω-2))
+
+si fuerit '‘fi-¹- impar, ac dein
+
+[r‚RJ Ξ χίηφοεβ-ξ-ίεὶῃβ)
+[r‚R²] --- xln(cos(2f‘—-b')-1—isin(2f'—b'))
+[r‚R³] z Vn(cos(3f'—b'—-b'')—†—isin(3f'—b'-—b''))
+IL etc. Α 33
+

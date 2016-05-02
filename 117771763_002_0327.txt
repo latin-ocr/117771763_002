@@ -1,0 +1,41 @@
+ΖΠΗ ΤΗΕΟΒΙΕ DER BIQUADRATISOHEN REs'rE. 1.‘ 317
+
+14.
+Diese eigentlichen Primitivpunkte lassen sich in 4 Classen F, F'‚ F'‚ F '''
+
+theilen ‚ so dass
+
+iF 3 F' iF' 3 F'' iF'' 3 F''' iF''' Ξ F
+—F Ξ F'' -Ff Ξ F''' —F'' Ξ F —Fm Ξ F'
+—iF Ξ F'' —iF' Ξ F —iF'' Ξ F' ——iF''' 3 F''
+
+Hiebei findet nun folgendes hbchst wichtige 'Theorem statt.
+’ Es sei M eine zahl, welche mit m keinen F actor gemein hat. Von den
+
+Zahlen MF gehbren in die Classe F eine Anzahl von n
+
+F ' η’
+F ΙΙ nn
+F ll! ηΙΙΙ
+
+und der kleinste Rest von η’-ὶ-2η”-1-3η” nach dem Modulus 4 sei Ξ Ν, also N
+einer der 4 Zahlen Ο, 1, 2, 3 gleich: unter dieser Voraussetzung ist N zmab-
+hetwffly von der Art der Vertheilung der Primitivreste in Classen. Wir nennen
+ihn den Decident des biquadratischen Verhffltnisses der Zahl M zu m.
+
+15.
+
+Die einfachste Art der Vertheilung ist allerdings lolgende
+
+(adm
+
+fx
+m Γ ζ r* §im
+Ἀ 9!
+{ss
+Inzwischen kann in speciellen Pallen eine andere Vertheilung vortheilhafter sein.
+
+16.
+
+Sind f‚f'‚f'' etc, die sammtlichen Primitivreste des Modulus m, so ist
+

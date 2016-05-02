@@ -1,0 +1,33 @@
+BEMERKUNGEN.
+
+Die hier unter der gemeinsamen Uebersehrift, zur 'rhem-ie der eomplexen Zahlen, zusammengestellten
+Untersuchungen bilden zerstreute Notizen in der Handschrift. Sie euthalten die wesentlichen Momente des Be-
+weises vom FERMATse-hen Satze fin· die dritte und snnfte Potenz. Die aus dritten XVurzeln der Einheit zucam-
+mengesetzten Zahlen sind in unvollstfindigen hier nieht· abgedruekten Auf'zeiehnungen sowohl mit Hfilfe der
+Theorie der binaren quadratischen Formen, als auch der Kreistheilung untersueht. Bei Celegenheit der An-
+
+wendung der letztern und zwar wfiihrend der Ausarbeitung der Abhandlung Dc'sqm‘sitc'onum eirca aeslzcatc'ones
+x⁷² —— 1
+
+puras ulterior evolutio ist noch <lie ternfire cubische Form aufgestellt‚ in welche 27 -h**T fur eine Prim-
+zahl n Ξ 1 mod. 3 verwandelt werden kann, und zugleich die Theorie der Composition der mit jener ver-
+
+wandten Form X³†271 1⁷³ -†- m mZ3— 3 mX YZ entwiekelt.
+
+Die in den Untersuchungen des Bruehsttick [1] vorausgesetzte Eigenqehaft der aus ‹Il-{tten Wurzeln
+der Einheit gebildeten ganzen Zahlen, dass jede nur auf Eine Weise in Primsactoren :zerlegt werden kann,
+ergibt sich aus dem Eccmnischen Versahren, die gemeinsamen Theiler zweier Zahlen zu bestimmen, wenn
+dabei der unter [11] abgeleitete Satz aber die nachste ganze zahl fiir irgend eine vorgegebene Bruchaahl
+in Anvoendung gebracht wird.
+
+Dass dieselbe Fundamentaleigenschaft auch den aus funsten U'urzeln der Einheit zusammengesetzten
+Zahlen zukommt. folgt daraus, dass der nach einer ganz analogen Regel wie in [11] gebildete Bruchrest
+entweder *son m oder doeh von m multiplicent in eine geeignete Einheitszahl E so beschaffen ist, dass er
+durch Subtraction von dex· vorgegebenen zahl mji eine ganze zahl entstehen lasst und dass sein Deter-
+minant die Einhcit nicht Ubertrifft. Die Einheitszahlen lassen sloh aber, wie in [111] angedeutet, aus der
+Theorie der binaren quadratischen Formen vom Determinant ῡ in Verbindung mit der Zerlegung irgend
+einer reellen Primzahl in vier Factoren (z. Β. 11 z Det. (2 †e)) ableiten, nemlich als Produete der Po-
+tenzen von ε und 1-ξ-ε,
+
+scamno.
+

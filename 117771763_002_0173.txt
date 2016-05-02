@@ -1,0 +1,53 @@
+THEOREMATIS FUNDAMENTALIS m Doc‘rmNA DE REsmms DEMM. mc. 163
+
+Ξ die Function
+
+oe-—ff—‹l-oeC— ωη-ἤ-ωθ- etc, —oe⁷*
+
+wo (des bequemern Drucks wegen) ζ, η, θ . . . λ statt der Zahlen αα, αἶ’,
+α4 . . . αΡ”2 gesetzt sind;
+
+ε die Einheit, positiv genommen, wenn Ρ von der Form alle-141, negativ‚
+wenn Ρ von der Form 4k÷3 ist3
+
+ὃ die Einhest, positiv genommen, wenn wenigstens eine der Zahlen p,q von
+der Form 4k÷1 ist, negativ, Wenn beide von der Form 4lc—{-3 sind;
+
+γ die Einheit‚ positiv genommen‚ Wenn q ein quadratischer Rest von Ρ ist,
+negativ‚ wenn q quadratischer Nichtrest von Ρ ist3
+
+ὅ die Einhest, positiv genommen‚ wenn Ρ ein quadratischer Rest von q,
+negativ, wenn Ρ ein quadratischer Nichtrest von q ist.
+
+Nach diesen Vorbereitungen folgt leicht aus dem 51. Art. der Disquz'sitiones
+
+Arithmetz'cae, dass die Function
+
+Eq———oe-‘l—{— ΡΨ -oeff-Q-oew —- oeff—l- etc, -i-oeff
+
+entwickelt lauter durch q theilbare Cofflficienten bekommt, und daher, wenn
+diese Function z qX gesetzt wird‚ X eine auch in Beziehung auf die 0οόΐῇ-
+cienten yanze Function werde. Durch Schh‘isse‚ in die naher einzugehen hier zu
+weitliiufig sein winde, wird in der Abhandlung bewieaen, dass die F unction qXff
+mit ‹vP‘¹—†—oeP*²-†—oep“³-{—oe1⁹‘⁴—}- ete. -4-oe—{—1 dividirt, den Rest
+
+ἔθνη-γ)
+
+ΞΜδΡ
+gibt, daher aus der Division der Function X ξ mit demselben Divisor der Rest
+
+epffip÷‹⁹‘¹>—7)
+‘l
+
+ 
+
+hervorgehen wird. Diese Grifisse muss daher nothwendig eine ganze Zahl sein,
+woraus, weil δδ -—-= 1 ist, leicht geschlossen wird‚ dass
+p÷(q-¹)—73
+
+durch q theilbar sein mfisse. Da nun auch p†(q-¹)—6 durch q nach einem
+bekannten Theorem theilbar ist, so wird nothwendig ὅ = γδ sein, woraus wie—
+
+derum das Fundamental—Theorem von selbst folgt.
+21 ²*
+

@@ -1,0 +1,43 @@
+DISQUISITIONES GENERALES DE CONGRUENTHS. 239
+
+Ex his perspicitur, si functio X aequales non habeat divisores secundum modu-
+lum p, eam secundum modulum pk similiter in factores discerpi posse, uti secun-
+dum modulum p. At si X divisores aequales habeat, res fit multo magis com·
+plicata neque adeo ex principiis praecedentibus prorsus exhauriri potest. Quare
+quum quae huc pertineant cuncta communicare non possimus, unicum casum tan—
+tummodo considerabimus, qui plurimum occurrit cuiusque enodatio ad quaedam
+in praecedentibus dubia solvenda requiritur. Hic est, si factores aequales unius
+dimensionis tantum respiciantur. Hic proprie etiam ad congruentiarum radices
+inveniendas adhiberi potest. Generaliter alia occasione hanc rem pertractabimus,
+
+375.
+
+Sit igitur ΧΞ X'(oe—a)m<mod.p) et functio X' ad oe—cz prima3 de-
+siderantur omnes divisores unius dimensionis huic oe—cz secundum modulum p
+congrui ipsius X secundum modulos pp‚p·‘³et0. (Supponimus‚ functionem X
+absolute per σι’-(ι dividi non posse3 alias enim σιν-α secundum modulum
+quemcunque functionem X divideret). Si substituatur z—f-cz pro «τ’, habebitur
+
+Z Ξ Z'z⁷⁷²(mod.p) seu Z r: Z'z⁹⁷²—{-pA
+
+Iam si Z secundum modulum pp per aliquem divisorem formae z÷ap dividi
+potest, necessario A debet esse formae zZff-ff-pB. Nisi hoc sit, disquisitio iam
+
+est finita. Ponamus igitur
+Z Ξ Z'z²²²—}—29Z''z(mod.pp) seu Z z Z'zm÷pZ''z-}-ppB
+
+patetque, Z per z ac quemcunque alium divisorem huic secundum modulum p
+congruum dividi posse.
+
+Ut attentio fixetur, ponemus m z 4, facile perspicietur, quemvis alium ca-
+sum simili modo tractari posse. Iam si Z secundum modulum 203 per aliquem
+
+divisorem formae z-l-ocp dividi potest, erit
+0 Ξ ——ccppZ''—}-ppB(modd.z-l-ocffipf‘) seu αΖ” Ξ B(modd.z,p)
+
+Iam tres casus esse possunt
+
+1) si Ζ”Ξ O(modd.z‚p) et B non Ξ Ο, tunc patet, nullum ipsius α
+valorem congruentiae satisfacere adeoque Z secundum modulum 1⁹³ nullum di-
+visorem formae z-l-ocp habere. Quare disquisitio erit finita
+

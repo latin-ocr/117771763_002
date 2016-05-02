@@ -1,0 +1,62 @@
+378 BEMERKUNGEN.
+
+sondern WVegen gefunden, um aber diese Erlfiuterungen nicht zu sehr auszudehnen, werden sie hier aus ei-
+ner gemeinsamen Quelle abgeleitet.
+
+Indem Χ irgend einen bestimmten ganzzahligen Werth annimmt‚ sei Y* das kleinere‚ Y* das
+ςῑὸεεεῐε der beiden Y, welche den Grenzwerthen von ξ, η ents prechen. Die zu Y* und Y** zugeheri-
+gen XVerthe von p seien p* und p** ,die ebenso wie Υ* und Y** einander nieht gleieh werden kennen‚
+weil die Summe Σ sich nicht uber die Grenzwerthe von ξ und η erst1eckt.
+
+Ffihrt man auf dieselbe Weise wie in den beiden vorhergehenden Aufsatzen [III] und [IV] die
+Summation fiber alle bei demselben X Statt habenden werthe von Y aus, setzt dabei fiir die Anzahl der
+zuischen Ι’ und Y‘' liegenden ungeraden Zahlen [ᾗ Y' ”-»]-- [—Y '-—›-] und fugt die Intensoren, die
+
+sich auf die Grenzen EI- - 0 und = - beziehen, zwei Mal aber mit entgegengesetzten Zeichen hinzu, so
+
+θτὶιὲἱίῖ man fur E(-1)Ilnt p den aus sieben Theilen bestehenden Ausdruck
+
+-2[—1nt.(p— μωὶ)-][- lnt. (p—†- μωί)] worin alle p aufzunehmen‚ fiir welche [Y] gerade,
+x oder y ganz, incl. ξ = 0 und ᾗ, excl. η = 0 und {-
+
+——Int. (pst—funi) wenn [Y*] gerade
+
+-†—Int. (p**-}- μωί) wenn [Y**] gerade
+
+—Int. (p* Ammoi) wenn [Y*] gerade
+
+ξ 5: 0 oder ὲ, ο<η<-;-
+
+÷Int.(p**-}20‚2·) wenn [yn] gerade} 0<ἕ<ὲη η = 0 oder ὲ
+
+-— Int. (p* 4— μωί) wenn [Y*] gerade
+
+νἦ-Ῑῐὶῒ- (1)* *-μωί) wenn [Y* *-ω] gerade} ξε ⁰ oder ’ἐπ η = ⁰ Oder {-
+
+welcher mit (-1)X multiplieirt und uber alle ganzzahligen X summirt den Deeidenten -Ἦ ergibt.
+
+Aus dem ersten Theil des Ausdrucks entsteht auf diese Weise von den nach Argis? Vorschrift 1
+gebildeten ε
+Σε wo X ganz, [Y] gerade
+-Σε wo ausserdem y ganz, [aa] gel-ade
+Fur die folgenden Theile kann ⁶
+--(B)1nt.(p-Bpiu›i) wenn ξε 0
+†(B)1nt. (ρ-ἱ-Βμωί) wenn ξ = »ὲ
+-(Α)Ῑη1;.(ρ-Ι-Αμωί) wenn η = ο
+—l—(A) Int.(p --Αμωι“) wenn η = ᾗ
+—3[(A‘)†(B')] Int. (p -1-Α’μωι’) wenn Χ ganz, [Y—ff-A'm] gwade, ξ und η = υ oder {-
+
+} X ganz, [Y] gerade, 0<·r1<-.2-
+
+Ξ X ganZ, [Y] gerade‚ 0<E<÷
+
+gesetzt werden, worin A'= -†— A oder - A ist, wenn η = 0 oder ἦ, B' = ÷B oder -Β, wenn ξτ- 0
+oder ᾖ, und worin z. Β. (A):-{-1 oder —-1 bezeichnet, jenachdem A positiv oder negativ ist.
+
+Multiplicirt man mit (—1)X, ffihrt die summation tiber X aus, lasst dabei in diesen Ausdrficken u. zwar im
+
+ersten ρ-Βμωί, P—BDoez'‚ vc-ABoei-BBoe, Χ, [Y] bez.in ip, iP, ι’π, -Υ, [Χ]
+zweiten p†B}·tmi, P-l-BDmi, n÷ABoei÷BB0›‚ X, [Y] . .. p, P, π X, [Y]
+dritten p-3-Anmz', P-z-ADmi, n÷AAmi÷AB02‚ X, [Y] . . . p, P, π X, [Y]
+vierten Ρ-Αμωί, Ρ-ΑΒωί, π--ΑΑωί-ΑΒω, X, [Y]..im—ip, iM-iP‚ i-irt, Y—-B, A—-1—[X]
+

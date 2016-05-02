@@ -1,0 +1,58 @@
+DE NEXU INTER MULTITUDINEM OLASSIUM ETc. 27].
+
+Per hanc formulam eruta est multitudo
+
+A ξ A A
+
+ 
+
+ 
+
+ 
+
+ 
+
+100 317 3 1000 3149 10000 31417
+200 633 ξ 2000 6293 20000 62345
+300 949 ἰ 3000 9425 30000 94237
+400 1257 l 4000 12531 40000 125629
+500 1531 ÷ 5000 15705 50000 157093
+600 1335 Q 6000 13353 ² 60000 133453
+700 2209ss 7000 219932. 70000 219901
+300 2521 ᾗ 3000 25137 30000 251305
+900 2321 ὲ 9000 23269 Η 90000 232697
+
+1000 l 3149 l 10000 31417 100000 314197
+
+ 
+
+ 
+
+ 
+
+4.
+
+Ad propositum nostrum non requiritur determinatio exacta, sed potius in-
+dagatio expressionis, quae ad multitudinem exactam quam prope velis accedere
+potest, dum limites in infinitum ampliantur. Sed ante omnia quum haec aliquid
+vagi involvant, rem exactius explicare oportet.
+
+Supponemus itaque, functiones P, Q, R etc. praeter variabiles σε, y impli-
+care elementum constans lc, ita ut singulae P, Q, R etc. sint functiones homoge-
+neae trium quantitatum oe, y, lc. Hoc pacto figura per aequationes P: 0, Q: 0,
+R -—.. 0 etc. determinata pendebit a lc, ita ut valoribus diversis ipsius lc respon-
+deant figurae similes et respectu initii coordinatarum similiter positae, dimensio-
+nesque lineares similes valoribus ipsius lc, areae valoribus ipsius kk proportiona-
+les erunt. Denotetur iam multitudo punctorum intra figuram per M area per V,
+patetque M et V, crescente lc, crescere debere; crescente vero k in infinitum,
+M et V ad rationem aequalitatis quam proxime velis accedent, vel si elementa-
+rem claritatem postulas, proposita quantitate quantumvis parva λ, semper assig-
+nari poterit terminus talis, ut pro quolibet valore ipsius lc hunc terminum su-
+perante certo 31} iacere debeat inter 1--λ et 1-1Γ-λ. Secundum morem suetum
+hoc ita indicare licet: fieri M = V pro valore infinito ipsius lc.
+
+In exemplo nostro conditio requisita locum tenet. statuendo lc τ- χΙΑ, cur-
+vaque fit circulus, cuius area ΞπΑ, denotante π semicircumferentiam circuli
+
+pro radio = 1. Numeri supra traditi convergentiam luculenter addigitant.
+

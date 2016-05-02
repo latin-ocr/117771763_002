@@ -1,0 +1,44 @@
+162 szmess.
+
+ander verschieden. Dieser Lehnsatz besteht in Folgendem: Wenn m eine (posi-
+tive ungerade) Primzahl; M eine ganze durch m nicht theilbare Zahl bedeutet‚
+wenn ferner unter den Resten, die aus der Division der Producte
+
+Μ, 2M, 3M. 4M ...... ffim--QM
+
+durch m entstehen, die Anzahl derjenigm, die gresser als {sm sind, durch η
+bezeichnet wird‚ so ist M quadratischer Rest oder Nichtrest von m, jenachdem
+η gerade oder ungerade ist. Um nun zu dem Beweise des Fundamentallehrsatzes
+zu gelangen, wird angenomnoen, dass auch M eine ungerade positive Primzahl
+und N in Beziehung auf M und m dasselbe bedeutet, was n in Beziehung auf
+m und M ausdrtickt‚ so dass N gerade oder ungerade entscheidet‚ ob m qua-
+dratischer Rest oder Nichtrest von M ist. Durch eine sehr kurze Reihe von
+Schh'issen zeigt der Verfasser‚ dass die Anzahl aller positiven ganzen Zahlen, die
+zugleich kleiner als {mM sind, mit m dividirt einen Rest kleiner als -3-m‚ und
+mit M dividirt einen Rest kleiner als {M geben,
+
+=e(m—1)(M—1-)÷÷n÷÷N
+
+und folglich allemal
+
+÷(m—1><M—1>÷n÷1v
+
+eine gerade Zahl sei. So oft also wenigstens eine der Zahlen m, M von der Form
+4lc—†-1 ist, mithin 71-(m—1)(M-—1) gerade, wird auch n-}-N gerade sein, folg-
+lich entweder η und N beide gerade, oder beide ungerade. Wenn hingegen so-
+wohl m als M von der F orm 4lc—ff-3 ist. wird nothwendig n—-}-N ungerade.
+folglich eine der Zahlen n, N gel-ade, die andere ungerade sein. Hieraus folgt
+in Verbindung mit obigem Lehnsatze das Fundamental-Theorem von selbst.
+
+Der sechste Beweis ist zwar von gleicher Kfirze und Concinniteit wie der
+ffinfte, beruhet aber doch auf etwas kfinstlichern Com binationen. Der beschreinkte
+Raum dieser Blsstter erlaubt nur, mit Uebergehung des Einzefflen, hier das Haupt-
+moment zu berfihren. Es bezeichnen
+
+p, q zwei (ungleiche positive ungerade) Primzahlen‚
+α eine sogenannte radioe primitiva ffir den Modulus p, d. i. eine durch p nicht
+theilbare <hier positive) ganze zahl von der Art, dass keine niedrigere Po-
+
+tenz als <xp-¹ nach dem Modulus p der Einheit congruent wird
+x eine unbestimmte Grcsse
+

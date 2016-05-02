@@ -1,0 +1,45 @@
+DE NEXU INTER Momm-nomem cLAssmM ΕΤσ. 30],
+
+p—1 p-1
+(-1)Τ-μ πῖ Ξ AB 3f(mod.p)
+und
+13:ss „stffi
+2 ⁴ 3 (--ι))““Ῑ]θΞ-Ῐ2μ“1 Ξ 4 (mod p)
+da endlich in diesem Fau b 3 2(mod. 4), und folglieh
+p—I—g' = (ιι-1-1)α’4”1 -Ι-ὂῦῑ ⁴ Ξ 2 a?1'*3*‘'a2—1(m0d.4)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ist, so erhalt man wieder die zu beweisende Congruenz
+
+p-1 ass1
+ῌ m*—
+
+Zu IX.
+Es sei p eine positive ungerade durch kein Quadrat theilbare Zahl, und
+Sr Ξ Σ (εἷς)
+wo εν alle relativen Primzahlen zu p durchlaufen muss, welche zwischen (r—1)—} und r} liegen; be-
+
+zeichnet man die Anzahlen der nicht eigentlich equivalenten formae proprie primitivae fiir die Determinan-
+ten -p und - 2 p resp. mit 0¹ und 02 , so ist (vergl. mennm Recherches sur diverses applicatione etc.
+§. 11 in CRELLE'S Journal XXI)
+C¹ z 2(S¹ †Sz)2 02 = ηιξ-84)
+oder
+0¹ Σ 81-1-82-4-83 -1-ι5ἰ, 02 = 2(Sz-{—S3)
+
+je naehdem p 3 1 oder 3 3(mod. 4) ist. Bedenkt man ferner, dass die Zahlen 3, und s, im Complex
+mit den Zahlen 28, und ια’-284, und ebenso die Zahlen ⁸3 und ε, im Complex mit den Zahlen 28„
+
+und p—233 &bereinstimmem und dass im Falle p 3 1(mod.4) die Summe S, 482 —l- 3³48. = ο ist,
+so ergeben sich in beiden Fauen noch zwei neue Relationen zwischen den vier Summen S„ S„ Sa, S„
+
+so dass jede derselben durch O, und 02 ausgedruckt werden kann. Man erhelt auf diese Weioe, wenn
+
+v 3 1(mod. 4) ist,
+

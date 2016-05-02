@@ -1,0 +1,39 @@
+368 NAcflLAss.
+
+[VL]
+THEORIE DER BIQUADRATISCHEN RESTE.
+
+——.
+
+1.
+
+Eine Reihe ganzer complexer Zahlen φ, φ’, φ”υ. S. w. sei so beschaffen‚ dass
+erstlich sie unter einander alle incongruent, sind nach dem Modulus μ = α-Ι-ὅί,
+α und ὅ ganze reelle Zahlen bezeichnend‚ zweitens dassjede ganze complexe Zahl
+einer von jenen nach dem Modulus μ congruent ist. Unter dieser Voraussetzung
+heisst der Inbegriff der Zahlen φ, φ’, <p''u. s.w. ein vollsteindiges Restsystem fiir
+den Modulus μ. Es ist bewiesen‚ dass die Anzahl der darin begriffenen Zahlen
+der Norm von μ, d. i. der Zahl ‹xa-{266 gleich ist, welche mit ν bezeichnet
+
+werden soll.
+
+2.
+
+Unter den Zahlen φ, φ’, φ” u. s. w. ist Eine durch μ theilbare; wird dieselbe
+ausgeschlossen und der Inbegriff der fibrigen mit χ bezeichnet‚ so bildet χ ein
+vollstdndiges System der durch den Modulus untheilbaren Reste‚ deren Anzahl
+--. v —1. Beschreinken wir die Untersuchung auf ungerade Modulen‚ so ist v—-l
+durch 4 theilbar. Es werden dann ferner f, af, ——s‚ -if unter sich incon-
+gruent sein, folglich diejenigen Zahlen in χ. welche resp. denen if, —-f‚ —if
+congruent sind, unter sich und von f verschieden. (Associirte und zusammenge-
+setzte Zahlen.)
+
+Hieraus ergibt sich eine Zerlegung von χ in vier Gruppen oder partielle
+Systeme κ, κ’, κ”, κ”’. Man setzt. eine beliebige Zahl aus χ, z, B. φ in die Gruppe
+κ, und die drei den Zahlen inp, -φ, -ἱφ congruenten Glieder von χ, der Reihe
+nach in die Gruppen κ’, κ”, xm. Nachdem diese vier Zahlen aus χ gestrichen sind,
+setzt man eine beliebige der fibrigen wieder in κ, und die drei auf &huliche Art
+davon abhelngigen in κ’, κ”, κ”’. So faihrt man fort, bis das ganze System χ ver-
+theilt ist. Die Gruppen κ, κ’, κ”, nm sollen zusammengehiirige Viertelsysteme
+heissen. Es ist klar, dass sie folgende Eigenschaften haben:
+

@@ -1,0 +1,43 @@
+COMMENTATIO PRIMA. 69
+
+residuo quadratico ipsius p , si congruentiae <2⁰⁴ Ξ α satisfieri posset, per valo-
+rem ω Ξ e, foret c4 Ξ bb, sive productum (cc—b) (cc÷b) per p divisibile.
+unde p vel factorem cc—b vel alterum σσ-Ι-ὂ metiri deberet, i. e. vel ÷b
+vel -b foret residuum quadraticum ipsius p, et proin uterque (quoniam —1 est
+residuum quadraticum), contra hyp.
+
+Omnes itaque numeri integri per p non divisibiles in tres classes distribui
+possent, quarum prima contineat residua biquadratica‚ secunda non-residua biqua-
+dratica ea, quae simul sunt residua quadrati'ca, tertia non-residua quadratica. Ma-
+nifesto sufficit, tali classificationi solos numeros 1, 2, 3 ..... p—1 subiicere, quo-
+rum semissis ad classem tertiam reduceretur, dum altera semissis inter classem
+primam et secundam distribueretur.
+
+5.
+
+Sed praestabit. quatuor classes stabilire, quarum indoles ita se habeat.
+
+Sit A complexus omnium residuorum biquadraticorum ipsius p, inter 1 et
+})—1 (inclus.) sitorum, atque e non-residuum quadraticum ipsius p ad arbitrium
+electum. Sit porro Β complexus residuorum minimorum positivorum e productis
+eA secundum modulum p oriundorum, et perinde 611) resp. complexus residuo-
+rum minimorum positivorum e productis eeA, e³A secundum modulum p pro-
+
+deuntium. His ita factis facile perspicitur, singulos numeros Β inter se diversos
+fore, et perinde singulos O, nec non singulos D; cifram autem inter omnes hos
+
+numeros occurrere non posse. Porro patet, omnes numeros3 in A et O conten-
+tos, esse residua quadratica ipsius p, omnes autem in Β et D non-residua qua-
+dratica‚ ita ut certe complexus A, Ο nullum numerum cum complexu Β vel D
+communem habere possint. Sed etiam neque A cum C, neque Β cum D ul-
+lum numerum communem habere potest. Supponamus enim
+
+I. numerum aliquem ex A. e.g. α. etiam in C inveniri, ubi prodierit e pro-
+ducto eea' ipsi congruo, existente α’ numero e complexu A. Statuatur αΞα4,
+a' Ξ α’4, accipiaturque integer Θ ita. ut fiat Θοί Ξ 1. His ita factis erit
+eea‘4 Ξ α4, adeoque multiplicando per (43¹⁴,
+
+ee Ξ ostes*
+
+i. e. e‘e residuum biquadraticum‚ adeoque e residuum quadraticum‚ contra hyp.
+

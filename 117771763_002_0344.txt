@@ -1,0 +1,70 @@
+334 NAanAss.
+
+2oe
+
+2w—{-—l
+
+Hieraus ist klar, dass dei· kleinste Rest von N nach dem Modulus m zu f,f'.f'',f'''
+
+2N
+
+gehbren werde, je nachdem die in —ff enthaltene ganze zahl Ξ ξ-Ι-ηί gesetzt
+
+ξ gerade η gerade
+ξ ungerade η gerade
+Ε ungerade η ungerade
+
+Ξ gerade η ungerade
+6.
+Hienach findet sich der Decident von M nach dem Modulus m auf fol-
+gende Art. Man suche die ganzen Zahlen, die in allen einzelnen ΨΜ enthalten
+
+ 
+
+7η
+sind. Diese allgemein durch oe†yi bezeichnet‚ lasse man ganz aus der Acht‚
+
+diejenigen‚ wo x undy beide gerade sind, rechne fiir jede derjefflgen, wo αρ’ un-
+gerade und y gerade ist, eine, entnehme fiir jede derjenigen‚ wo ιτ und y beide'
+ungerade sind, zwei, und drei ffir jede von denen, wo oe gerade. y ungerade ist.
+Von der Summe aller dieser Zahlen nehme man den kleinsten Rest nach 4, wel-
+
+cher der verlangte Decident sein wird. Wir drficken dies so aus
+
+ 
+
+ 
+
+Dec {I —· *¹72
+⁹ m *- ’-
+wo [2211] z auf-Ji, η -- 0 zu setzen ist, wenn ω’ gerade y gerade
+1 χ’ ungerade y gei-ade
+2 «Υ ungerade y ungerade
+3 α) gerade y ungerade
+Kfirze halber wollen wir n durch die (Jharacteristik Θ bezeichnen, η Ξ ΘᾘΜῆ.
+
+m
+
+ 
+
+*) Um zu entscheiden, in welche Classe JI in Beziehung auf m gebest, wzahlt man diejenigen XVer-
+
+l kg! ΛΠ] gerade wird‚ und. addirt —— Σ [ :lillis
+
+ 
+
+the von la (unter den Zahlen 1, 2, 3 . . ·st- 1) aus, wodurch [
+
+Nimmt man l„- nur bis ἦρ, 30 hat man zu suminiren
+
+—²{[²'‘²⁷'‘'M]²÷[³22]ss
+
+I)
+ΗΖΕ] die durch 1†2· thenbar sind.
+
+ 
+
+ 
+
+fiir diejenigen NVerthe von [
+

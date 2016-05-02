@@ -1,0 +1,53 @@
+FREQUENZ DER PRIMZAHLEN. 445
+
+cribrum, und ich habe (da 1611 zu einer anhaltenden Abzahlung der Reihe nach
+keine Geduld hatte) sehr oft einzelne unbeschaftigte Viertelstunden verwandt, um
+bald 1116 bald dort eine Chiliade abzuzahlem ich 11688 jedoch zuletzt es ganz hegen,
+ohne mit der Million ganz fertig zu werden. Erst spater benutzte ich Gom)-
+SCHMIDT’S Arbeitsamkeit‚ theils die noch gebliebenen Lficken in der ersten Million
+auszuftsslen, 1116118 nach BURCKHARDT'S Tafeln die Abzahlung weiter fortzusetzen
+So sind (nun sehon seit vielen J ahren) die (1161 6181611 Μ1111ο11611 35862111111, und
+mit dem Integralwerth verglichen. Ich setze hier nur einen kleinen Extract her:
+
+Integral
+
+gibt es sgn— Ihre
+Unter Primzahlen logn Abweich. Formel Abweich.
+
+500000. 41556 41600,4.-ξ- 50,4 41596‚9—}- 40‚9
+10000001 78501 79627,5—}-126‚5 78672‚7÷171,7
+1500000 114112 114263‚1÷151,1 114374‚0-{-264‚0
+2000000 2 148883 149054,8-1-171,8 149233,0-{-350,0
+2500000 ³ 183016 183245‚0-†—229‚0 183495‚1-†-479‚1
+3000000 216745 216970,6-1-225,6 217308‚5—{—563,5
+
+ 
+
+ 
+
+Dass LEGENDRE sich auch mit diesem Gegenstande beschaftigt hat, war mir
+1116111 bekannt, auf Veranlassung Ihres Briefes habe 1611 111 8611161 lee'orz'e des
+N ombres nachgesehen‚ und in der zweiten Ausgabe einige darauf bezfigliehe Sei-
+ten gesunden‚ die ich 11111161 fibersehen (oder seitdem vergessen) haben muss.
+
+LEGENDRE gebraucht die Formel
+
+ 
+
+loga—A
+
+wo A eine Constante sein soll, fiir welche e1· 1,08366 86121. N ach einer 111161111-
+gen Rechnung finde ich danach in obigen Fallen die Abweichung
+
+- 23‚3
+-1- 42‚2
+-1- 681
+-1- 928
+-1-159,1
+-1-167,6
+
+1)1686 Differenzen sind noch kleiner als die mit dem Integral‚ sie scheinen
+
+aber bei zunehmendem n schneller zu Wachsen als diese, so dass leicht 11ιό811611
+Π. 62
+

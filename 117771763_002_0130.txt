@@ -1,0 +1,48 @@
+1:30 THEOmA RESIDUORUM BlQUADRATICORUM.
+
+essentialiter non differat ab ea, quae pro arithmetica numerorum realium locum
+habet, atque in Dis-quisitionibus Aritlmzeticis copiose exposita est, praecipua mo-
+menta hic adscripsisse sufficiet.
+
+1. Congruentia mc Ξ 1 (mod. m‘) aequivalet aequationi indeterminatae
+mt-†-112'u :z 1, et si huic satisfit per valores t: h, u Ξ ll, illius solutio gene,
+raliter exhibetur per τΞ Ιι,<ηιοε1.φη’)τ conditio autem solubilitatis est, ut modu-
+lus m' cuni coeffficieute m divisorem communem non habeat.
+
+ΙΙ. Solutio congruentiae aoe-st-l) {c(mod.]ll) in casu eo, ubi a, M sunt
+
+inter se primi, pendet a solutione huius
+
+at Ξ 1 (mod. M)
+
+cui si satisfacit t :z Ιι, illius solutio generalis continetur in formula
+ου Ξ (c—-bfh (mod.M)
+
+III, Congruentia aoe÷b{c(niod.M) in casu eo, ubi a, M divisorem
+
+communem λ habent, aequivalet huic
+
+ξω Ξ 0ζό (ωοᾱέζί)
+
+ 
+
+Dum itaque pro λ adoptatur divisor communis maximus numerorum a, M, solu-
+tio congruentiae propositae ad casum praecedentem reducitur, patetque, ad reso-
+lubilitatem requiri et sufficere, ut λ etiam differentiam c—b metiatur.
+
+49.
+
+Hactenus elementaria tantum attigimus, quae tamen nexus caussa omittere
+non licuit. In disquisitionibus altioribus arithmetica numerorum complexorum
+arithmeticae realium in eo similis est, quod theoremata elegantiora et simpliciora
+prodeunt, dum tales modulos, qui sunt numeri primi, solos admittimus: revera
+illorum extensio ad modulos compositos plerumque prolixior quam difficilior est,
+et laboris potius quam artis, Quapropter in sequentibus imprimis de modulis
+
+primis agetur.
+
+50.
+Denotante X functionem indeterminatae a? talem
+
+Aoen÷Boe⁷²-¹-{- Coe'2-2-4- etc, —l-Moe-l-Ng
+

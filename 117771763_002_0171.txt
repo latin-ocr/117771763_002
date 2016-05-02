@@ -1,0 +1,40 @@
+THEOREMATIS FUNDAMENTALIS m Doc'rmNA DE REsmms DEMM. E‘rc. 161
+
+nicht ein besonderer Umstand ihn dazu veranlasst hatte, der hier erwahnt wer-
+den mUSS. Seit dem J ahre 1805 hatte er nemlich angefangen‚ sich mit den Theo-
+rien der cubischen und biquadratischen Reste zu beschaftigen‚ welche noch weit
+reichhaltiger und interessanter sind, als die Theorie der quadratischen Reste. Es
+zeigten sich bei jenen Untersuchungen dieselben Erscheinungen wie bei der letz-
+tem, nur gleichsam mit verg1·6ssertem Massstabe. Durch Inducti0n‚ sobald nur
+der rechte Weg dazu eingeschlagen war, fanden sich sogleich eine Anzahl hbchst
+einfacher Theweme, die jene Theorien ganz erschifipfen, mit den fiir die quadra-
+tischen Reste geltenden Lehrsatzen eine Uberraschende Aehnlichkeit haben, und
+namentlich auch zu dem Fundamentaltheorem das Gegenstfick darbieten. Allein
+die Schwierigkeiten, fiir jene Lehrsatze ganz befriedigende Beweise zu finden.
+zeigten sich hier noch viel gresser, und erst nach vielen, eine ziemliche Reihe
+von J ahren hindurch fortgesetzten Versuchen ist es dem Verfasser endlich gelun-
+gen, sein Ziel zu erreichen. Die grosse Analogie der Lehrsatze selbst, bei den
+quadratischen und bei den hehern Resten‚ liess vermuthen, dass es auch analoge
+Beweise fiir jene und diese geben mfisse3 allein die zuerst fiir die quadratischen
+Reste gesundenen Beweisarten vertrugen gar keine Anwendung auf die hbhern
+Reste‚ und gerade dieser Umstand war der Beweggrund, fiir jene immer noch
+andere neue Beweise aufzusuchen. Der Verf. wsinscht daher, dass man die vor-
+liegende Abhandlung‚ die fiir die Theorie der quadratischen Reste noch einige
+neue Hi'ilfsquellen erbffnet, als V orlauferin der Theorie der cubischen und biqua-
+dratisehen Reste betrachte‚ die er in Zukunft bekannt zu machen denkt, und die
+zu den schwierigsten Gegenstanden der hbhern Arithmetik gehen-en.
+
+Die gegenwartige Abhandlung besteht aus dreien von einander unabhangi-
+gen Theilen. Sie enthalt: nemlich den ffinften und sechsten Beweis des Funda-
+mental-Theorems und eine neue, mit dem dritten Beweise zusammenh'angende
+Methode‚ zu entscheiden‚ ob eine vorgegebene ganze Zahl von einer gegebenen
+Primzahl quadratischer Rest oder Nichtrest sei. Unter den vier ersten Beweisen
+war der dritte unstreitig derjenige, der die grbsste Einfachheit mit Unabhangig-
+keit von fremdartigen Untersuchungen vereinigte‚ daher ihn auch LEGENDRE in die
+neue Ausgabe seines Essaz‘ d’une tlze'orie des nombres ausgenommen hat. Der fimfte
+Beweis scheint dem dritten in beiden Hinsichten wenigstens gleich zu kommen.
+Beide Beweise haben insofern einige Verwandtschaft, dass sie von einem und dem-
+
+selben Lehnsatze ausgehen‚ sind aber bei der weitern Ausfl‘ihrung vffllig von ein-
+II. 21
+

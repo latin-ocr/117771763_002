@@ -1,0 +1,50 @@
+sommo coneRUEN'mAE aen—1 Ξ 0. 209
+
+(efsske4- α) designare licet. Si loco ipsius Rs* terminum R* consideravissemus‚
+alium ipsius r valorem nacti essemus3 sed sine negotio perspicitiu, pro quacun-
+
+que radice ρ, radicem r, 2⁸— valores diversos habere posse.
+
+ef
+251.
+
+Iam quomodo ex designatione unius periodi ceterae signis suis distinguantur,
+videamus. Ad hunc vero finem aliam methodum quaerere oportet reliquas pe-
+riodos inveniendi; namque quatenus reliquae ut ipsa A radices alicuius con·
+gr'uentiae sunt, nullus in illis ordo cernitur. Ponamus ipsum A ita esse de-
+signatum (effi 0), ex praece. sequitur, fore
+
+A2 formae M÷N(ef*0)—†-O(ef*1>—†-P(ef*2)-†- . . .
+A3 formae M‘-}—N'(ef* 0)-{- 0'(3f*¹)'†‘ . . .
+etc.
+
+Aes—¹ formae M*—}-N*(ef*O)-{- O*(ef>1<l)-{— . . .
+His accedit congruentia
+
+<ef*0>÷<ef*1>÷ . . . ÷<ef*ef—1> Ξ —1
+
+Habentur itaque cf—-1 congruentiae lineares totidemque quantitates incognitae,
+quae igitur per eliminationem determinari possunt.
+Amwt. Casus occurrere potest, quo quantitates incognitae per huiusmodi
+V
+
+expressiones dantur 5593 quomodo vero huic difficultati remedium afferri possit,
+
+infra docebimus. Hic, quoniam hic casus perraro occurrere potest, ei immorari
+
+nolumus.
+
+252.
+
+Haec in genere de solutione congruentiarum purarum sufficiant. Passim in-
+fra multa adhuc de ipsis dicentur; praesertim multa ex solutione aequationum puss
+rarum huc trahi possunt, quae loco suo annotare non negligemus. Exemplum ad-
+huc apponimus, quo cum praeceptis collam, omnia minus peritis clariora fient.
+
+Sit n z: 31, p z 311, sive investigandae sunt radices congruentiae
+oe31———1 Ξ Ο (mod. 311). Stat-im radix primitiva congruentiae y3⁰—1 Ξ (mod. 31)
+est quaerenda, qualis est y Ξ 3. Ponamus itaque ρ Ξ 3 et omnes congruentiae
+propositae radices primitivas primum in 5 periodos discerpamus , scilicet
+
+II. 27
+

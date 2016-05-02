@@ -1,0 +1,31 @@
+518 NACHLAss.
+
+Man kann die Vorschrist also auch so ausdrficken, (immer voraussetzend
+p 3 5 (mod. 8))
+
+Es ist b 3 a-†— 1 (mod. 8), wenn m gerade
+
+b 3 a—ff— 5 wenn m ungerade.
+
+Ich wage noch keine Vermnssmng, ob ein noch einfacheres Criterium mbg-
+lich ist, woran man den Fau des geraden m von dem des ungeraden im Voraecs
+unterscheiden kffinnte, d. i. ohne den Werth von m selbst zu kennen, da, wie ich
+sehon oben bemerkt habe, dies Rapprochement noch ganz neu ist.
+
+Ffir den Fal] p Ξ 1 (mod. 8), bleibt zwar obige Congruenz b Ξ 2lc-1s— a--l
+(mod. 8) richtig‚ entscheidet aber nicht mehr iiber das Zeichen von b, da sie dem
+positiven und negativen VVerthe von b zugleich genug thut. Es ist hier nemlich
+
+lc immer gerade‚ z 2m (wenn die Bedeutung von m eben so ausgesprochen wird
+wie oben) oder z 2m÷ 2, wenn man unter m die Anzahl der Zerlegungen von
+p in 3 positive mzyleicke Quadrate versteht‚ und b 3 0 (mod. 4), oder b 3 —h
+
+(mod. 8). Ich vermuthe dass der Fan p 3 1 (mod. 8) oder b Ξ 0 (mod. 4) al-
+tioris indaginis ist und vielleicht wieder
+b 3 4 (mod. 8) leichter als b 3 Ο (mod. 8)
+b 3 8 (mod. 16) leichter als b Ξ 0 (mod. 16)
+u. s. w.
+Mit ausgezeichneter Hochachtung beharre ich
+Ihr freundschaftlich ergebenster
+Gettingen den 30. Mai 1828. C. F. GAnss.
+

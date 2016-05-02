@@ -1,0 +1,41 @@
+88 rnaorzm RssmuoRUM BlQUADRA'ricoRUM.
+
+21 .
+
+Postquam problema nostrum solvimUS‚ ad disquisitionem principalem re-
+vertimur, determinationem completam complexus, ad quem numerus 2 pertinet.
+iam aggressuri.
+
+Ι. Quoties J) est formae Srz—l—l, iam constat, numerum 2 vel in com-
+plexu A vel in complexu O inveniri. In casu priori facile perspicitur, etiam nu-
+meros {lp—l), 3⁷(p—l—1) ad A pertinere, in posteriori vero ad C. Iam perpen-
+damus, si α et α-ἦ-1 sint numeri contigui complexus A, etiam p—a—-t, p-a
+tales numeros esse, sive, quod idem est, numeros complexus A tales, quos se-
+quatur numerus ex eodem complexu, binos semper associatos esse, (α et p—-l -α).
+Talium itaque numerorum multitudO, (00), 'semper erit par, nisi quis exstat sibi
+ipse associatus, i. e. nisi ¹ (p——·1) ad A pertinet, in quo casu multitudo illa im-
+par erit. Hinc colligimus, (00) imparem esse, quoties 2 ad complexum A, pa-
+rem vero, quoties 2 ad C pertineat. Sed habemus
+
+Mimo) z aa-l—bb—ssa—ll
+sive statuendo α :- 4q—†-1, b z 4). (v. art. 14),
+
+(00) 2—- qq—q÷rr—1
+Quoniam igitur qq-—q manifesto semper par est, (00) impar erit vel par, prout
+r par est vel impar, adeoque 2 vel ad A vel ad O pertinebit, prout b est vel
+formae Sm vel formae Sm—{— 4. Quod est ipsum theorema. in art. 14 per in-
+ductionem inventum.
+
+11. Sed etiam casum alterum, ubi p est formae Sus—l—5. aeque complete
+absolvere licet. Numerus 2 hic vel ad B, vel ade pertinet, perspiciturque fa-
+cile. in casu priori {sp—1) ad B, {lp—kl) ad D, in casu posteriori autem
+21-(22—1) ad D, fip—,l-l) ad B pertinere. Iam perpendamus, si ὅ sit numerus
+ex B talis, quem sequatur numerus ex D, fore etiam numerum p—6—1 ex
+B atque p-—6 ex D, i. e. numeros illius proprietatis binos associatos semper
+adesse. Erit itaque illorum multitudo, (13), par, excepto casu, in quo unus eo·-
+rum sibi ipse associatus est, i. e. ubi »ΗΡ-1) ad B, 3-(p-f—1) ad D pertinet,
+tunc scilicet (13) impar erit. Hinc colligimus, (13) parem esse, quoties 2 ad D,
+imparem ver0, quoties 2 ad B pertineat. Sed habemus
+
+16(13)= aa÷bb÷2a÷4b÷1
+

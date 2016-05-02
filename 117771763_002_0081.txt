@@ -1,0 +1,43 @@
+COMMENTATIO PRIMA. 71
+
+a est residuum biquadraticum ipsius p, puta Ξ α4, quatuor radices congruentiae
+,25⁴ Ξα erunt α, fot, -α, ——foc, quas inter se incongruas esse facile perspici—
+tur. Hinc patet, si colligantur residua minima positiva biquadratorum 1, 16,
+81, 256 . . . . (p—1)⁴, quaterna semper aequalia fore, ita ut {Qu—1) residua bi-
+quadratica diversa habeantur complexum A formantia. Si residua minima biqua-
+dratorum usque ad (ἦρ-ἦγ’ tantum colliguntur, singula bis aderunt.
+
+7.
+
+Productum duorum residuorum biquadraticorum manifesto est residuum bi-
+quadraticum‚ sive e multiplicatione duorum numerorum classis A semper prodit
+productum, cuius residuum minimum positivum ad eandem classem pertinet. Per-
+inde producta numeri ex B in numerum ex D, vel numeri ex Ο in numerum
+ex O, habebunt residua sua minima in A.
+
+In B autem cadent residua productorum A.B et 0.D; in G residua pro-
+ductum A. O, B.B et D.D; denique in D residua productorum A.B et B. C.
+
+Demonstrationes tam obviae sunt, ut sufficiat, unam indicavisse. Sint e. g.
+c et d numeri ex O et D, atque c Ξ eea, d Ξ e³a'‚ denotantibus a, α’ nu-
+meros ex A. Tunc e4aa' erit residuum biquadraticum, i. e. ipsius residuum mi-
+nimum ad A referetur: quare quum productum cd fiat Ξ e.e⁴aa'‚ illius resi-
+duum minimum in B contentum erit.
+
+Simul facile iam diiudicari potest, ad quamnam classem referendum sit pro-
+ductum e pluribus factoribus, Scilicet tribuendo classi A, B, 0, D resp. cha-
+racterem Ο, 1, 2, 3, character producti vel aggregato characterum singulorum
+factorum aequalis erit, vel eius residuo minimo secundum modulum 4.
+
+8.
+
+Operae pretium visum est, hasce propositiones elementares absque admini-
+culo theoriae residuorum potestatum evolvere, qua in auxilium vocata omnia ad-
+huc multo facilius demonstrare licet.
+
+Sit 9 radix primitiva pro modulo p, i.e. numerus talis, ut in serie potesta-
+tum 9, 99, 93. . . . nulla ante hanc 91””“1 unitati secundum modulum p congrua
+evadat. Tunc residua minima positiva numerorum 1, 9, 99, 93. . .. 91η-2 praeter
+ordinem 'cum his 1, 2, 3 ..... p—-l convenient, et in quatuor classes sequenti
+modo distribuentur:
+

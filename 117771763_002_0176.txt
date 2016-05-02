@@ -1,0 +1,40 @@
+166 Ammon.
+
+noch keinesweges dazu bestimmt, den fiberaus reichhaltigen Gegenstand zu er-
+schcpfen. Die Entwickelung der ‹lllyemeinen Theorie, welche eine ganz eigen-
+thtimliche Erweiterung des Feldes der hchern Arithmetik erfordert‚ bleibt viel-
+mehr der kfinftigen Fortsetzung vorbehalten‚ wssihrend in (11030 erste Abhandlung
+diejenigen Fntersuchungen aufgenommen sind, welche sich ohne eine solche Er-
+weiterung x’ollstiindig darstellen liessen. Von den Resultaten kann in dieser An—
+zeige nur 0111 'sheil ausgehoben werden.
+
+Eine ganze zahl α heisst biquadratischer Rest der ganzen zahl Ρ, 11701111 03
+Zahlen der Forrn „vs—a gibt, die durch Ρ theilbar sind3 biquadratischer Nicht-
+rest hingegen, wenn keine Zahlen jener Form durch Ρ 1110111131· 30111 1161111011. Of-
+fenbar sind 3110 biquadratischen Reste von Ρ zugleich quadratische Reste dersel-
+ben zahl, und 3130 3110 quadratischen Nichtreste auch biquadratische Nichtreste:
+3110111 nicht alle quadratischen Reste sind zugleich biquadratische Reste. Es ist zu-
+reichend. die Untersuchungen auf den F all einzuschreinkem wo Ρ 01110 Ρ1·1111Ζ3111
+von der Form 472—1—1, und α nicht durch Ρ theilbar ist, da 3110 anderen Faue
+31011 leicht auf diesen zuriickffihren lassen.
+
+Die Untersuchungen fiber diesen Gegenstand zerfallen in zwei Abtheilun-
+gen, je nachdem Ρ oder a als gegeben angesehen wird. Die erstere ist von viel
+geringerer Schwierigkeit als die zweite‚ und verglichen mit letzterer 313 ganz ele-
+mentarisch zu betrachten. Alles VVesentliche, was daruber zu Sagen ist, enthfflt
+die Abhandlung vollst‘eindig.
+
+Aus der zweiten Abtheilung hingegen sind hier nur erst einige specielle Faue
+abgehande1t‚ die sich ohne zu grosse Zurustungen abmachen liessen, und als Vor-
+bereitungen zu der kfinftig zu gebenden allgemeinen Theorie dienen kbnnen.
+Dies sind diejenigen‚ wo α z —1‚ und a z ss2 gesetzt wird. Der erstere
+Fau hat gar keine Schwierigkeit: es war auch schon in dem VVerke, Disquisitio-
+nes Arfflmefficae, gezeigt, dass —1 ein biquadratischer Rest von Ρ ist, so ost Ῥ
+die Form Suq—1 hat, hingegen ein blos quadratischer Rest und biquadratischer
+Nichtrest von Ρ, wenn Ρ 17011 der Form 8n÷5 wird. Ganz anders verhiilt 03
+31011 mit dem Fau a z ss2. Es ist zwar liingst bekannt, dass 42 und —2
+von Ρ quadratische und also auch biquadratische Nichtreste sind, wenn p die
+Form 8n÷5 hat, und wenigstens quadratische Reste‚ wenn Ρ von der Form
+ὃη-Ι-ῑ ist, wie auch dass bei dieser Form von Ρ entweder -{-2 und —- 2 zu-
+gleich biquadratische Reste, oder zugleich biquadratische N ichtreste werden: al-
+

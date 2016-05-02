@@ -1,0 +1,40 @@
+68 mEomA REsmnoRUM BIQUADRATICORUM.
+
+tatione disquisitones eas explicabimus, quas iam cis campum Arithmeticae am-
+pliatum absolvere licuit, quae illuc viam quasi sternunt, simulque theoriae divi-
+sionis circuli quaedam nova incrementa adiungunt.
+
+2.
+
+Notionem residui biquadratici in Disquisitionibus Arithmetz‘cz's art. 115 intro-
+duximus: scilicet numerus integer α, positivus seu negativus, integri p residuum
+biquadraticum vocatur, si α secundum modulum p biquadrato congruus fieri pot-
+est, et perinde non-residuum biquadraticum, si talis congruentia non exstat. In
+omnibus disquisitionibus sequentibus, ubi contrarium expressis verbis non mone-
+tur, modulum p esse numerum primum <imparem positivum) supponemus, atque α
+per J) non divisibilem, quum omnes casus reliqui ad hunc facillime reduci possint.
+
+3.
+
+Manifestum est, omne residuum biquadraticum numeri p eiusdem quoque
+residuum quadraticum esse, et proin omne non-residuum quadraticum etiam non-
+residuum biquadraticum. Hanc propositionem etiam convertere licet, quoties p
+est numerus primus formae 4n-l— 3. Nam si in hoc casu a est residuum quadra-
+ticum ipsius p, statuamus a Ξ bb(mod. p), ubi b vel residuum quadraticum
+ipsius J) erit vel non-residuum: in casu priori statuemus b Ξ ce, unde a Ξ (54,
+i. e. a erit residuum biquadraticum ipsius μ in casu posteriori —b fiet residuum
+quadraticum ipsius p (quoniam ——l est non-residuum cuiusvis numeri primi for-—
+mae 4n÷3)‚ faciendoque —b Ξ cc, erit ut antea αΞσ4, atque a residuum
+biquadraticum ipsius p. Simul facile perspicietur, alias solutiones congruentiae
+39⁴ Ξ a(mod.p), praeter has duas m Ξ c et ωΞ —c in hoc casu non dari.
+Quum hae propositiones obviae integram residuorum biquadraticorum theoriam
+pro modulis primis formae 4724—ss exhauriant, tales modulos a disquisitione no—
+stra omnino excludemus, sive hanc ad modulos primos formae [ln—{4 limitabimus.
+
+4.
+
+Existente itaque p numero primo formae 4n—{-1‚ propositionem art. praec.
+convertere nonlicet: nempe exstare possunt residua quadratica, quae non sunt
+simulresidua biquadratica‚ quod evenit, quoties residuum quadraticum congruum
+est quadrato non· residui quadratici. Statuendo enim a Ξ bb, existente b non-
+

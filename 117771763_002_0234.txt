@@ -1,0 +1,43 @@
+224 NACHLASS. ANALYSIS RESIDUORUM.
+
+bimus functionem, qua cifrae aequali posita aequatio proveniens habeat radices,
+quae sunt potestates ttae radicum aequationis P = Ο.
+Si P Ξ Q secundum modulum quemcunque, erit etiam (P, ρτ) Ξ (Q, ρτ)
+
+secundum eundem modulum.
+
+349.
+THEOREMA. Cokffficiens termini κη in (P, ρτ) congruus est secundnm modulum
+τ εοέᾒίείεηε termini xm in Pi siquidem τ est numerus primus (quod pro hoc casu
+est tertia solutio problematis praecedentis).
+Demonstr. Ex capite sexto sequitur, producti
+
+(oe⁷⁷²-{-Aoe⁷¹²-¹-†- etc.) (oe⁷²2÷A‹Joe²’²-¹-†- etc.) . . .
+
+coe'fficientem quemcunque habere hanc formam, postquam pro 0² substituta est
+
+unitas,
+E÷(1÷0-‡-00-÷-etc.÷0‘-1)F
+
+Quodsi iam 0 consideretur tamquam radix prima aequationis «υτ ;- 1, totum
+productum abibit in Ε; si vero ponatur 0: 1, totum productum abibit in
+,Ρτ Ξ Ε-ξ-τΙῗ, quare erit coe‘fficiens termini oent in Ρτ congruus secundum mo-
+dulum τ οοῖὲΗὶοίεΠῖὶ termini mm in E, i. e. coe‘fficienti termini ατη in (P, ρτ).
+
+350.
+
+ΤΗΕΟΒΕΜΑ. Si τ est numerus primus, erit
+(P, ρτ) Ξ P(m0d. τ)
+Demonstr. Sit coefficiens termini ff in (P, ρτ) z: N'. in P vero eiusdem
+termini co'e'fficiens = N. Tunc posito
+P Ξ oe⁷²²÷Aoe²¹²-¹÷ eto. -i—-Noen-l- etc.
+
+erit
+
+Ρτ Ξ oe⁷⁷²²—{—AT„v(⁷’²“¹)²-{— etc, —†-N'²oe⁷²²—}- etc. (mod. τ)
+
+adeoque (ξ praec.) Ν’Ξ NT(1nod.·t); quare, quum N³{N‚ erit Ν’ΞΝ. Q.E.D.
+Hinc etiam patet, esse (P, ρα>Ξ (Ρ, (2³³) et (P, ρτ) Ξ(Ρ, pff). unde generaliter
+
+(1292) Ξ (1³. prk> (mod. τ)
+

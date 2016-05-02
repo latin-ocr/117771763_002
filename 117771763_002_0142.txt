@@ -1,0 +1,45 @@
+132 THEORIA RESIDUORUM BIQUADRATICORUM.
+
+Quum character numeri compositi aequalis sit (sive secundum modulum 4
+congruus) aggregato characterum singulorum factorum, sufficit, si pro modulo dato
+characteres numerorum primorum assignare possumus. Porro quum characteres
+unitatum —1. i, —i manifesto sint congrui numeris fflp—-NJ, {rw—1), {Ua—1)
+secundum modulum 4, etiam sufficiet, characteres numerorum inter associatos
+primariorum exhibuisse. Denique quum moduli secundum modulum m congrui
+eundem characterem habeant, sufficit, characteres talium numerorum in tabulam
+recipere, qui continentur in systemate residuorum absolute minimorum. Prae-
+terea per ratiocinium simile utin art. 58 demonstratur, si pro modulo a÷hi cha-
+racter numeri A-l-Bi sit λ, pro modulo a—bz· autem λ’ sit character numeri
+A—Bi, semper esse λΞ -λ’(ιηο(1.4), sive λ-Ι-λ’ per 4 divisibilem: quaprop-
+ter sufficit, in tabulam recipere iiiodulOS‚ in quibus b est vel Ο vel positivus
+
+Ita e. g. si quaeritur character numeri 11- 62· respectu moduli — 5 — δι’,
+substituimus loco horum numerorum hosce 114- 62¹, —5÷6i; dein determina-
+mus (art. 43> residuum absolute minimum numeri 11—1-62' secundum modulum
+—5-4—ssi‚ quod fit -1— Μ z —-1><(1-†—4z'); quare quum pro modulo —5-†-ssi
+character ipsius —1 sit 30, character numeri 1-1-42' autem, ex tabula, 2, erit
+32 sive Ο character numeri 11-ὶ-6ι· pro modulo -- 5 -1- 62', et proin per obser-
+vationem ultimam etiam character numeri 11—62‘ pro modulo — 5—62‘. Per-
+inde si quaeritur character numeri ——5-†—6i respectu moduli 11÷6i, illius re-
+siduum absolute minimum 1-— 52' resolvitur in factores —i 1-1-2‘, 3-— 22', qui—
+bus respondent characteres 117, O, 1, unde character quaesitus erit 118 sive 2;
+idem character etiam numero — 5-62' respectu moduli 11- δι’ tribuendus est.
+
+Modulus. Character. Numeri.
+
+ 
+
+-3 3 1÷i
+-}-3-{—2i 3 1-1-2·
+†1†4i 1 —1÷2i
+
+3 1-{—i
+—5÷2i 0 5-1—22·
+
+1 1-}-i
+
+2 —1-{-2i
+—1÷6i 0 ·—3
+
+ι 1 1-4-23 —1-4—22'
+

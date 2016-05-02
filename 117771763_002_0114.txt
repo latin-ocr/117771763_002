@@ -1,0 +1,71 @@
+104 THEomA RESIDUORL’M BIQUADRATICORUM.
+
+32.
+Algoritlnnus operationum arithmeticarum circa numeros complexos vulgo
+notus est: divisio, per introductionem normae, ad multiplicationem reducitur,
+
+quum habeatur
+
+α ὀί η c—‹lz' ac bd bc-ad .
+-ἡ- (α-ἦ-ῖη-’Ῥοοψιῖτί ”-’ οσῖῇ-,Γοθ-ξ-(ῇΓ1
+
+ 
+
+ 
+
+ 
+
+effati
+
+Extractio radicis quadratae perficitur adiumento formulae
+
+„siga-fbf) Ξ -ΗψκῖααψὸὸΗα-ἱ-Ναωαψὸι»)-α)
+
+2 2
+
+ 
+
+ 
+
+ 
+
+ 
+
+si ὁ est numerus positiVUS, vel huius
+
+«gra-phi) Ξ 4Wv<aa÷bb>÷a—Z-ffloawm—a)
+
+2 2
+
+ 
+
+ 
+
+ 
+
+ 
+
+si b est numerus negativus. Usui transformationis quantitatis complexae a—l-bz'
+in Meosqs—l-isin φ) ad calculos facflitandos, non opus est hic immorari.
+
+33.
+
+Numerum integrum complexum, qui in factores duos ab unitatibus diver-
+sos*) resolvi potest, vocamus numerum complexum compositum3 contra numerus
+primus complexus dicetur, qui talem resolutionem in factores non admittit. Hinc
+statim patet, quemvis numerum compositum realem etiam esse compositum com-
+plexum. At numerus primus realis poterit esse numerus complexus compositus,
+et quidem hoo valebit de numero 2 atque de omnibus numeris primis realibus po-
+sitivis formae 4n—†—1 (excepto numero 1), quippe quos in bina quadrata positiva
+decomponi posse constat; puta, fit 2 --- ([1—}-i)(1—-—i), 5 Ξ (1-†-2i)(1-2z·),
+13 z (3-4-2i)(3—22·)‚ 17 z (1-†-42·)(1—42·) etc.
+
+Contra numeri primi reales positivi formae 4n-†-3 semper sunt numeri
+primi complexi. Si enim talis numerus q esset Ξ (a÷bi)(oc-}-6i)‚ foret etiam
+q=(a—bi)(a—6i), adeoque qq=(aa-{—bb) (aa-1-66): at qq unico tantum
+modo in factores positivos unitate maiores resolvi potest, puta in q><q‚ unde esse
+debere q --- aa—l-bb = aa—l—(ib', Q. E.A.; quum summa duorum quadratorum
+nequeat esse formae 4n-l— 3.
+
+⁸²) sive, quod idem est, tales, quorum normae unitate sint maiores.
+

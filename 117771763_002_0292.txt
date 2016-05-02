@@ -1,0 +1,42 @@
+282 NAanAss.
+
+que, statuendo 9 z: 2, G = 1, Ιι z: 1 , docet, multitudinem omnium combi-
+nationum valorum talium ipsorum «τ’, y, qui formae valorem imparem limite M
+*asts
+
+non maiorem concilient, approximatione infinita exprimi per W), crescente M
+
+in infinitum.
+
+ΙΙ. Quoties a est par, c impar, ad repraesentationem numeri imparis re—
+quiritur, ut y sit impar, unde statuendo 9 = 1, k z: 2, H: 1, ad eandem
+conclusionem deferimur.
+
+ΠΙ. Quoties tum a tum c impar est, vel valor impar ipsius α’ cum valore
+pari ipsius y combinari debet, vel valor par ipsius ω cum valore impari ipsius y,
+ut prodeat valor impar formulae. Multitudo omnium combinationum tum prio-
+ris generis tum posterioris, pro quibus valor formae limitem M non egreditur, ap-
+
+proximatione infinita per 3²³} exprimitur, quapropter multitudo omniurn com-
+
+4 sD
+binationum, quae formae valores impares limitem M non egredientes producunt,
+etiam hic approximatione infinita per »2ῗῆ exprimitur.
+Iam quum complexus omnium talium combinationum nihil aliud sit, nisi
+complexus omniurn repraesentationum omnium numerorum 1, 3, 5, 7 ...M, quo—
+ties M est integer impar, vel 1, 3, 5, 7 . . ..M—1, quoties M est par, habemus
+
+THEOREMA IV. Ayyreyatum
+F1÷F3÷F5÷F7..-1-FM vel 1³1÷F3÷F5÷F7 . . —l-F(M-—1)
+
+(prout M impar est vel par) approximatione infinita exprimitur per {f} siquidem
+
+F est forma, in qua alteruter coiffficieutium a, c vel uterque est impar.
+
+[HL]
+
+Es sei C der Complexus der Reprasentanten sammtlicher Classen der for—
+mae proprie primitivae si‘ir den Determinant -D. Wir bezeichnen durch (n)
+die Anzahl aller·Darstellungen der Zahl η durch Formen aus dem Complexus C.
+Es sei p eine ungerade Primzahl. Dann ist
+

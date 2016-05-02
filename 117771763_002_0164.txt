@@ -1,0 +1,23 @@
+154 Auzmen.
+
+und Ρ abhfingig ist, mag durch das Zeichen (k, Ρ) dargestellt werden. Durch
+eine Reihe von Schlfissen‚ die keines Auszugs fahig sind, wird nun gezeigt, dass,
+
+wenn lt und Ρ zwei ungerade Zahlen sind, die keinen gemeinschaftliehen Theiler
+haben, allemal <lc‚p)-{-(p. k)—{--,{-(k—1)(p—-1) eine yerade Zahl wird: daraus
+folgt also, dass, so oft lc und Ρ beide von der Form 4n÷3 sind, nothwendig
+eine der Zahlen (k, Ρ), (pdc) gerade‚ die andere ungerade sein muss; in allen
+fibrigen Fallen hingegen, d. i. so oft beiden Zahlen lc und Ρ, oder wenigstens
+einer, die form 4n-†-1 zukommt‚ werden nothwendig entweder (lc, Ρ), (μὴ)
+beide zugleich gerade‚ oder beide zugleich ungerade sein. Hieraus folgt, in Ver-
+bindung mit obigem Lehrsatze‚ die Wahrheit des Fundamental·Theorems von
+selbst.-- Auf demselben Wege, auf dem diese Resultate gesunden werden, wird
+in der Abhandlung zugleich ein neuer Beweis fiir die oben erwahnten beiden Spe-
+cialsatze gegeben: es leisst sich nemlich leicht zeigen, dass (—1, p) = {Qu—1),
+also gerade oder ungerade, je nachdem Ρ die Form 4n—{-1 oder 4 η-ὶ- 3 hat3 eben
+so wird (2⁷2³) :gp—1), wenn Ρ die Form 4n÷1 hat, und (2⁹2²) :gp-kl),
+wenn Ρ von der Form 4η-Ι-3 ist, daher (2, Ρ) gerade wird, so oft Ρ die Form
+
+8n÷1 oder 872—1-“1 hat, hingegen ungerade, so oft Ρ von der F orm 8n÷3
+oder 8n÷5 ist.
+

@@ -1,0 +1,78 @@
+DEMONSTRATIONES ET AMPLIATIONES NOVAE. 55
+
+THE OREMA TIS FUNDAMENTALIS IN THEORIA RESID UOR UM Q UADRA TIOOR UM
+DEMONS TRA TI Ο SEXTA.
+
+1.
+THEOREMA. Desiynante p nnmerum primam (positivum imparem), n inteyrum
+positivam per p non divisibilem, α] quantitatem indeterminatam, sanctio
+
+1—1—‹23'2 -Ι- aem -Ι- (ῑυ3η —l- eto. -Ι- amp—n
+divisibilis erit per
+1÷oe÷oeoe÷oe³÷eta —l—oeP—¹
+
+DEMoNS'rR. Accipiatur integer positivus y ita ut fiat yn Ξ 1 (mod. p),
+statuaturque yn z 1—{-lzp. Tunc erit
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1÷x⁷2÷ae2⁷2÷ae³n÷et0.oe⁷21>-⁷² ,- (beno-x> β <1—xn10)(1—x⁹⁷2—x÷ae'222÷¹)
+iss-E-l-xoe ‡'‘ff“'÷essc.xp-2 ““” (1—x”)(1—{1‘—) ’'- (ι-ωη) (1—oe1')
+ο* 1-·α;”Ρ 1 ,ic-‘7⁷² x(1-x⁷²P) 1—th
+—1———x1’ 1—aen — 1—oen '1—oe1'
+
+adeoque manifesto functio integra. Q. E. D.
+
+Quaelibet itaque functio integra ipsius χ per ῘΞΞΖΡ
+1—x2’
+
+1—oe '
+
+divisibilis ‚ etiam di-
+
+ 
+
+ 
+
+visibilis erit per
+
+2.
+Designet α radicem primitivam positivam pro modulo p, i. e. sit α integer
+positivus talis, ut residua minima positiva potestatum 1, α, αα, α3 ..... α·7’“2
+secundum modulum p sine respectu ordinis cum numeris 1, 2, 3, 4 ..... p—1
+
+identica fiant. Designando porro per foe functionem
+
+ιο -l- oe“—†-oe““—}-oe“⁸ -ἦ- ete. -l-oeff'2-4—‘l
+
+patet, Ῑίΰ--μὲω -- oeoe—oe3—eto.—oeP—¹ divisibilem fore per 1—-a’P‚ adeoque
+a potiori per ¹—oep 2- 1÷oe÷oeoe÷oe³÷etc ÷oeP‘¹, per quam itaque functio-
+
+1--5c
+nem ipsa quoque foe divisibilis erit. Hinc vero sequitur, quum a? exprimat quan-
+
+titatem indeterminatam, esse quoque f(‹2⁰⁹²) divisibilem per ¹—an
+1—oe
+
+ 
+
+ 
+
+‚ et proin (art.
+
+1 ——aen
+
+praec.) etiam per quoties quidem n sit integer per p non divisibilis. Con-
+
+ 
+
+tra, quoties n est lintaeeger per p divisibilis, singulae partes functionis f(a‘⁷²) uni-
+

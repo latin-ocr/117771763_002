@@ -1,0 +1,54 @@
+D1SQU1s1T10NEs GENERALES DE CONGRUENTIIS. Δ 237
+
+tiplicata per 8: oeoe÷4oe÷43 at quum hic divisor sit Ξ (ω-Ι-ἳῩ, functio X
+per (oe-†— 2)³ dividi poterit quotiensque (qui est «ΜΗ-11) nullum amplius divi-
+sorem duplicem involvit.
+
+370. 371.
+
+Si ex ἐξ. praecc, functio X ita est exhibita AaBb 0⁶ etc., ita ut A, B, C
+etc, inter se sint primae et numeri a, b, c etc. inaequales, resolutio etiam ulte-
+rius extendi potest. Sit itaque X functio, quae nullos amplius divisores aequa-
+les involvit. Supra vidimus, 25²⁹—oe esse productum ex omnibus functionibus
+primis unius dimensionis. Sit ξ divisor communis maximae dimensionis functio-
+num X et xP-oe‚ erit ξ productum ex omnibus divisoribus ipsius X unius di-
+
+X
+
+mensionis , et -ξ-
+
+matur, functiones X et ,τῖ’-σι’ esse inter se primas, X nullum divisorem unius
+
+huiusmodi divisores non amplius habebit. Quodsi autem inve-
+
+dimensionis habebit adeoque congruentia X Ξ Ο radices reales non habebit.
+Porro quoniam oePP—-oe est productum ex omnibus functionibus primis duarum
+
+dimensionum uniusque, divisor communis maximae dimensionis functionum oePP——oe
+
+et ξ,
+Hinc ulterius progrediendo perspicitur, X hoc modo in factores ξ, ξ’, ξ” etc, re-
+
+ξ’ involvet omnes divisores ipsius X, qui sunt duarum dimensionum.
+
+solvi, qui continent respective omnes divisores unius, duarum, trium ete. dimen-
+
+sionum.
+
+372.
+
+Si autem productum ex pluribus functionibus primis eiusdem dimensionis
+datum est, singulae functiones tentando erui debebunt. Magnam analogiam ha-
+bet hoc problema cum eo, quod numerorum compositorum factores quaerere iu—
+bet. Hic vero iam a priori determinatur, an functio proposita in factores adhuc
+discerpi possit. Quum et hic factorum omnium possibilium multitudo sit finita,
+simili subsidio ut supra uti possumus. Sed huic rei inhaerere nolumus, nam
+calculator exercitatus principia probe assecutus, quando opus est, facile artificia
+
+particularia reperiet.
+Progredimur ad aliud caput, scilicet ad considerationem congruentiarum‚ si
+
+modulus non est numerus primus, uti hactenus semper supposuimus. Praesertim
+vero hic ille casus attentione dignus est, ubi modulus est numeri primi potestas,
+tum per se tum quod ad aliqua dubia removenda (ἐξ. . .) necessarius sit.
+

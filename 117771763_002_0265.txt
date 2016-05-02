@@ -1,0 +1,43 @@
+DISQUISITIONUM CIRCA AEQUA‘rmNEs PURAS UL'rEmoR Evom'rm. 255
+
+Ω --. [r,R2] >< {2 ÷4R÷R³÷2R⁴}
+atque
+
+1⁰. [r,R]2:—- [1‚R²]÷[r,R2]><{2-1-4R-4-R3-1—2R4}
+
+Eadem expressio resultat ex formula III art. 11 scilicet
+
+valores ipsius z . . . . . . . . . . . . . . .. 2.3.4.5.6.7.8.9.10
+indz ........................ 1.8.2.4.9.7.3.6. 5
+ind(n-}—1-—z). . . . . . . . . . . . . . . . .. 5.6.3.7.9.4.2.8.1
+
+resid. min. ipsius indz÷i11d(n÷1—z)
+secundum modulum 5 ........1.4.0.1.3.1.0.4. 1
+
+Prorsus simili modo invenitur
+
+2⁰. [r,R²].[r‚R] z [1,R³]—{—[2·,R³]>< {2—{—R—†—4R2-{—2R³}
+
+30. [⁷·‚R³].[2·‚R] Ξ [1‚R⁴]÷[r2 124] >< {2÷4R÷R³÷2R'‘}
+Denique fit
+
+40, [2·,R4].[2·‚R]: [1‚1]-{-[r‚1]><{1÷2R÷2H²—{-2R³÷2R⁴}
+
+Hine multiplicando aequationem 1Ο per [r‚R] et substituendo pro [r‚R²].[r,R]
+
+valorem suum ex 2⁰, nec non
+
+[1‚R2].[r‚R] :- [r‚ R³]. {2-1-2R4-2R2-1- 2R3-1-2R4}
+deducimus
+[2·‚R]³ = [1,R³]>< {2—}—4R÷R³÷2R'⁴}
+-{—[r‚R³]>< {12÷22R—†-18R²—†-24R³—}—15R⁴}
+et simili modo
+[r‚R]·'⁴ Ξ [1‚R⁴]>< {12÷22R÷18R2÷24R3-†-15R⁴}
+-4-[23R4] >< {1644-170R÷205R²÷18033÷190R⁴}
+[r‚R]⁵ == [1‚1]><{164÷170R÷205R²÷180R³÷190R45
+-ι-[η1]><ξ18364483οΒ-μ1795324-182οῆ3-μιὃποΕίξ
+.-.—. 1640÷1700R÷2050R2÷1800R³÷1900R⁴
+÷(1836÷1830R÷1795R2÷1820R³÷1810R4)(s—1)
+Ζ 91883—988—(6R-1-41R²÷16R³÷26R4)s
+÷66R÷451R2÷176R³÷286R4
+

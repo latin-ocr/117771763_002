@@ -1,0 +1,50 @@
+10ss TimomA REsmUORUM BIQUADRATICORUM.
+
+34.
+
+Totum itaque ambitum numerorum primorum complexorum exhauriunt qua-
+tuor spccics sequentes:
+
+lf quatuor unitates, 1, —l-i, ——1‚ —i‚ quas tamen, dum de numeris pri-
+mis agemus, plerumque tacite subintelligemus exclusas.
+
+2) numerus 1—-l—ef cum tribus sociis ——1—†-i‚ —1—i, 1—2'.
+
+2) numeri primi reales positivi formae 4n÷3 cum ternis sociis.
+
+4) numeri complexi, quorum normae suntnumeri primi reales formae 4n÷1
+unitate maiores, et quidem cuivis normae tali datae semper octoni numeri primi
+complexi et non plures respondebunt, quum talis norma unico tantum modo in
+bina quadrata decomponi possit.
+
+35.
+
+Quemadmodum numeri integri reales in pares et impares distribuuntur, at·-
+que illi iterum in pariter pares et impariter pareS, ita inter numeros complexos
+distinctio aeque essentialis se offert: sunt scilicet
+
+rel per 1—l-z' non divisibiles, puta numeri a-†-b2·‚ ubi alter numerorum a, b
+cst impar, alter par;
+
+rel per 1—†—27 neque vero per 2 divisibiles, quoties uterque a, b est impar;
+
+vel per 2 divisibiles, quoties uterque a, b est par.
+
+Numeri primae classis commode dici possunt numeri complexi impares, se-
+cundae semipares, tertiae pares.
+
+Productum e pluribus factoribus complexis semper impar erit, quoties omnes
+factores sunt impares; semipar‚ quoties unus factor est semipar‚ reliqui impares3
+par autem, quoties inter factores vel saltem duo semipares inveniuntur, vel sal-
+tem unus par.
+
+Norma cuiusvis numeri complexi imparis est formae 4⁹2-l-13 norma numeri
+semiparis est formae 8n÷2; denique norma numeri paris est productum numeri
+formae ΛΜΗ-1 in numerum 4 vel altiorem· binarii potestatem.
+
+36.
+Quum nexus inter quaternos numeros complexos socios analogus sit nexui
+inter binos numeros reales oppositos (i. e. absolute aequales signisque oppositis as-
+
+sectos, atque ex his vulgo positivus tamquam primarius merito considerari soleat:
+

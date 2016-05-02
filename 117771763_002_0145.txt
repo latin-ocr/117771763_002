@@ -1,0 +1,60 @@
+commum-flio SECUNDA. 135
+
+characterem modulis primi generis.
+
+5-1-42', —7—1-82', —7—82', -11-4-42·
+1 1—-4z, —--3—}—82', ——3—82‘, 9÷4i, —11
+2 5—4z·‚ ——7‚ —11—42·
+3 —3‚1-{—42·, 5442, 5—sz·‚ 9-42‘
+
+ 
+
+ 
+
+ 
+
+0
+
+Si haec septemdecim exempla attente consideramus, in omnibus invenimus cha-
+racterem Ξ fla— b —1) (mod. 4).
+Perinde respondet
+
+modulis secundi generis.
+3—2z·‚ —1—62', 7÷2i, —54-623 -1-4-1023 11462·
+1 -5-1—223-1—1-6237-22',—1—10i‚3-ff-102·
+2 -14-222—5-223 3-102‘, 7-4-102·
+3 -1—-22'‚ 3÷2i‚ —5—62'‚ 7-1022 11—62·
+
+character
+
+ 
+
+Ο
+
+ 
+
+In omnibus his viginti exemplis, levi attentione adhibita, invenitur character
+Ξ Ηα- b— 5) (mod. 4).
+
+Facile has duas regulas in unam pro utroque modulorum genere valentem
+contrahere licet, si perpendimus, {bb esse pro modulis prioris generis Ξ 0, pro
+modulis posterioris generis Ξ 1 (mod. 4). Est itaque character numeri 1÷i re-
+spectu moduli cuiusvis primi inter associatos primarii 371-(a—b—1 —bb> (mod. 4).
+
+Obiter hic annotare convenit, quum <b-1-l)2 semper sit formae 822-1-1‚
+sive 72—(2b-t-bb) par, characterem istum semper parem vel imparem fieri, prout
+ἦ-(α-ἱ-ὒ-Ι) par sit vel impar, quod quadrat cum regula pro charactere quadra-
+tico in art. 58 prolata.
+
+Quum ssa -b—1), 7¹4-(a — b —{- 3) sint integri, quorum alter par, alter im
+par, ipsorum productum par erit, sive -}5(a--b—1)(a — b-4- 3) Ξ Ο (mod, 4). Hinc
+‘loco expressionis allatae pro charactere biquadratico haec quoque adoptari potest
+
+71-(01-12-1—bb)-÷(a-b-1)(a—b÷ 3) Ξ μ-αα-ι-ω- ahma)
+
+quae forma eo quoque nomine se commendat, quod non restringitur ad modulos
+primarios, sed tantummodo supponit, a esse imparem, b parem: manifesto enim
+
+in hac suppositione vel a—Js-bi, vel —a--bi erit numerus inter associatos pri-
+marius, valorque istius formulae pro utroque modulo idem.
+

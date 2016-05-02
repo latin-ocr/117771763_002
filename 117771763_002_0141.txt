@@ -1,0 +1,47 @@
+COMMENTATIO SECUNDA. 1 3 l
+
+Sed hic quoque praestat, loco tertiae classis binas stabilire, ut omnino habeantur
+quaternae.
+
+Assumta radice quacunque primitiva pro basi, residua biquadratica habe-
+bunt indices per 4 divisibiles sive formae 4ης non-residua ea, quae sunt resi-
+dua quadratica, habebunt indices formae 4oz÷23 denique non-residuorum qua-
+draticorum indices erunt partim formae 422-4-1, partim formae 472—1— 3. Hoc
+modo classes quaternae quidem oriuntur, at distinctio inter binas posteriores non
+esset absoluta, sed ab electione radicis primitivae pro basi assumtae dependens3
+facile enim perspicitur, semissem radicum primitivarum non-residuo quadratico
+dato conciliare indicem formae ain-{4 , semissem alteram vero indicem formae
+4η-ἦ-3, Quam ambiguitatem ut tollamus, supponemus semper talem radicem
+primitivam adoptari, pro qua index *Hp—1) competat numero -μί (conf. art.
+55, VI). Hoc pacto classificatio oritur, quam concinnius independenter a radici-
+bus primitivis ita enunciare possumus.
+
+Classis prima contineat numeros k eos, pro quibus fit kap—¹) Ξ 1 ς hi nu-
+meri sunt moduli residua biquadratica.
+
+Classis secunda contineat eOS, pro quibus kap—¹) Ξ i,
+
+Classis tertia eos, pro quibus kap—¹) Ξ -1
+
+Classis quarta denique eos, pro quibus k÷(⁷'*¹) Ξ -ιζ
+
+Classis tertia comprehendet non-residua biquadratica ea, quae sunt residua
+quadratica; inter secundam et quartam non-residua quadratica distributa erunt.
+
+Numeris harum classium tribuemus resp. characteres biquadraticos Ο, 1, 2, 3.
+Si characterem λ numeri lc secundum modulum m ita definimus, ut sit expo-
+nens eius potestatis ipsius i, cui numerus kap—¹) congruus est, manifesto cha-
+racteres secundum modulum 4 congrui pro aequivalentibus habendi sunt. Cete—
+rum haec notio tantisper ad modulos eos limitatur, qui sunt numeri primi: in con—
+tinuatione harum disquisitionum ostendemus, quomodo etiam modulis compositis
+
+adaptari possit,
+
+62.
+Quo facilius inductio copiosa circa numerorum characteres adstrui possit, ta-
+bulam compendiosam hic adiungimus, cuius auxilio character cuiusvis numeri pro-
+positi respectu moduli, cuius norma valorem 1 57 non transscendit, levi opera
+
+obtinetur, dummodo ad observationes sequentes attendatur.
+1 7 ³*
+

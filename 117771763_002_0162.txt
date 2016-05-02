@@ -1,0 +1,38 @@
+115 Anzmes.
+
+mit folgendem allgemeinen ableiten lassen: Zwei ungleiche positive (ungerade)
+Primzahlen, p, q, haben allemal yleiche Relation wechselseitig zu einander (d. i.
+die eine ist quadratischer Rest oder Nichtrest der andern, je nachdem die andere
+Rest oder Nichtrest der ersten ist), wenn entweder beide von der Form 4η-Ι-1
+sind, oder wenigstens die eine: hingegen ist ihre wechselseitige Relation entge-
+gengesetzt (d.i. die eine ist Nichtrest der andern, wenn diese Rest von jener ist,
+und umgekehrt)‚ so oft beide zugleich von der Form 472-1- 3 sind. Dies ist das
+erwalhnte Fundamental—Theorem, welches man in mehr als einer Gestalt aus-
+drticken kann: die hier gexvahlte ist diejenige‚ in der es in der Abhandlung des
+Hrn. Prof. GAths neu bewiesen ist.
+
+Die schbnsten Lehrsiitze der hehern Arithmetik, und namentlich auch die-
+jenigen‚ wovon hier die Rede ist, haben das Eigne, dass sie durch Induction
+leicht entdeckt werden, ihre Beweise hingegen ausserst versteckt liegen, und nur
+durch sehr ties eindringende Untersuchungen aufgespfirt werden kennen. Gerade
+dies ist es, was der hehern Arithmetik jenen zauberischen Reiz gibt, der sie zur
+Lieblingswissenschaft der ersten Geometer gemacht hat, ihres unerschbpflichen
+Reichthums nicht zu gedenken ‚ woran sie alle andere Theile der reinen Mathe-
+matik so weit fibertrifft. Die beiden oben erwahnten Specialsiitze waren schon
+FERMAT bekannt, welcher‚ seiner Behauptung nach, auch im Besitz ihrer Beweise
+war: ob er sich darin nicht tauschte‚ kennen wir nicht entscheiden‚ da er nie
+Etwas davon bekannt gemacht hat: aber fiir meglich dfirfen wir es gewiss halten,
+da mehrere Beispiele von Selbsttauschung bei andern grossen Geometern‚ na-
+mentlich bei Eume, LEGENDRE und auch bei FERMAT selbst, vorhanden sind. Von
+dem ersten jener Theoreme gab EULER den ersten Beweis; allein das andere zu de·-
+monstriren, gliickte diesem grossen Geometer, seiner eifrigen‚ viele Jahre hin-
+durch fortgesetzten‚ Bemiihungen ungeachtet‚ nicht; erst LAGRANGE war es vor-
+behalten, diese Li'icke auszuffillen. Beide Geometer bewiesen auch noch verschie-
+dene andere specielle Same, eine gressere Anzahl aber, die sie durch Induction
+fanden‚ entzog sich ihren Bemi‘ihungen, sie zu beweisen. stets. Es ist indess ein
+merkwsirdiges Spiel des Zufa11s‚ dass beide Geometer durch Induction nicht auf
+das allgemeine Fundamental-Theorem gekommen sind, das einer so einfachen Dar-
+stellung fahig ist. Dieses ist zuerst, obwohl in einer etwas andern Gestalt, von
+LEGENDRE vorgetragen, in der Histoire de Z’Acade'mie des Sciences de Paris 1785;
+sowohl hier, als nachher in seinem Werke: Essai d’zme theoria des· nombres, hat
+

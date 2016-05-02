@@ -1,0 +1,48 @@
+3 74 NAanAss.
+
+6.
+
+Die im vorhergehender Art. gegebene Vorsehrift ist allgemein: fiir den Fan,
+wo M ungerade ist, werden wir ihr aber eine andere Gestalt geben. Wir wer-
+den zugleich annelnnen, dass die reellen Theile von m und Μ ungerade‚ also die
+imaginiiren gerade sind.
+
+Wir lassen jeder zu dem Viertelsysteme lc geherenden zahl f eine andere
+9 correspondiren, die aus f auf folgende Art abgeleitet wird. Indem man
+{ff -= Z-Jf—in setzt, unterscheidet man vier Fene
+
+I. Wenn [25] :z Ο und entweder [2 n} :- 0 oder η == Ο
+ΙΙ. W'enn [2 ξ] = 1 und entweder [Ξη] :z Ο oder η --: Ο
+ΙΙΙ. Wenn [25] z Ο und [2η] = 1
+IV. Wenn [25] z: 1 und [2η] z 1
+
+Im ersten Faue Wird man 9 z Qf, im zweiten 9 Ξ im—2z‘f‚ im drit-
+ten 9 -—-: m—{-2if. im vierten 9 z: (1-1—i)m-·- ⁹2f setzen. Man sieht leicht‚
+dass der Inbegriff aller 9 ein vollstdndiges V ier-telsystem l bildet; ihre Charakte-
+
+ristik ist, dass zugleich, wenn man ἐξ r:- 5÷in setzt
+entweder [ξ] = Ο, [η] z Ο
+oder η z Ο, [ξ] = 0 und 9 durch 1—-1—2‘ theilbar
+oder ξ z 0, [η] = Ο und 9 durch 1÷i nicht theilbar
+
+Daraus folgt‚ dass l sich von lc nur dadurch unterscheidet, dass diejenigen
+Zahlen in lc, fiir welche η z: 0, und die durch 1÷i untheilbar sind, nemlich
+
+a÷bi‚ 3(a÷b2;)‚ 5(a÷b2·)...‘³-12·—³(a÷b2·> oderbis Ξζ-’φ-ι-Μ)
+
+Je nachdem e von der Form ΛΜΗ-1 oder 4724- 3, in l fehlen und dagegen in letz-
+term Complex die Producte jener Zahlen in i austreten. Zugleich sieht ³man,
+dass fiir e z 1, d. i. wenn m durch keine reelle ganze zahl theilbar ist, lc und l
+ganz gleich sind.
+
+Es kommt nun darauf an, Ψ] unmittelbar aus dem dem f entsprechenden 9
+abzuleiten. Das Resultat ist, dass fiir obige 4 Fene
+
+1-w=vff
+
+Π· vs: ἱῙ--ἶῗὲῗξ wenn einer von beiden ganz
+III. wie ΙΙ. IV. wie I.
+
+9M . . ,, r 9M
+——V ἵ wenn weder reeller noch rmaglnarer sh. von ἶ ganz
+

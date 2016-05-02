@@ -1,0 +1,79 @@
+zUR THEORIE DER BIQUADRATISCHEN RESTE. v. 363
+
+[15.]
+
+Die zweite Methode ist folgende:
+Decident z: I. —{— Σε, wo Y ganz, [Χ] gerade
+-4Σε, unter diesen, wo noch y ganz, [ω] gerade
+ΙΙ. —{- Σλε, wo Y ganz, [X] ge1·ade; λ ist der Intensor von p
+II. —— Σλέ, wo X ganZ, [Y] ungerade
+λ’ der Intensor von ip Ξ 1, 2, 3, Ο
+wenn λ :- 0, 1, 2, 3
+IV. -Ῑ- Em, wo Y ganz, [X] gerade, λ der Intensor von p
+IV. -[- Σλέ, wo X ganz, [Y] gerade
+λ’ der Intensor von im——ip Ξ Ο 3 2 1
+wenn Int.p Ξ 01 2 3
+’ ÷q
+
+Hier ist q :- Ο, wenn ΜῖῘ ungerade i.e. nur durch 111, nicht durch 2 theil-
+
+bar, und nieht zugleich AB÷ —- , hingegen fibrigens
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Η α 6 α 6 α ὅ α 6
+AB 11 -1 1- 1-
+1υ1 ωυἎΜ-ωω-131Λ 1314 1011 1011
+-,1 0 ο 0 0 0
+——l—Int.-3(m—{-m}2) -Ο ——2 --Ο -2 -3 ——1 —3 —1
+1- -1111.ωμ —0 —-1 ——2 —-3
+wo doppelte Zahlen stehen, gilt die erste fiir gerade ΜΓ, die andere fiir un-
+gerade‚ y
+In unserm Beispiele: I. y Y [ 2οω 20 Y ε 13
+0 —1 113 1 9 11* -4
+0 -2 126 118 11 — —1
+11 ——1 122 116 11 Dec. =—2
+, wem
+ΙΙ. desunt. IV. X 12oe 12 y 121⁷ ε λ λ’ λέ
+0 120 12οω -9 —37 —1 2 2 -2
+11 124 12οω -3 ——39 11 3 1 11
+· 12 128 12οω 13 —41 —1 ο 0 ‹1›
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+46*
+

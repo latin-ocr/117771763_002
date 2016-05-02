@@ -1,0 +1,47 @@
+coMMENTATIO SECUNDA. 101
+
+-Ι- 3 pertinet
+
+ 
+
+ad complexum si
+A b3 Ο (mod. 12); vel simul α Ξ Ο (mod. 3), b3 2 (mod. 4)
+Β b38a vel 10a(mod.12)
+C b3 Ga(mod. 12); vel simul a3 Ο (mod. 3), b3 Ο (mod. 4)
+D b32a vel 4a(mod.12)
+
+Perinde criteria pro ssss petuntur e combinatione criteriorum pro ss2 et
+— 3; scilicet
+—l-6 pertinet
+
+ad complexum si
+
+ 
+
+A b30‚ 2a‚ 22a(mod.24); vel simula30(mod.3)‚ ὒΞ4α(ῐηο(1. 8)
+Β b 3 4a‚ Ga, 8a(mod. 24); vel simul a30(mod. 3), b32a(mod. 8)
+O b310a‚ 12α, 14a(mod. 24); vel simul αΞ O(mod. 3), {230 (mod. 8)
+D b316a‚ 18a‚ 20a(mod. 24); vel simul a3 Ο (mod. 3), b3 66⁶(mod 8)
+- 6 vero
+ad complexum si
+
+ 
+
+A 1230, 1οα, 14a(mod. 24); vel simul a30(mod. 3), b3 4a(mod. 8)
+Β b34a, 8a 18a(mod 24); vel simula30(mod. 3), b36a(mod. 8)
+C b32a‚12a,22a(mod 24); vel simula30(mod. 3), b30 m(od8 8)
+D b36a‚16a,20a(mod 24· ,vel simula30(mod. 3), b32a(mod. 8)
+
+Simili modo criteria pro numero —l— 21 concinnabuntur e criteriis pro —-3
+et —7; criteria pro —105 e criteriis pro ——1‚ —3, -1-5, -7, etc.
+
+30.
+
+Amplissimam itaque messem theorematum specialium aperit inducti0‚ theo-
+remati pro numero 2 affinium: sed desideratur vinculum commune, desiderantur
+demonstrationes rigorosae, quum methodus, perquam in commentatione prima
+numerum 2 absolvimus, ulteriorem applicationem non patiatur. Non desunt qui-
+dem methodi diversae, per quas demonstrationibus pro casibus particularibus po-
+tiri liceret, iis potissimum, qui distributionem residuorum quadraticorum inter
+complexus A, O spectant, quibus tamen non immoramur, quum theoria genera-
+

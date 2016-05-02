@@ -1,0 +1,47 @@
+msouismonns GENERALES DE· CONGRUENTIIS. 231
+
+quam oev—1 dividunt, existente ν’<ν, iam inventos esse, reliquosque investi-—
+gare proponi. Hi autem omnes in hac expressione comprehendi possunt (P, pk),
+si P sit unus ex ipsis et pro lc omnes numeri minores quam ν ad ipsumque primi
+substituantur.
+
+In Cap. vl ostendimus, quomodo radices primae aequationis 02⁹⁹ Ξ 1 ita. in
+classes discerpi possint, ut, omnibus per alicuius potestates expressis, eadem in
+classes distributio habeatur, quaecunque radix prima pro hac basi accipiatur3 pe-
+
+6’ oe‘(
+
+riodos huiusmodi radicum complexus vocavimus. Iam patet, functiones ω’, ff, α]
+etc„ designantibus α, ὅ, γ etc. omnes numeros ad ν primos, simili modo in pe-
+riodos resolvi posse. quamquo periodum maiorem rursus in minores donec tandem
+ad periodos formae χλ), ωῘΨ, oelw) . . : oe7⁶1²⁷n-¹ perveniatur. Hoc ita facto patet
+
+1⁰ Quoniam periodus quaeque ex huiusmodi periodis minimis oek4-oekP—{— etc.
+composita est, si per quamcunque functionem primam m dimensionum dividatur,
+residuum fore numerum. ι
+
+2⁰. Quum omnes periodi termini semper ad hanc formam reduci queant
+oezfflbffffl' · ·‚ ubi κ. a, b, c . . sunt numeri determinati, pro α, ὅ, γ . . autem
+,omnes valeres substitui possunt; patet, periodum in se ipsam mutari, si pro αι’ sub-
+stituatur 097⁶ et k· sit formae ααὸῧσγ. . (ηΊοε1.ν), unde facile perspicitur omnes
+functiones P, (P pk) eto, designante k· huiusmodi numerum, si periodus per eas
+dividatur, idem residuum dare.
+
+3⁰. Quare periodus subducto tali residuo per productum ex omnibus sunc-
+
+tionibus (P, (st) dividi poterit.
+
+363.
+Summa rei in hoc vertitur, ut haec residua determinentur. Primo quaera-
+
+tur residuum, quod periodus maxima per productum ex omnibus functionibus pri-
+
+mis idoneis dabit. Si hoo productum sit
+Ξ oei—Aoei-14 eto.
+
+erit residuum hoc ΞΑ. Huius autem producti forma facile invenitur et ex Cap. VI
+sequitur esse A :z 0, si ν per quadratum dividi possit, contra esse A aut = —†—1
+aut z --* 1, prout multitudo factorum primorum numeri ν sit par aut impar.
+Iam resolvatur haec periodus maxima in periodos inferiores repraesenten-
+turque periodi cuiusvis termini per oekpffu, ita ut lc in quavis periodo sit numerus
+

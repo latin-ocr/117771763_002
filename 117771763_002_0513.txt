@@ -1,0 +1,28 @@
+zUR BERECHNUNG DER GEMEINEN LOGARITHMEN. 503
+
+31 116280 = 10. 2².3². 17.19 , 53 3059000 = 100.‘7. 19. 23 μ 73 5116644 = 2². 3².13².29²
+116281 = 11².31 ¹ 3059001 Ξ 3².11². 53² ἐξ 5116645 z 7-17·¹9· 31. 73
+
+37 165648 -- 2⁴. 3. 7. 17. 29 ᾗ 59 5851560 =: 10. 2².3. 11². 13.31 Η 79 5997600 = 100. 2³.3².7². 17
+165649 = 11²· 37 5851561 Ξ 41²·59² ᾗῇ 5997691 = 31²-79²
+
+41 1413720 = 10.2².3³. 7.11. 17 61 3575880 = 10*2².3³.7. 11.43 ἑ 83 1164240 = 10. 2³. 3³. 7².11
+1413721 = 29²·41² 2 3575881 Ξ 312612 ξ 1164241 = 13²·83²
+
+43 :978120 z 10.2².3².11.13. 19 ¹ 67 1620528 = 2⁸.3.7².13 ἢ 89 2859480 = 10. 2².3².13².4†
+978121 = 23²·43² 1620529 = 19²·672 2859481 = 192-892-
+
+47 664848 = 2¹⁵.3⁰-7· 13 3¹ 7Ῑ 2016399 Ξ 3· 7²· 11.29.43 97 1138488 z 2³.3.13.41.89
+664849 = 31².4<7² Ἰ 2016400 = 100. 22-.712 1133439 Σ ¹1²·97²
+
+ 
+
+ 
+
+Zur Bestimmung der Logaritbhmen fiir alle die Primzahlen‚ welche kleiner
+als 200 sind, kann man mit Vortheil die in den Tabellen fiir Cyklotechnie gefun-
+denen Zerlegungen von aa—{—1, 0-1- 2, . . aa—4- 81 benutzen‚ wenn man sich
+auf diejenigen Zahlen a beschrzinkt, welche selbst nur Primzahlen unter 200
+als Theiler enthalten. Die iibrigen a lassen sich dann zur Bestimmung der Lo-
+garithmen der dal-in vorkommenden grbsseren Primtheiler verwerthen.}
+

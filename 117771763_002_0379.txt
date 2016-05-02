@@ -1,0 +1,42 @@
+zUR ‘rumorum DER ququuA'mscrmN RESTE. vr. 369
+
+1) Jedes Viertelsystem besteht aus †(v—-—1) :- ἦ-ᾴκα-θ-ὅὸ--η Zahlen.
+
+2) Das Charakteristische eines Viertelsystems ist, dass keine der darin be-
+findlichen Zahlen weder selbst, noch ihr Product in i, ——1‚ oder -ἱ,
+einer andern aus demselben Viertelsystem congruent ist, jede durch μ
+nicht theilbare zahl aber, entweder selbst oder ihr Product durch i, -1,ν
+oder ——i sich darin findet, oder einer daraus congruent ist.
+
+3) So wie aus der Multiplication der Zahlen in κ mit i, ——1 und -ἱ, resp.
+die Zahlen in κ’, κ”, κ”’ entstehen, oder ihnen congruente, so reprodu-
+cirt die Multiplication der Zahlen in κ’, mit jenen Factoren‚ resp. die
+Zahlen in κ”, κω, κ; die Multiplication der Zahlen κ” reproducirt auf
+fihnliche Weise die Zahlen κ’”, κ, κ’; endlich die Multiplication der zah-
+len κ’” reproducirt κ, κ’, κ”. ΚϋΥΖθ halber kann diese gegenseitige Ab·
+heingigkeit der vier Viertelsysteme so ausgedrfickt werden κ’ Ξ ix,
+κ” Ξ -κ Ξ ix', κ’” Ξ ίκ” Ξ —z‘ Ξ —im
+
+3.
+
+Wenn m eine complexe ganze zahl bedentet, die mit μ keinen gemein-
+schaftlichen Divisor hat, und die semmtlichen Zahlen eines Viertelsystems κ mit
+m multiplicirt werden, so bilden die Producte, oder beliebige ihnen congruente
+Zahlen ihrerseits auch ein Viertelsystem; und ebenso entstehen durch Multipli-
+cation der Zahlen der Systeme κ’, κ”, κ’” noch drei Viertclsysteme, die mit jenem
+zusammengehoren werden. Der Beweis ist leicht zu fflhren. Diese vier neuen
+Systeme mogen mit mx, mx', ms, mum bezeichnet werden, gleichvieL ob die Pro-
+ducte selbst oder nur ihnen congruente Zahlen gewfflrlt werden. Im letztern Fall
+kann dies so geschehen, dass man immer nur solche wehlu die sich in einem der
+Systeme κ, κ’, κ”, κ”’ befinden. Auf diese Art ist also das System χ, wenigstens
+allgemein zu reden, auf zwei verschiedene Arten in Viertelsysteme zerlcgt. Neh-
+men wir an, dass mx gemeinschaftlich hat‘
+
+mit κ ..... λ Zahlen
+κ’ ..... λ’ Zahlen
+κ” ..... λ” Zahlen
+κ’” ..... λ”’ Zahlen
+
+so wird auch κ’ mit mz', κ” mit ms, κ’” mit mum gemein haben λ Glieder;
+11. 47
+

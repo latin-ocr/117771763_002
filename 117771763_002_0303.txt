@@ -1,0 +1,64 @@
+DE NEXU mrim MULTlranEM OLASSIUM Erc- 293
+
+dieser arithmetischen Formel mit der (in 1. art. 5 oder ΙΙ. art. 4) durch geometrisehe Betrachtunrgen gewonne-
+
+nen mittlem Darstellungsanzahl erhalt man leicht und in aller Strenge das bekannte Resultat
+
+a·
+
+44:1—52r-‚2-——24 . . -
+
+welches in der Abhandlung (1. art. 7) durch eine &huliche Vergleichung, aber mit Hfilfe unendlicher Producte
+
+abgeleitet wird.
+
+Zu ΙΙΙ und IV.
+
+[st O der Complex aller positiven, nicht eigentlich-aquivalenten formae proprie primitivae von nega—
+tivem Determinant ——D‚ und legt man den Variabeln dieser Formen je zwei Werthe bei, welche relative
+Primzahlen zu einander sind, so ist die Anzahl aller Darstellungen einer positiven ganzen Zahl m gleich
+εῴψη), wo ε die Anzahl der Aufliisungen der Gleichung tt—l—Duu z 1, und ψ(φη) die Anzahl derjenigen
+
+VVurzeln η der Congruenz nn -†- D Ξ 0 (modm) bedeutet‚ fiir welche die drei Zahlen m, 2 n und ΜΗ- D
+
+ 
+
+ohne gemeinschaftlichen Divisor sind (Disqq. Arithm. art. 180). Der Factor ε ist z 4 fiir D = 1, in leen
+
+andern Fauen z 2. Ist ferner m z pffp'ff'p'mn. . ., wo p, ρ’, ρ” . . . von einander verschiedene Primzah-
+len bedmten, so ist ψ(ῃι) z ψ(Ῑ9’””)ψ(Ρ’π’)ψ(Ρ”π”) . . -3 bedeutet 521(m) die Anzahl der Wurzeln n der
+Congruenz ren—l-I) Ξ 0(mod. m), und bedient man sich des von LEGENDRE eingeffihrten‚ von JACOBI ver-
+
+—D), wenn p nieht in 2D aufgeht, sonst aber
+
+ 
+
+allgemeinerten Zeichens, so ist ψ(ρπ) = Ἄρνῃ) = 1-}-(
+Σ 521(p⁷⁶ —‡Q(p⁷'÷¹); die Anzahl QIQW) lasst sich immer leicht bestimmen (Disqq. Arithm. art. 104), fiir
+die Folge reicht aber die Bemerkung aus, dass 91( pw) immer von π unabhangig wird, sobald π eine gewisse
+Gresse iiberschreitet.
+
+Legt man den Variabeln der in dem Complex C enthaltenen Formen alle ganzzahligen Werthe ohne
+Ausnahme bei (Disqq. Arithm. art. 181), so wird die Anzahl (m) aller Darstellungen der Zahl m gleich e f (m),
+
+wo f(m) z: Z&(AE) ist, und das Summenzeichen sich auf alle quadratischen Divisoren μμ der Zahl m be-
+
+zieht. Hieraus golgt unmittelbar
+
+ΛΜ)Ξ](1>”1)”ἰ’1>”””- · -) =f(p⁷f)f(p'”')f(p''⁷”u) · · ·
+
+und
+
+swa) Ξ ψ(Ρπ)ᾸΓψ(Ρπ”2)-Ι-ψ(ρπ““)-ὶ- - - -
+welche Reihe so lange fortzusetzen ist, als die Exponenten π, π-2, π--4 . . . nicht negativ werden.
+
+Wenn p nicht in 2D aufgeht, so folgt hieraus
+
+λ·(Ρπ)Ξ1Δπ(”-ΤΒ)Η;ΤΞ))ΔΓ . . . *Lffiffl
+
+und allgemein, wenn m relative Primzahl zu 2D ist,
+
+scm) Ξ ΣΕΡ)
+
+wo das Summenzeichen sich auf alle Divisoren n der Zahl m hezieht.
+

@@ -1,0 +1,47 @@
+60 THEOREMATIS FUNDAMENTALIS IN DOCTRINA DE RESIDUIS QUADRATICIS
+
+Proposito itaque numero α, cuius relatio ad numerum primum b quaeritur:
+pro α, si maior est quam b, ante onmia substituetur eius residuum minimum po-
+sitivum secundum modulum I), quo residuo in factores suos primos resoluto, quae-
+stio per theorema II reducta est ad inventionem relationis singulorum horum facto-
+rum ad b. Relatio factoris 2, (siquidem adest vel semel, vel ter, vel quinquies
+etc.) innotescit per theorema ΙΙΙ; relatio reliquorum, per theorema fundamentale
+pendet a relatione ipsius b ad singulos Hoc itaque modo loco unius relationis
+numeri dati ad numerum primum b iam investigandae sunt aliquae relationes nu-
+meri l> ad alios primos impares ipso b minores, quae problemata eodem modo ad
+minores modulos deprimentur, manifestoque hae depressiones successivae tandem
+
+exhaustae erunt.
+
+2.
+
+Ut exemplo haec solutio illustretur, quaerenda sit relatio numeri 103 ad 379.
+Quum 103 iam sit minor quani 379, atque ipse numerus primus, protinus appli—
+candum erit theorema fundamentale, quod docet, relationem quaesitam oppositam
+esse relationi numeri 379 ad 103. Haec iterum aequalis est relationi numeri 70
+ad 103, quae ipsa pendet a relationibus numerorum 2. 5, 7 ad 103. Prima ha—
+rum relationum e theoremate 111 innotescit. Secunda per theorema fundamentale
+pendet a relatione numeri 103 ad 5, cui per theorema Ι aequalis est relatio nu—
+meri 3 ad 5; haec iterum per theorema fundamentale pendet a relatione numeri 5
+ad 3, cui per theorema I aequalis est relatio numeri 2 ad 3, per theorema III
+nota. Perinde relatio numeri 7 ad 10 3 per theorema fundamentale a relatione nu—
+meri 103 ad 7 pendet, quae per theorema Ι aequalis est relationi numeri 5 ad 73
+
+,-
+
+haec iterum per theorema fundamentale pendet a relatione numeri ι ad 5, cui ae-
+qualis est per theorema I relatio numeri 2 ad 5 per theorema III nota. Quodsi
+iam hanc analysin in synthesin transmutare placet, quaestionis decisio ad quatuor-
+decim momenta referetur, quae complete hic apponimus ut maior concinnitas so—
+lutionis novae eo clarius elucescat.
+1. Numerus 2 est residuum quadraticum numeri 103 (theor. ΙΙΙ),
+
+Numerus 2 est non-residuum quadraticum numeri 3 (theor. III).
+Numerus 5 est non-residuum quadraticum numeri 3 (ex Ι et 2).
+
+. Numerus 3 est non-residuum quadraticum numeri 5 (theor. fund. et 3).
+
+§resen
+
+Numerus 103 est non-residuum quadraticum numeri 5 ( Ι et 4).
+

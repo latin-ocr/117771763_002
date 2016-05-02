@@ -1,0 +1,56 @@
+242 BEMERKUNGEN ztm ANALYsls RESIDUORUM.
+
+den, dass die Differenz R--S nach dem Modul p den Divisor P hat. —— Das unvollstfindige Citat kann
+auf Disqq. Arithm. art. 49 bezogen werden.
+
+ᾖ. 354. Dureh Multiplication mit :cv—1 ergibt sich, dass die Summen gleich hoher Potenzen der VVurzeln
+der beiden Gleichungen (P, pk'*²) z ο, (P, pt) Ξ 0 einander congruent sind (mod. p), uud hieraus folgt die
+Congruenz (P, pk”*‘) Ξ (Ρ, 9⁸)(mod.p)‚ sobald m<p ist (vergl. §. 244); ist aber mgp, so lasst sich der
+Co'e‘fficient der Potenz x''²·¹⁰ in einer Gleichung nieht mehr aus den gegebenen Potenzsummen ihrer Wurzeln
+nach dem Modul p bestimmen‚ weil er in den hierzu dienenden an‘rou'schen Formeln mit dem Factor p
+behaftet ist. In der That darf man aus der Congruenz je zweier gleich hoher Potenzsummen der Wurzeln
+der Gleiehungen A: 0, B -- 0 allgemein nur folgern, dass Α Ξ ἋΡίέ, Β = wmmodffl) ist, wo (ἱ den
+grossten gemeinschaftlichen Divisor der beiden Functionen A, B nach dem Primzahl-Modulus p bezeich-
+net, 21 und 23 aber ganz unbestimmte Functionen sind. Es ist zu vermuthen, dass der Verfasser die All-
+gemeingfiltigkeit des Satzes aus der Theorie der 'l‘ransformation der symmetrischen Functionen und speciell
+aus dem folgenden Satze abgeleitet hat: Ist in Bezug auf einen beliebigen Modulus p die Differenz
+R(x)—- δα) theilbar durch die Function P(x), und sind a, b, c. . . die VVurzeln der Gleichung P (x) = ο,
+
+so sind die lf'unctionen
+
+(x—R(a))(x-R(b))(:c—R(c)) . . . und (oe—S(a))(x-S(b))(x—S(c)) . . .
+
+einander nach dem Modul p congruent.
+
+ξ 355. Es wird in ᾖ. 363 gezeigt, dass P und ἕ keinen gemeinschaftlichen Divisor haben, wenn
+
+P keinen Factor mehr als einmal enthelt.
+ξς, 358, 359. Die unter den Text gesetzte Note ist einem einzelnen Blatt entnommen, welches
+wahrscheinlich den sehon in der Handsehrift gestrichenen §. 359 ersetzen sollte.
+
+ξ. 300. In dem Ausdruck des Theorems ist eine Ungenauigkeit der Handsehrift berichtigt.
+
+ς. 361. Hier bedeutet der Exponent ὲ- in dem Zeichen (ξ,ρ·]ἕ) jede positive ganze Zahl lc' von
+der Besehaffenhfflt, dass kk' Ξ 1(ιῐιο(1.ν) wird, wo ν die kleinste positive ganze Zahl ist, fiir welche arv—1
+durch ξ nach dem Modul p theilbar wird3 hierbei ist vorauszusetzen, dass ξ nicht durch a: theilbar nach
+
+dem Modul p, und ausserdem, dass k· relative Primzahl zu ν ist. Die Richtigkeit der Behauptung, dass
+ξ’ durch (ξ, ρῆῑ) theilbar ist (mod. p), ergibt sich aus ξ. 354. ⁸
+
+ᾗ. 363. Die Sohlussbemerkung bezieht sich vermuthlich auf die Einfiihrung von Modum, welche
+Potenzen der Primzahl p sind; vergl. ξς, 251, 372, 373.
+
+ξ. 367. Die Wurzeln der Gleichung oe⁸÷xz——2cc—-1 z ο sind die zweigliedrigen Perioden, in
+1·⁷—1
+
+welche die Wurzeln der Gleiehung 'ac—1
+zelnen matt, wo das Hauptresultat der ἐξ. 362, 363 unter dem Titel ‘der goldene Lehrsatz' ausgespro-
+
+ 
+
+z ο zei-fallen. Dasselbe Beispiel findet sich auch auf einem ein-
+
+chen ist.
+ᾗ. 371. Dieser paragraph sollte ein Beispiel euthalten3 doeh ist dasselbe nieht ausgefuhrt.
+R. Dssnmzmn.
+

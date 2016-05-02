@@ -1,0 +1,74 @@
+οοΜΜΕΝΤΑΤΙο SECUNDA. 105
+
+Numeri reales negativi manifesto easdem denominationes servant, quas po-
+sitivi, idemque valet de numeris imaginariis puris.
+
+Superest itaque, ut inter numeros imaginarios mixtos, compositos a primis
+dignoscere doceamus, quod fit per sequens
+
+THEOREMA. Quivis numerus inteyer imaqinarius mioetus a-1-b2: est vel nume-
+rus primus complexus, vel numerus compositus, prout ipsius norma est vel numerus
+primus realis, vel numerus compositus.
+
+Dem. Ι. Quoniam numeri complexi compositi norma semper est numerus
+compositus, patet, numerum complexum, cuius norma sit numerus primus rea·
+lis, necessario esse debere numerum primum complexum. Q. E. P.
+
+Π. Si vero norma aa—Q-bl) est numerus compositus, sit p numerus primus
+positivus realis illam metiens, Duo iam casus distinguendi sunt.
+
+1) Si p est formae 4η-ὶ-3, constat, aa÷bb per p divisibilem esse non
+posse, nisi p simul metiatur ipsos a, b, unde a-l-bz' erit numerus compositus.
+
+2) Si p non est formae [ln—{- 3, certo in duo quadrata decomponi poterit:
+
+statuemus itaque p :z aa÷65. Quum fiat
+(aot-4-b6)(aoc—b6) z αα(αα-Ι-ὄό)--66(αα-1-ὒό)
+
+adeoque per p divisibilis, p certo alterutrum factorem aa÷b6, αα-ὂὸ me-
+
+tietur, et quum insuper fiat
+[aa—l-b6)²-†—(boc—a5)² z: (aa—b6)2-{—(boc-†-a6)2 z (aa†bb)(oca—†—66)
+
+adeoque per pp divisibilis, patet, in casu priori etiam ὂα-αό, in posteriori
+ὒα-ἦ-αό per p divisibilem esse debere. Quare in casu priori
+
+a——l——b—-z αα-ὶ-ὸὸ
+
+= ΔΓ
+
+bot—L& .
+α-ξ-ὅί p p ⁸
+
+Ζ
+
+ 
+
+ 
+
+erit numerus integer complexim, in posteriori autem
+
+a—l—bi ᾳα-ὂὸ
+
+boc-kg} ,2.
+
+ 
+
+ 
+
+ 
+
+÷
+
+α- ὅτ’ J) 11
+
+integer erit. Quum itaque numerus propositus vel per oc—l-fiz’ vel per α--Ἑῖί
+
+divisibilis sit, quotientisque norma -—- ΝΜΖ) per hyp. ab unitate diversa fiat, pa-
+
+tet, α-ἢ-ὂί in utroque casu esse numeruiii complexum compositum. Q. E. S.
+
+ 
+
+ΙΙ. 1 4
+

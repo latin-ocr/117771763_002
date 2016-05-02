@@ -1,0 +1,42 @@
+126 THEomA RESIDUORUM BIQUADRATICORUM.
+
+cepta index numeri i est †(])—-1), index fiet {sp—1), dum pro basi accipitur
+Ιιμ, designante μ integrum positivum formae 4n÷3 ad p—1 primum, e. g.
+ipsum numerum p— 2, et vice versa. Quare semissis altera radicum primitiva-
+rum conciliat numero i indicem *Hp—1). altera indicem {HJ-¹), manifesto-
+que pro illis basibus —i indicem »ΗΡ-1), pro his indicem {Qu—1) habebit,
+
+VII. Quoties modulus cst numerus primus realis positivus formae 4724- 3,
+puta z q, adeoque p: qq, indices oninium numerorum realium per q—†-1
+divisibiles erunt3 denotante enim t indicem numeri realis lc, erit, propter
+Μ’] Ξ smodq), <q—1)253 Ο (modqq—l), adeoque ζόῃ integer. Perinde in-
+dices numerorum pure imaginariorum ut lez? per -}(q-†—1> divisibiles erunt. Pa-
+tet itaque, radices primitivas pro talibus modulis inter solos numeros mixtos quae-
+rendas esse.
+
+VIII. Contra pro modulo m, qui est numerus primus complexus mixtus,
+(cuiusque proin norma p est numerus primus realis formae ‘ln—kl), radices pri-
+mitivae quaelibet etiam inter numeros reales eligi possunt, inter quos completum
+adeo systema residuorum incongruorum monstrare licet (art. 40). Manifesto au-
+tem quilibet numerus realis, qui est radix primitiva pro modulo complexo m, si-
+mul erit in arithmetica numerorum realium radix primitiva pro modulo p, et
+
+vice versa.
+
+56.
+
+Etiamsi theoria residuorum et non-residuorum quadraticorum in arithmetica
+numerorum complexorum sub ipsa theoria residuorum biquadraticorum contenta
+sit, tamen antequam ad hanc transeamus, illius theoremata palmaria hic seorsim
+proferemus: brevitatis vero caussa de solo casu principali, ubi modulus est nume-
+rus primus complexus (impar), hic loquemur.
+
+Sit m talis modulus, atque p eius norma. Manifesto quivis integer (per m
+non divisibilis, quod hic semper subintelligendum) quadrato secundum modulum
+m congruus fieri vel potest vel non potest, prout illius index, radice aliqua pri-
+mitiva pro basi accepta, par est vel impar; in casu priori ille integer residuum
+quadraticum ipsius m dicetur, in posteriori non-residuum. Hinc concluditur, in-
+ter p—-l numeros qui systema completum residuorum incongruorum (per m non
+divisibilium) exhibeant, semissem ad residua quadratica, semissem alteram ad
+non-residua quadratica referri. Cuivis vero alii numero extra illud systema idem
+

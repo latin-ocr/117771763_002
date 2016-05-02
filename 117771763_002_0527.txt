@@ -1,0 +1,74 @@
+GAUss AN DIRICHLET. 517
+
+wovon eine 13133 Andeutung in der Schlussanmerkung der Disquis. Arithm. S. 668
+[GAuss Werke B. I. S. 466] gegeben ist.
+
+Es ist dies nemlich ein ausreichendes Criterium fiir den Fan, wo p von der
+Form 871-1- 5 ist.
+
+Es sei die Anzahl der Classen‚welche die biniiren Formen in jeder der bei-
+den Gattungen fiir den Determinant -——- p bilden :z lc. Der Anfang einer von
+mir bis zu dem Determinant —3000 construirten Tafel steht Disquis. Arithm.
+p. 520. [art. 303.] Auch ist noch zu bemerken, dass fiir ein 2} von der angenom-
+menen Form, allemahl lc z 2117-1- 1 wird‚ wenn m die Anzahl der Zerlegungen
+'von p in drei positive Quadrate bedeutet (ich sage positiver‚ um Ο auszuschliessen)‚
+wie LEGENDRE durch Induction geffinden, und in den Disquis. Arithm, zuerst aus
+der Theorie der terneren Formen bewiesen ist. Man hat z. B.
+
+ffirpzz„ 13, 29, 37, 53, 61, 191, 199, 149, 157 u.s.w.
+liz-1, 1 3, 1, 3, 3 7, 3, 7, 3
+m: ‚ Ο 1, Ο, 1, 1, 3, 1, 3, 1
+— —- -— — —s— —— —f— —
+4 1 9 1 4 16 9 1 4 36 4
+9
+
+16 16 361636 36 4 64 64 9
+16 36 36 64 8149 64 144 81 49 144
+Dies vorausgesetzt‚ ist allemahl derjenige VVerth von b, welcherzss-rr (mod. p) ist,
+Ξ 2k—1—a--1 Ξ 4m÷a÷1 (mod. 8)
+wodurch das Zeichen von b vosskommen bestimmt ist. Sehen Sie hier 22 Bei-
+spiele, indem ich die Ausdehnung der am Schluss der Abhandlung gegebenen
+
+Tafel verdopple.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+p l lc α b 2) lc a b
+3 1-1-1-1-2ς ἱ113ιῇ 3 -1-91-1-19
+13 1 -3— 2& 11974 3 -1-1 -14
+29 3 -1-5-1-2, 229⁴ 3 -13ξ-1-2
+37 1 -1— 1 -— 6ss 2 2091 11 '410 -1-19
+53 3 2-7—-2'3 Ὶ1977Ῐ 3 -1-914-14
+3 -1-51-3ὖ ’1393Ι 9 ÷11¹÷2
+1911 71÷1-10' 13171 31-11-1-14
+109 3 «- 3-1-1οῑ 349 7 -ι- 3 -1-13
+149 7 - 7 —103 1¹ 373 5 - 1-1-13
+157 3 -11 - 6} 339 11 -1-17 -10
+173 7 ÷13 -1- 21³ 397 3 -19 - 6
+
+39
+
+ 
+
+ 
+
+II.
+

@@ -1,0 +1,43 @@
+Α COMMENTATIO SECUNDA. · 113
+
+42.
+
+Referendo itaque omnes numeros complexos secundum modulum datum in-
+ter se congruos ad eandem classem, incongruos ad diversas, omnino aderunt p
+classes totum numerorum integrorum ambitum exhaurientes, denotante p normam
+moduli. Complexus totidem numerorum e singulis classibus desumtorum exhibe-
+bit systema completum residuorum incongruorum, quale in artt..40, 41 assignavi-
+mus. Et in hocce quidem systemate electio residuorum classes suas quasi reprae-
+sentantium innixa erat principio ei, ut in quavis classe adoptaretur residuum
+oe-l—yi tale, pro quo y habeat valorem minimum, atque inter omnia, quibus
+idem valor minimus ipsius y inest, id, pro quo valor ipsius αα est minimus, ex-
+clusis valoribus negativis tum pro ce tum pro y. Sed ad alia proposita aliis prin-
+cipiis uti conveniet, imprimisque notandus est modus is, ubi residua talia adop-
+tantur, quae per modulum divisa offerunt quotientes simplicissimos. Manifesto
+si a÷6i, a'-{-6'i‚ cc''-†—6''i etc. sunt quotientes e divisione numerorum congruo-
+rum per modulum oriundi, differentiae tum quantitatum α, α’, α” etc. inter se
+erunt numeri integri, tum differentiae inter quantitates ὅ, δ’, δ” etc., patetque,
+semper adesse residuum unum, pro quo α et ὅ iaceant inter limites O et 1, li-
+mite priori incluSO, posteriori excluso: tale residuum simpliciter vocamus resi-
+duum minimum. Si magis placet, loco illorum limitum etiam hi adoptari possunt
+-τὲ- et —}÷-{- (altero admisSO, altero excluso): residuum tali limitationi respondens
+
+absolute minimam dicemus.
+Circa-haec residua minima offerunt se problemata sequentia.
+
+43. ⁶
+Residuum minimum numeri complexi dati A-ff-th secundum modu—
+lum aff—bi, cuius norma =p, invenitur sequenti modo. Si oe—f-yz· est resi-
+
+duum minimum quaesitum, erit (oe÷yi)(a-bi) residuum minimum producti
+(A÷Bi)(a—bi) secundum modulum (a÷bi)(a—bi), i. e. ,secundum modu-
+
+lum p. Statuendo itaque
+
+aA÷szFp†fi aB—bAsz÷9
+
+ita ut f, 9 sint residua minima numerorum aA÷bB‚ aB-bA‚ secundum mo—
+
+dulum p, erit
+II. 15
+

@@ -1,0 +1,41 @@
+Disomffl'momzs GENERALES DE conc-nummus. 213
+
+grui, functiones secundum hunc modulum conyruae dicentur. Perspicuum autem est,
+functiones congruas ,’ si pro indeterminata valores aequales aut congrui accipian-
+tur, valores congruos nancisci. Quae in Capp 1. et 11. de numeris demonstravi-
+mus, plerumque etiam de functionibus sunt tenenda; ita si P Ξ Ρ’, Q Ξ Q',
+Rz—R'etc„ patet, sore P—{- Q-†—R eto. ΞΡ’-ὶ- Q'-}-R'-{- etc.; P-—- ΟΞ P'— Q';
+P ΟΞ P'Q'3 PQR etc. Ξ P'Q'R' etc, Demonstrationes facillimae, possuntque
+simili modo adornari ut Cap.1m⁰.
+
+Si ΡΩΞΒ, functionem Q per ἐξ designabimus apposito modulo, dice-
+musque, Q esse quotientem, si R per P secundum hunc modulum dividatur.
+Manifestum aritem est, loco ipsius Q omnes functiones ipsi congruas accipi posse,
+quas omnes tamquam unicum valorem spectabimus. Infra vero ostendemus, qui-
+bus casibus talis quotiens plures valores (i. e. incongruos) nancisci possit.
+
+332.
+Si modulus sit numerus primus et divisor Q unicum tantum terminum in-
+volvat Hoeh, cuius coe'fficiens H per modulum non dividitur, i. e. si modo H
+
+non sit Ξ 0, quotiens plures valores habere nequit. Si enim esset ΩΑΞΡ
+et QB ΞΡ, foret Q(A-—B) Ξ Ο. , Iam sit
+
+Q Ξ . . -ὶ-Ηαῑή-ἦ-ΙιυῆἩ-Ι- etc.
+ita ut H per p non dividatur, et
+A—B Ξ Εαφῐ-ι-ΜωῑΡΗ-ῑ- etc.
+
+ita ut L per p non dividatur (hanc autem formam A-—B habebit, quia suppo-
+nimus A non Ξ B). Foretque Q(A—B) Ξ ΗΙιωῘιΗ-ΑΙ- etc. Ξ Ο. Q. E. Α.,
+quia HL non Ξ Ο.
+
+Facile iam regulae dantur functionem P per Q, siquidem fieri potest, di-
+videndi; sit
+
+P Ξ aff -l—boe“†¹-}—coe“†²-}— etc. ÷lcoe²
+Q Ξ Μωμ-ῑ-ηωμΔΓῙ-ὶ-ᾳωμΫΖ-ι- etc. 4-th
+ita ut a, lc, m, t per modulum non dividantur, debetque esse α 11011 <μ, κ 11011
+
+<τ·-. Divisio autem simili modo institui potest, ut in calculo logistico communi,
+modo semper pro quotiente numerus integer accipiatur3 scilicet quotiens semper
+

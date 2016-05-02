@@ -1,0 +1,43 @@
+SERIERUM SINGULARIUM. 4 3
+
+numerorum a, b, c eto. ad duos, patet, si unus tantum ex ipsiS‚ vel neuter, sit
+formae 4μ-ὶ-3, fieri debere vel simul aRb, bRa‚ vel simul aNb, bNa; con-
+tra si uterque est formae 4μ-1-3, unus ex ipsis alterius non-residuum esse
+debebit, atque hic illius residuum. En itaque demonstrationem quartam huius
+gravissimi theorematis, cuius demonstrationem primam et secundam in Disqui-
+sitionibus Arithmeticis‚ tertiam nuper in commentatione peculiari tradidimus
+(Commentt. T. X VD: duas alias principiis rursus omnino diversis innitentes in
+posterum exponemus. Summopere sane est mirandum, quod hocce venustissimum
+theorema„ quod primo omnes conatus tam pertinaciter eluserat, tot postea viis
+toto coelo inter se distantibus adiri potuerit.
+
+34.
+
+Etiam theoremata reliqua, quae quasi supplementum ad theorema funda-—
+mentale efficiunt, scilicet per quae dignoscuntur numeri primi, quorum residua
+vel non-residua sunt ——1‚ —}-2 et —2, ex iisdem principiis derivari possunt.
+Incipiemus a residuo -1-2.
+
+Statuendo n z Sa, ita ut a sit numerus primm, atque k τε 1, per me-
+thodum art. 28. W erit productum e duobus factoribUS‚ quorum alter erit -Ι-χία,
+vel -l-itla, si S, vel quod idem est 2, θεῖ residuum quadraticum ipsius a; con-
+tra -χία vel -ίχία, si 2 est non-residuum ipsius a. Factor secundus autem est
+
+(lq-imm, si α θεῖ formae 8μ-Ι-1
+(-1-Η”>χβ8, si α θεῖ formae 8μ-1-3
+(-1-<ι”)χλ8, si a est formae 8μ-1-5
+
+(1-ὴχ18, si a est formae 812÷7
+
+Sed per art. 18 semper erit W Ξ·- (1-ὶ-ί)χ[η; dividendo hunc valorem per qua-
+tuor valores factoris secundi, patet, factorem primum fieri debere
+
+-}— Va, si a est formae Spq-1
+-ίχία, si a est formae 8μ-1-3
+——- Va, si a est formae Spq-5
+-4-ἱχία, si α θεῖ formae 8μ-ὶ-7
+
+Hinc sponte sequitur, in casu primo et quarto 2 esse debere residuum ipsius a,
+in casu secundo et tertio autem non-residuum.
+6*
+

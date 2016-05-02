@@ -1,0 +1,67 @@
+SERIERUM SINGULARIUM. 23
+
+rorum k, n. In casu nostr0‚ ubi k et n supponuntur inter se primi, r com-
+mode dici potest radioe propria aequationis σενι-1 z 0: contra in casu altero, ubi
+lc et n haberent divisorem communem (maximum) ν, r vocaretur radix impropria
+illius aequationis, manifesto autem tunc eadem r foret radix propria aequatio-
+nis oein--l z O. Radix impropria simplicissima est unitas, in eoque casu, ubi η
+
+est numerus primus. impropriae aliae omnino non dabuntur.
+
+1 2.
+‘Quodsi iam statuimus
+
+21÷r÷r4÷r⁹÷etc.-4- eta-fr
+
+patet fieri W: T-q-iU, adeoque T esse partem realem ipsius W, atque U
+prodire ex parte imaginaria ipsius W factore ι’ suppresso. Totum itaque nego—
+
+(φὶ-02
+
+tium reducitur ad inventionem summae W: ad hunc finem vel series in art. 6
+considerata, vel ea quam in art. 9 summare docuimus. adhiberi potest, prior ta-
+men minus idonea est in casu eo, ubi n est numerus par. Nihilominus lectoribus
+gratum sore speramus, si casum eum, ubi n impar est, secundum methodum du-
+plicem tractemus·
+
+Supponamus itaque prim0‚ n esse numerum imparem, r designare radicem
+propriam aequ-ationis ‹vn—1 z 0 quamcunque, et in functione f (αφ, m) statui
+ου :z r, atque m z n--1. Hinc patet fieri
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1—— xm — ι- ν’1 .- ⁴—1
+1—x — 1——r — —-'}
+
+1—oem‘· -η 1——r *² .- -2
+1—322: ‘— 1—rr “-“ -γ
+
+1—oem 2 1-r- -3 —3
+1-x3 -“ 1 r²³ z -γ ’ etc
+
+usque ad
+
+1—x 1—7··”¹ „m
+1—:11m Ξ 1—rm :5- —r
+
+ 
+
+ 
+
+(Haud superfluum erit monere, has aequationes eatenus tantum valere, quatenus
+r supponitur radix propria: si enim esset r radix impropria, in quibusdam illa-
+rum fractionum numerator et denominator simul evanescerent, adeoque fractio-
+nes indeterminatae fierent).
+
+Hinc deducimus aequationem sequentem
+

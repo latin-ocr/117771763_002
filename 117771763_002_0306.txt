@@ -1,0 +1,66 @@
+296 BEMERKUNGEN ΖΗΕ ABHANDLUNG
+
+in welchem p alle in 21) nicht aufgehenden Primzahlen durchlaufen muss, und hieraus folgt
+⁷ ε v D 1
+
+11· μ ll > &fisi-¹
+eei->J
+
+Hinsichtlich der Strenge dieser Deduction bleibt aber ein Bedenken ubrig, welches sich auf die Me-
+
+μ..
+
+thode bezicht, den mittlern worth der Function χρη) durch successive Elimlnaffion aner Primzahlen zu
+besti1nmen3 denn wenn cs auch einleuchtet, dass der WVerth der durch Elimination der ersten n Primzah
+len erhaltenen Function ιΤ”(”)(ι)ἰ) mit dem der Funetion f00(m) z 1 iibereinstimmt‚ so lange m kleiner
+bleibt als die zuletzt eliminirte Primzahl, und dass also durch die Wahl eines hinreichend grossen Werthes
+τι diese [febereinstimmung bis zu jeder voi-her vorgeschriebenen Grbsse der Zahl m getrieben werden kann,
+so ist hiermit allein doch keineswegs erwiesen, dass mit unbegrenzt wachsendem n der mittlere Werth der
+Function fk⁷²)(m) sich dem mittlern VVerthe der Function χωρή), d. h. dem V'erthe 1 unbegrenzt nahert„
+In welcher V'eise der vers. diese Ltieke auszusullen bcabsichtigte, lesst sich aus den voi-handenen Papie-
+
+ren nicht mit Sicherheit erkennem doch fuhrt die sehon oben (in der Note zu Ι) mitgetheilte Formel
+
+1÷QA-A†A—4÷A—A..sp
+3 5 7 9 11
+
+ 
+
+fur die Anzahl der Paffl'e von Zahlen, deren Quadi-atsumme den W'erth Α nicht ubertrifft, zu der Ver-
+
+muthung, dass der Verf. , mit Unigehung des unendlichen Productes, fur den mittlern Werth der Function
+f(m) unmittelbar die unendliche Reihe
+-D ι
+Σ( ΤΕ·
+gefunden hat, in welcher n der Grosse nach alle positiven ganzen Zahlen durchlaufen muss, die relative
+Primzahlen zu 2D sind. Die einfachste Art, diesen Uebergang anzudeuten, scheint die folgende zu sein.
+Ist μ der gresste aller derJenigen Divisoren einer Zahl m, welche relative Primzahlen zu 21) sind,
+und setzt man 0(m) Σίρι), so ist 0(m) diejenige Function, welche durch Elimination aller in 21) auf-
+gehenden Primzahlen aus f(m) entsteht‚ und deren mittlerer Werth nach dem Obigen mit demjenigen der
+Function f(m) iibereinstimmt. Da nun 9(m) = Σ(--ἧῙ-)) ist, wo n alle Divisoren von μ, d. h. alle die-
+
+jenigen Divisoren von m durchleuft, welche relative Primzahlen zu 2D sind, so ergiebt sich die der obi-
+
+gen analoge Formel
+
+ 
+
+H(⁷¹1JZ‘1(¹J÷0(2)÷3— . . . ÷0(m) Ξ ;(—D)ss}
+
+n
+
+wo in der Summe rechter Hand der Buchstabe n alle relativen Primzahlen zu 21) durehlauft, und von
+m
+
+dem Quotienten n— immer nur (lie gresste in ihm enthaltene ganze Zahl beizubehalten ist. Ordnet man
+
+die Glieder dieser Reihe so, dass die Zahlen n ihrer Grbsse nach wachsend auf einander folgen, so nimmt
+‘In
+
+der Factor ἶ fortwfihrend ab oder doch wenigstens nie zu, und die Reihe bricht ab, sobald n>m wird.
+
+Ausserdem ergiebt sich aus dem Fundamentaltheorem in der Theorie der quadratischen Reste und aus der
+
+Verallgemeinerung desselben, (lass die Summe von je φ(4 D) auf einander folgenden Werthen des Factors
+(iq-213) verschwindet, woraus folgt, dass die Summe von noch so vielen auf einander folgenden Werthen
+

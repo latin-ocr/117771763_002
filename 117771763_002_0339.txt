@@ -1,0 +1,54 @@
+329
+
+ZUR THEORIE DER BIQUADRA'I'ISCHEN RESTE. 11.
+
+alle Punkte der ersten Ordnung innerhalb desselben zusammen, indem man fur
+jeden Punkt den Intensor des Quadrats Ω, worin er liegt‚ nimmt, diese Summe
+oder deren kleinster Rest nach dem Modulus 4 heisst der Decident von M fiir
+den Modulus m, und bestimmt die biquadratische Modalitat von Μ in Beziehung
+
+auf diesen Modulubu
+
+,-
+
+ι.
+Wir zerlegen das Quadrat Ω in 5 Stilo-ke auf folgende Art. Man verbinde
+denl'nnkt O mit 71-(1—11—2') (qn—1) durch die Linie λ, (116 durch lauter Ligaturen
+
+inflex-halb ΕΣ gehe. Es 861
+
+μηῌλ 2 λ’, .3<(1÷2·)m->x: w, {im—n Ξ w
+
+(11686 4 Linien gehen also von den Eeken (168 Quadrats Ω aus ins Innere und
+endigen sich an den vier Ecken des innersten Quadmts, dessen Intensor 0 sein
+wird‚ wenn m Ξ 1 (mod. 2 -ἦ- 2i); die Ligaturen (116868 Quadrats seien ν, ν’, ν”, vm.
+
+Die 5 Stueke werden also begrenzt sein
+
+I. ...μ, λ’, ν,
+
+ΙΙ. . . . μ, λη, ν’,
+111. . . . μ”, )”, ἶ
+IV μ”’ λ 315
+
+. . . . ‚ ‚ ‚
+V. das innere Quadrat ν, ν’, ν”, ν”’
+
+>EM >3ss >1st >211
+
+Der Decident ist also die Aufziihlung aller Punkte erster Ordnung in I. ΙΙ. III. IV.
+
+8.
+Der Kfirze wegen soll Intensor irgend eines Punkts der Intensor des Qua-
+
+drats sein, in dem er negt, und durch vorgesetztes Υ ausgedmckt werden.
+
+. 9.
+Der Decident ist also
+
+Σ ΥΡ-ι-Σ, ΥΡᾍ- Σ ΥΡΉ- Σ ΥΡΠ,
+
+wo P alle Punkte in I. u. 8. w. bedenten.
+
+II. 4 2
+

@@ -1,0 +1,43 @@
+328 NAcflnAss.
+
+zen derselben, theils auf den Grenzen der Ligaturen‚ das letzte, wenn sie zugleich
+Punkte der zweiten Ordnung sind. Ist lcQ ein solcher Punkt‚ so muss insofern
+m. M ohne gemeinschaftlichen Theiler und beide ungerade sind, k durch M
+theilbar sein.
+
+3.
+
+Bei den Ligaturen kfinnen wir zugleich einen Unterschied zwischen dem
+Anfangspunkte und Endpunkte macheu, also PQ von QP unterscheiden, oder
+auch in einigen Pallen diesen Unterschied bei Seite setzen. Wir nennen zwei
+solche Ligaturen entgegengesetzte. Bezeichnen kbnnen wir fiberhaupt am be-
+quenlsten die Ligaturen durch ihren Anfangs- und Endpunkt, die man allenfalls
+in eine Klammer einschliessen mag. Einer Ligatur entgegengesetzte soll durch
+
+das doppelte Ueberstreichen angedeutet werden QP :z P Q.
+
+4.
+Jedes der gedachten Quadrate wird von vier solchen Ligaturen eingeschlossen
+
+{la-Q (k÷1)Q}- {(k÷1)Q.(k÷1÷2·>Q}, {(lc-1-1.÷2·)Q, (k÷i>Q}‚ 3(k÷2·)Q‚lcQ}....Q
+
+denen es zur rechten liegt. Es ist wichtig hiebei auf die Form der Zahl lc zu
+sehen, und wir unterscheiden in dieser Beziehung viererlei Quadrate, je nachdem
+k Ξ Ο, 1, 1÷i‚ i(mod. 2) ist, und bedienen uns dann der Zahlen Ο, 1, 2, 3, die
+
+wir resp. die Intensoren der Quadrate nennen.
+
+ἱ).
+Den Ligaturen legen wir dieselben Intensoren bei, welche die ihnen zur
+
+rechten liegenden Quadrate haben.
+
+6.
+Wir haben nun ein anderes grosseres Quadrat 9' zu betrachten‚ nemlich
+dasjenige. welches entsteht, wenn das in 4 angczeigte fiir lc z Ο, mit ,Μ mul-
+
+tiplicirt wird: dies wird also durch die geraden Linien μ, μ’, μ”, μ”’ begrenzt
+20, ᾗ ηιξ, {l m, 3(1—{-z')m}, {3 (1÷i)rtz‚ gffz‘m}‚ stim, 0}
+
+Es besteht aus ganzen Quadraten Ω und Stficken solcher Quadrate; man zahle
+

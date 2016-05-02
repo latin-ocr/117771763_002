@@ -1,0 +1,33 @@
+BEMERKUNGEN ZUR ABHANDLUNG
+
+DE NEXU INTER MULTITUDINEM CLASSIUM‚ IN QUAS FORMAE BINARIAE
+SECUNDI ‹fflADUs DISTRIBUUNTUR‚ EARUMQUE DETERMINANTEM.
+
+ΖΗ Ι. und II.
+
+Die zweite Formel fiir die Anzahl der innerhalb des Kreises liegenden Punkte (Ι. art. 3 und ΙΙ.
+art, 5) ergiebt sich aus der Betrachtung des in denselben eingeschriebenen Quadrates, dessen Seiten den Coor-
+dinatenaxen parallel sind; die Vergleichung beider Formeln fuhrt zu dem auch arithmetisch leicht zu bewei—
+senden Satze
+
+r'-{-r''—}— . . . -1-7·(9) = qq †r(q'¹'¹) -l-r(q*²)—l— . . . †2·(‘'‘)
+aus welchem sich wieder die Richtlgkeit der ersten von den beiden folgenden Regeln ergiebt‚ die sich auf ei·
+nem besondern Blatt vorfanden:
+
+„Auflbsungen der Gleiehung :cx—l-yyssA3 formula
+
+1-ἱ-ιηΙΑ-ᾓ-4χΙὲΑ-ὶ-8Σ(ψ1(Α-ηη)-η)
+wo bei jeder 'Wurzel der Brueh weggelassen und von η :z 1 bis n = vs Α ‚,(soll heissen v* {wlff summirt wird,
+
+Andre Formel
+
+14—4321—{3-4—-3-—573ff—191-—24ss . . ,ξ
+wo bei Jedem Theil der Bmch weggelassen.“
+
+Diese letztere Formel folgt aus dem spater (Ι. art. 6) zur Anwendung kommenden Satze uber die An—
+zahl aller verschiedenen Darstellungen einer bestimmten Zahl durch die Form xx -†- yy (vergl. Disqq.Arithm.
+art. 182, Note), welcher leieht in den folgenden umgeformt werden kann: die Anzahl der verschiedenen Dar-
+stellungen einer positiven ganzen Zahl m durch die Form τιή-93] ist = 4(a—-b), wo a, b die Anzahlen
+
+der Divisoren von m bedeuten, welche resp. von der Form 4n4-1‚ «ιη-ξ- 3 sind. Aus der Vergleiehung
+

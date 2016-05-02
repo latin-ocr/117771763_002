@@ -1,0 +1,48 @@
+COMMENTA'rio SECUNDA. 109
+
+tur, p cum aliquo numerorum b, c etc. identicum esse debere: sit e.g.
+
+= b.
+
+Hinc vero concludimus, esse vel B z lc—{—Zz‘‚ vel B z ‘lc—li, i. e. vel g: A,
+vel Β z P, utrumque contra hyp.
+
+Ex hoc theoremate alterum, quod resolutio in factores primos unico tantum
+
+modo perfici potest, facillime derivatur, et quidem per ratiocinia iis, quibus in
+
+Dz'sqszitionibus Arithmeticis pro numeris realibus usi sumus (art. 16), prorsus ana-
+
+loga: quapropter illis hic immorari superfluum foret.
+
+38.
+
+Progredimur iam ad congruentiam numerorum secundum modulos com-
+plexos. Sed in limine huius disquisitionis convenit indicare, quomodo ditio quan-
+titatum complexarum intuitui subiici possit.
+
+Sicuti omnis quantitas realis per partem rectae utrinque infinitae ab initio
+arbitrario sumendam, et secundum segmentum arbitrarium pro unitate acceptum
+aestimandam exprimi, adeoque per punctum alterum repraesentari potest, ita ut
+puncta ab altera initii plaga quantitates positivam, ab altera negativas repraesen-
+tent: ita quaevis quantitas complexa repraesentari poterit per aliquod punctum in
+plano infinito, inquo recta determinata ad quantitates reales refertur, scilicet
+quantitas complexa oe—l—iy per punctum, cuius abscissa --: oe, ordinata (ab al-
+tera lineae abscissarum plaga positive, ab altera negative sumta) :ff Hoc pacto
+dici potest, quamlibet quantitatem complexam mensurare inaequalitatem inter si-
+tum puncti ad quod refertur atque situm puncti initialis, denotante unitate posi-
+tiva deflexum arbitrarium determinatum versus directionem arbitrariam determi-
+natam; unitate negativa deflexum aeque magnum versus directionem oppositam;
+denique unitatibus imaginariis deflexus aeque magnos versus duas directiones la-
+terales normales.
+
+Hoc modo metaphysica quantitatum, quas imaginarias dicimus, insigniter
+illustratur. Si punctum initiale per (0) denotatur, atque duae quantitates com—
+plexae m, πί ad puncta M, M' referuntur, quorum situm relative ad (0) expri-
+munt, differentia m--m' nihil aliud erit nisi situs puncti M relative ad punctum
+M': contra, producto mm' repraesentante situm puncti N relative ad (0), facile
+perspicies, hunc situm perinde determinari per situm puncti M ad (Ο), ut situs
+puncti Μ’ determinatur per situm puncti cui respondet unitas positiva, ita ut
+
+haud inepte dicaS‚ situs punctorum respondentium quantitatibus complexis mm'
+

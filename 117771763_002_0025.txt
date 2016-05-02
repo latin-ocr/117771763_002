@@ -1,0 +1,53 @@
+SERIERUM SINGULARIUM. 1 5
+
+IV. Pro n -—- 3 adest valor unicus ipsius a, puta a Ξ 1, cui respondet
+
+sinu» z -ι- 0,8660254038
+
+Hinc 2sinw z 4- χΙ3.
+
+V. Pro n = 7 adsunt valores tres ipsius a, puta 1, 2, 4: hinc haben-
+
+tur sinus
+
+sinm = -†- 0‚7818314825
+sin2m z -1- 0‚9749279122
+sinan» Ξ - 0‚4338837391
+
+ 
+
+Summa 2: -1-1,3228756556‚ adeoque‘22sinam Ξ -4- w.
+
+VI. Pro η :2 11 valores ipsius a sunt 1, 3, 4, 5, 9, quibus respondent
+SanS
+
+sinu> z -1- Ο,5406408175
+sin3u) z: -Ι- 0,9898214419
+Sin4w Ξ -Ι- 0‚7557495744
+sin50> Ξ -1- 0,2817325568
+Sin9oe Ξ -— 0‚9096319954
+
+Sfi‘rhma z -1-1‚6583‘123952, et proin 2Esinam z -ς- χλ] 1.
+
+VII. Pro n z 19 valores ipsius a sunt 1, 4, 5, 6, 7, 9, 11, 16, 17, qui-
+nus respondent sinus
+
+sinm Ξ -ι- 0‚3246994692
+sin 4ω z 4- 0‚9694002659
+sin 5ω z -1- 0,9965844930
+sinssm : -ι- 0,9157733267
+sin7m Ξ -ι- 0‚7357239107
+sin9m :2 4- 0‚1645945903
+sinllw —- 0‚4759473930
+-— 0‚8371664783
+sin17m -α 0‚6142127127
+Sum'ma ,τ- 44 2‚179*4494718‘, adeoque 22sinaw :2 4-«19.
+
+ΙΙ Η
+
+sin16u)
+
+ΙΙ
+
+ 
+

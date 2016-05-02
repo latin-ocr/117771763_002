@@ -1,0 +1,39 @@
+1 72 Ammon.
+
+plexen Zahlen vier Einheiten †l‚ ——1‚ -4-z'‚ —i. Zusammenyesetzt heisst eine
+complexe ganze Zahl, wenn sie das Product aus zwei von der Einheit versch‘ie-
+denen ganzen Factoren ist3 61116 complexe Zahl hingegen, die eine 30choe Zerle-
+gung in Factoren nicht 21116881, 1161881 61116 complexe Primzahl. So ist 2. B. die
+reelle Zahl 3, auch als complexe zahl 116116611161, 61116 Ρ1111126111, wahrend 5 als
+complexe Zahl zusammengesetzt ist =(1-{—2z·)(1-2i). Eben so wie in der ho-
+hern Arithmetik der reellen Zahlen spielen auch in dem erweiterten Felde dieser
+VVissenschaft die Primzahlen eine Hauptrolle.
+
+Wird eine complexe ganze Zahl a-l—bi als Modulus angenommen, so las-
+sen sich aa÷bb unter sich nicht congruente, und nicht mehrere‚ complexe Zah-
+len aufstellen, von denen eine jede vorgegebene ganze complexe Zahl congruent
+sein muss‚ und die man ein vollstandiges System incongruenter Reste nennen
+kann. Die sogenannten kleinsten und absolut kleinsten Reste in der Arithmetik
+der reellen Zahlen haben auch hier ihr vollkommenes Analogon. So besteht 2. Β.
+ffu- den Modulus 1—1-22' das vollstandige System der absolut kleinsten Reste aus
+den Zahlen Ο, 1, i, -—1 und —i. Fast die sammtlichen Untersuchungen der vier
+ersten Abschnitte der Disquisitiones Arithmeticae finden mit einigen Modificationen,
+auch in (161· erweiterten Arithmetik ihren Platz. Das beriihmte FERMATsche Theo-
+rem 2.Β. 1111111111 11161 folgende Gestalt an: Wenn a-†-bi eine complexe Prim-
+zahl ist, und lc eine durch jene nicht theilbare complexe Zahl, 8ο 181 immer
+ka“†⁶b-¹ Ξ 1 fiir den Modulus a—l-bi. Ganz besonders merkwfirdig ist es 61161,
+(1688 (168 Fundamentaltheorem fur die quadratischen Reste in der Arithmetik der
+complexen Zahlen 86111 vollkommenes‚ nur hier noch einfacheres‚ Gegenstfick hat;
+sind nemlich a—kbi, A÷Bi complexe Primzahlen, so dass a und A ungerade,
+b und B gerade sind, so ist (116 61816 quadratischer Rest der zweiten, wenn die
+zweite quadratischer Rest der ersten ist, hingegen die erste quadratischer N icht-
+rest der zwesten, wenn die zweite quadratischer Nichtrest der ersten 181.
+
+Indem die Abhandlung nach diesen Voruntersuchungen zu der Lehre von
+den biquadratischen Resten selbst fibergeht‚ wird zuvorderst anstatt der blossen
+Unterscheidung zwischen biquadratischen Resten und Nichtresten eine Verthei-
+lung der durch den Modulus nicht theilbaren Zahlen in vier Classen festgesetzt.
+Ist nemlich der Modulus 61116 complexe Primzahl a÷bi, wo immer a ungerade,
+b gerade vorausgesetzt‚ und der Kfirze wegen p statt aa÷bb geschrieben wird‚
+und k eine complexe durch a-†- bz· nicht theilbare Zahl, so wird allemal kffi’nj)
+

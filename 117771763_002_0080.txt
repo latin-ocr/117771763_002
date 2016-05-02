@@ -1,0 +1,44 @@
+70 rneomA Rssmuonum BiQUAnRA'rrconum.
+
+II. Perinde supponend0‚ aliquem numerum complexibus B,D communem
+esse, atque e productis ea, e³a' prodiisse, existentibus a, α’ numeris e complexu
+A, e congruentia ea Ξ e³d sequeretur α Ξ eea'‚ adeoque haberetur numerus,
+qui e producto eea' oriundus ad C simulque ad A pertineret. quod impossibile
+esse modo demonstravimus,
+
+Porro facile demonstratur, omnia residua quadratica ipsius p, inter 1 et
+p—¹ incl. sita, necessario vel in A vel in O, omniaque non-residua quadratica
+ipsius p inter illos limites necessario &el in B vel in D occurrere debere. Nam
+
+Ι. Omne tale residuum quafflaticum, quod simul est residuum biquadrati—
+cuni, per hyp. in A invenitur.
+
+II. Residuum quadraticum lz (ipso p minus), quod simul est non-resi-
+duum biquadmticum, statuatur Ξ99, ubi 9 erit non-residuum quadraticum.
+Accipiatur integer γ talis, ut fiat εγ Ξ9, eritque γ residuum quadraticum
+
+ipsius p, quod statuemus ΞΙτΙς. Hinc erit
+Ιι Ξ 99 Ξ εεγγ Ξ eelc‘*
+
+Quare quum residuum minimum ipsius ks* inveniatur in A, numerus k, quippe
+qui ex illius producto per ee oritur, necessario in C contentus erit.
+
+III. Designante h non-residuum quadi-aticum ipsius p inter limites 1 et
+p—1‚ eruatur inter eosdem limites numerus integer 9 talis„ ut habeatur e9 Ξ le.
+Erit itaque 9 residuum quadraticum, et proin vel in A vel in O contentus: in
+casu priori h manifesto inter numeros B , in posteriori autem inter numeros D
+invenietur. Ι ⁴
+
+Ex his omnibus colligitur, cunctos numeros 1, 2, 3 ..... p--l inter qua-
+tuor series A, B, C, D ita distribui, ut quivis illorum in una harum reperiatur,
+unde singulae series {sp—1) numeros continere debent. In hac classificatione
+classes A et G quidem numeros suos essentialiter possident, sed distinctio inter
+classes B et D eatenus arbitraria est, quatenus ab electione numeri e pendet,
+qui ipse· semper ad B referendus est; quapropter si eius loco alius e classe D ad-
+
+optatur, classes B, D inter se permutabuntur.
+
+6.
+Quum —1 sit residuum quadraticum ipsius p, statuamus, —1 {ff(1nod.p)‚
+unde quatuor radices congruentiae oe⁴ Ξ 1 erunt l‚f‚ —1‚ —f >Quodsi itaque
+

@@ -1,0 +1,45 @@
+202 NAcuLAss. ANALYs1s REsmuoaum.
+
+2 4 3.
+THEOREMA. Si couqruenffia
+
+oe”²—†-Aoe⁷'⁸*¹-†—Boem‘²—i— . . . . ÷N Ξ Ο (mod. primus)
+
+‘ita sit comparata, ut confecto producto εχ· m factoribus „ry—r, oe—r', oe—r'',
+„fv—rm. . . quod sit oe'n÷aoe⁷”—¹—†—boem-² . . . -Ι-η, sit A Ξ a, B Ξ b, C Ξ c etc.
+secundum mady), quantitates r, r'‚ r''. . . erunt radices couyruentiae propositae mcl—
+lasque alias habebit. ἰ
+
+Demonstratio. I. Erit semper
+
+oe⁷⁷²÷Aoem-¹-†—Boem‘²-}- . . . Ξ oem—1-aff²—¹—}-boem“²-†- . . . (mod.p)
+Sed posterior congruentiae pars fit :z Ο ponendo ω z r, ,κ’ = r'‚ m :z r'' eto„
+quare pro his ipsius αι’ valoribus prior pars fiet Ξ 0 (mod.p). Q. E. Primum.
+
+ΙΙ. Si autem alius adhuc valor ρ nulli horum r, r' etc. congruus congruen-
+tiae propositae satisfaceret, foret
+
+0 Ξ ρἠ-ξ-Αρῃῖ-Ῑ-ἣ-Βρω-ἳ-ἦ- . . . Ξ ρω-ἱ-αρ7η-1-θ-ὂρω-2-θ- . ..
+Ξ (ρ-νΜρ-ΥἼ(ρ“ν”)(ρ-ν’”> · ·-
+
+sed quoniam nullus factorum p——r, p—r', p—r''‚ eto. est Ξ Ο, productum ex
+omuibus fieri Ξ 0, ob p primum est absurdum. Quare praeter radices r, r' etc.
+
+nullae dantur aliae. Q. E. Secundum.
+
+V 244.
+
+PROBLEMA. Sint r, r'‚ r''. . . quantitates incomitata quarum multitudo sit :z m,
+quarum summa sit z α, summa quadratorum z ὅ, summa cuborum z: γ. ..,
+summa potestatum, quarum exponens est m, --.- μ, danturque non ln· numeri (quorum
+multitudo etiam :z m> ipsi, sed aliz· α’, 6¹, γ’ etc. siuyulz‘s conyrui secundum modu-
+lum p, qui sit numerus primus et >rm invenire couyruentiam mm· yradus, cuius
+radices siut r, r'‚ r'' etc.
+
+Salutio, Considerentur r, r'‚ r'' etc. quasi radices alicuius aequationis
+
+oem†AoeW‘—¹—{—Boem-²—†-Coem‘³—{— . . . = Ο
+
+determinenturque eius coe'fficientes A, B, O etc. (adhibendo tantummodo con-
+gruentiam loco aequalitatis) ad methodum cognitam, faciendo scilicet
+

@@ -1,0 +1,46 @@
+oonMENTAmo SECUNDA. 121
+
+ubi η est integer realis positivus, A, B, Ceto. integri reales vel imaginarii, m au-
+tem integer complexus: vocabimus hic quoque radicem congruentiae X Ξ 0 (mod. m)
+quemlibet integrum, qui pro ω’ substitutus ipsi X valorem per modulum m divi-
+sibilem conciliat. Solutiones per radices secundum modulum congruas non specta-
+bimus tamquam diversas.
+
+Quoties modulus est numerus primus, talis congruentia ordinis n hic quo-
+que plures quam n solutiones diversas admittere non potest. Denotante α inte-
+grum quemvis determinatum (complexum), X adiumento divisionis per oe—-ot in-
+definite ad formam X: (oe·- α) Χᾍ-Ιι reduci potest, ita ut Ιι fiat integer de-
+terminatus atque X' functio ordinis n—-1 cum coefficientibus integris. Iam quo-
+ties α est radix congruentiae ΧΞ O(mod.m), manifesto lz divisibilis erit per m,
+sive habebitur indefinite X -Ξ (oe— oc)X'(mod. m).
+
+Perinde si denotante ὅ integrum determinatum, X' ad formam (oe—6)X''-†-lz'
+reducitur, X'' erit functio ordinis n-2 cum coefficientibus integris. Si vero
+
+ὅ supponitur esse radix congruentiae X Ξ O, etiam satisfacere debet huic
+(6-00X'3 Ο, nec non huic Χ’Ξ 0, siquidem radices α, ὅ sunt incon—
+
+gruae, unde colligimus, etiam [ι’ per m divisibilem esse debere, sive indefinite
+X Ξ (ae—oc) (oe—6)X'' (mod. m)
+
+Simili modo accedente radice tertia γ prioribus incongrua, habebimus in—
+definite X Ξ (oe— α) (oe—6)(oe— y)X'''‚ ita ut X''' sit functio ordinis n- 3 cum
+coe'fficientibus integris Eodem modo ulterius procedere licet, patetque simul,
+coeffioientem termini altissimi in singulis functionibus esse z A, quem per m
+non divisibilem esse supponere licet, alioquin enim congruentia X Ξ Ο essen-
+tialiter ad ordinem inferiorem referenda esset. Quoties itaque adsunt n radices
+
+incongruae, puta α, ὅ, γ . . . . ν, habebimus indefinite
+X Ξ- A(oe—oc)(oe—-6)(oe—y) . . . . (am—v) (mod. m)
+quapropter substitutio novi valoris singulis α, ὅ, γ . . . . ν incongrui certo ipsi X
+
+valorem per m non divisibilem conciliaret, unde theorematis veritas sponte se-
+quitur.
+
+Ceterum haec· demonstratio essentialiter convenit cum ea, quam in Disq.
+Ar. art. 43 tradidimus, et cuius singula momenta pro numeris complexis perinde
+
+valent ac pro realibus.
+
+ΙΙ. l 6
+

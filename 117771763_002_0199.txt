@@ -1,0 +1,40 @@
+SEEBER. UNTERSUCHUNGEN ETc. 189
+
+meticae unvollendet gelassen war, zur Vollstandigkeit gebracht. Far diejenigen, ,
+welche aus der hbheren Arithmetik ein tieferes Studium gemacht haben, wsirden
+wir dasjenige, was in dem vorliegenden Werke Neues geleistet ist, mit wenigen
+Worten bezeichnen kennem allein, um auch andern verstandlich zu sein, mfis-
+sen wir uns etwas mehr Ausffihrlichkeit verstatten‚ und wir thun dies um so lie-
+ber, da diese Untersuchungen auch ausser-halb des Gebietes der hfiheren Arith-
+metik ein eigenthfimliches Interesse haben.
+
+Die Eigenschaften einer binaren Form aoeoe-l—2boey—1-cyy haugen vor-
+nehmlich von der Zahl bh —ac ab, welche daher der Determinant jener Form
+heisst. Zwei §.quivalente Formen haben allemal gleiche Determinanten. Allein
+nicht alle Formen, die einen gegebenen Determinanten haben, sind darum sehon
+{iquivalent‚ vielmehr zerfallen solche Formen in eine kleinere oder gr‘dssere, aber
+stets endliche Anzahl von Classen, so dass die zu einerlei Classe gehcrigen unter
+sich aquivalent, die zu verschiedenen Classen geh61·enden hingegen nicht aqui-
+valent sind. Durch Formen, deren Determinant positiv ist, lassen sich ohne Un-
+terschied positive und negative Zahlen darstellen; hingegen durch Formen mit
+negativem Determinanten sind nur solche Zahlen darstellbar‚ welche mit a und
+c einerlei Zeichen haben, daher hier positive und negative Formen unterschieden
+werden. Die einfachsten Formen in jeder Classe haben bestimmte Kriterien,
+heissen reducirte Formen, und kiinnen als Reprasentanten der ganzen Classe be-
+trachtet werden.
+
+Aehnliche Verhaltnisse in Beziehung auf die ternaren Formen sind in den
+Disquisz'tz'ones Arithmeticae nachgewiesen. Determinant der ternaren Form
+
+aoeoe÷byy—l-czz—†- 2a'yz—l-2b'oez-l— 2c'oey
+heisst die Zahl
+aa'a'-¹f— b b'b'—}- ε c'c' w abc — 2 a'b'c'
+
+Auch hier ist zur Aequivalenz zweier Formen die Gleichheit der Determinanten er-
+forderlich‚ aber nicht zureichend, sondern sammtliche Formen mit einem bestimm-
+ten Determinanten zerfallen in eine endliche Anzahl von Classen ‚ in deren jeder
+die einfachsten Formen reducirte heissen kbnnen und alle fibrigen gleichsam re-
+prasentiren. Mit dem Unterschiede zwischen positiven und negativen Formen ver-
+halt es sich aber hier anders, als bei den binaren Formen. Far jeden gegebenen
+Determinanten , er sei positiv oder negativ‚ gibt es theils F ermen, durch welche
+

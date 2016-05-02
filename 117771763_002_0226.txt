@@ -1,0 +1,43 @@
+216 NACHLASS. ANALYSIS uesmnomm.
+
+ΡΑ-ι- QB Ξ 1 ἲ
+Porro vero manifestum est,
+Dimens. ipsius B—{-Dim. ipsius a esse -- Dim.A.
+Dim. C÷Dim. b :Dim.B
+etc,
+
+Dim.L-Q-Dim.k = Dim.K
+Quare
+Dim.L—†—Sum. Dim. a, b, . . k -τ Dim.A
+
+Patet vero dimensionem ipsius α(””) adeoque etiam
+
+Dim. ipsius Q esse z Sum. Dim.a, b, e, . . i. e. = ot—Dim.L
+itaque
+
+Dim. ipsius P :z 6—Dim.L Q. E. D.
+
+336.
+Hinc autem sequitur, si M est divisor communis maximae dimensionis
+functionum A, B ‚ semper poni posse
+
+AP÷BQ÷M
+
+Exempla praecedentis theorematis brevitatis gratia omitto, sed lectores non
+negligent, per ea facilitatem huius generis problemata tractandi sibi comparare.
+Ceterum operae pretium erit admonere, theorema praecedens etiam de functioni-
+bus absolute sumtis valere, quarum quidem ooeffioientes sint numeri rationales.
+Hoc ex demonstrationis modo per se elucebit. Nobis autem ei rei immorari non
+licet. Similia lector etiam non admonitus in sequentibus observabit.
+
+Si A neo cum B neo eum O divisorem ullius dimensionis communem ha—
+beat, etiam eum producto BC nullum habebit divisorem communem. Sit enim
+
+PA÷QB÷1. erit ΡΑΟ-Ι-ΩΒΟΞΟ
+
+Iam si A cum ΒΟ divisorem M communem haberet, hic etiam ipsam G divi-
+deret contra hyp. Hine generaliter si functio A ad B, G, D etc, prima, etiam
+ad omnium productum erit prima.
+
+Si A‚B‚ O, D etc. nullum divisorem habeant omnibus communem, fieri potest
+

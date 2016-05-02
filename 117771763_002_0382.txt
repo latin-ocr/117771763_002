@@ -1,0 +1,66 @@
+3 72 NAcnnAss.
+
+haben. Nennen wir dieses Viertelsystem k, und ld, k''‚ lc''' diejenigen. welche
+entstehen‚ indem man die zu k gehcrigen Zahlen mit i, —1, -i multiplicirt,
+
+oder man mag auch setzen
+ff: m†2‘k, Ῐι·” :z (1÷i)m—k‚ kur: im—-ik
+
+Auf diese Art erhfflt man folgende Regel, um zu beurtheilen‚ ob eine beliebige
+vorgegebene durch m nicht theilbare ganze zahl aeq—ig] congruent sei einem
+Gliede von lc, ld, lc⁰ oder lc'''‚ nemlich indem man kann 2(a·oe—}-by) in die Form
+Pe(acz—'s-bli)—{—Q‚ May—Im) in die Form Re(aa—{-bb)—{-S bringen, so dass
+P, Q, R, S ganze reelle Zahlen und zwar
+
+wenn oe†iy congruent ist einer Zahl aus
+
+ 
+
+ 
+
+ 
+
+so dass {l k· k lc' lc'' ἐ lem
+P l gerade ungerade ungerade ,Ι gerade
+R l gel-ade ger-ade ungerade {l ungerade
+Q positiv positiv positiv nicht negativ
+e (aa -ἤ- b b) —— Q positiv nicht negativ positiv positiv
+S (l nicht negativ positiv positiv “ positiv
+e(aa—{-bb) ——S positiv positiv Ι nicht negativ positiv
+
+ 
+
+Man erleichtert sich die Uebersicht‚ wenn man die Faue, wo keine der Zah-
+
+len aoe-l—by, ay——boe durch e(aa—{—bb) theilbar ist, von den fibrigen unter-
+scheidet.
+
+Ι. Im ersten Falle hat man ffir P schlechthin die (algebrai‘sch) klei-
+
+nere der beiden ganzen Zahlen zu nehmen, zwischen welche (ausschliesslich)
+{gjssgssg fallen wird, und eben so fiir R die kleinere der beiden, zwischen
+
+welche ZZZ-{ff} faut.
+
+Π. Ist aoe—l-by durch e(aa—†—bb) theilbar‚ so wird ay—boe zwar durch
+αα-ἧ-ὂό, nicht aber durch e(aa—}—bb) theilbar sein (weil sonst oe÷iy durch
+
+ea-l—ebz' theilbar sein wfirde). Ist nun R, d. i. die ZahL welche zunfichst klei-
+
+ner ist als }{ffi{—⁵g‚ gerade, so wird oe-l—fiy einer zahl aus lc' congruent sein
+
+nach dem Mod. ea—l—ebzss einer aus k''' hingegen, wenn R ungerade ist.
+III. Ist ayss-bx durch e(aa—}-bb) theilbar‚ nicht aber aoe—fi-by, so wird
+«κ’-ἑ- iy einer Zahl aus lc, oder aus lc'' congruent sein. je nachdem die ganze Zahl,
+
+ἕψω † Q, gerade oder ungerade ist.
+e (a a -1- b b)
+
+ 
+
+ 
+
+welche algebraisch zuussichst kleiner ist als
+
+ 
+

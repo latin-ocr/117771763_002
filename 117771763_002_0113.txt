@@ -1,0 +1,43 @@
+COMMENTArro SECUNDA. 103
+
+Unitatibus in hac doctrina utimur quaternis, -1-1, —1‚ -l-i‚ —i, quae
+simpliciter positiva, negativa, positiva imaginaria, negativa imaginaria audient.
+
+Producta terna cuiuslibet numeri complexi per -—l, -ξ- i, ——i illius socios
+vel numeros sila· associatos appellabimus. Excepta itaque cifra (quae sibi ipsa as-
+sociata est), semper quaterni numeri inaequales associati sunt.
+
+Contra numero complexo coniunctam vocamus eum, qui per permutationem
+ipsius z· cum ——i inde oritur. Inter numeros imaginarios itaque bini inaequales
+semper coniuncti sunt. dum numeri reales sibi ipsi sunt coniuncti, siquidem de-
+nominationem ad hos extendere placet.
+
+Productum numeri complexi per numerum ipsi coniunctum utriusque nor-
+mam vocamus. Pro norma itaque numeri realis, ipsius quadratum habendum est.
+Generaliter octonos numeros nexos habemus, puta
+
+ubi duas quaterniones numerorum associatorum, quatuor biniones coniunctorum
+conspicimus, omniumque norma communis est aa-4-bb. Sed octo numeri ad qua—
+tuor inaequales reducuntur, quoties vel a -s -l——b‚ vel alteruter numerorum a, bzs).
+
+E definitionibus allatis protinus demanant sequentia:
+
+Producto duorum numerorum complexorum coniunctum est productum e
+numeris, qui illis coniuncti sunt.
+
+Idem valet de producto e pluribus factoribus, nec non de quotientibus.
+
+Norma producti e duobus numeris complexis aequalis est producto ex ho-
+rum normis.
+
+Hoc quoque theorema extenditur ad producta e quotcunque factoribus et ad
+quotientes.
+
+Cuiusvis numeri complexi (excipiendo cifram, quod plerumque abhinc ta-
+cite subintelligemus) norma est numerus positivus.
+
+Ceterum nihil obstat, quominus definitiones nostrae ad valores fractos vel
+adeo irrationales ipsorum a, b extendantur; sed a-†-bz' tunc tantum numerus
+complexus integer audiet, quando uterque a, b est integer, atque tunc tantum
+rationalis, quando aterque a, b rationalis est.
+

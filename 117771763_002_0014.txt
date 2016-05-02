@@ -1,0 +1,39 @@
+4 THEOREMA'ris AR1T11MET101
+
+cst. l’ro primo huius elegantissimi theorematis inventore ill. LEGENDRE absque du-
+bio habendus est, postquam longe antea summi geometrae EULER et LAGRANGEiju-
+res eius casus speciales iam per inductionem detexerant. Conatibus horum viro-
+rum circa demonstrationem enumerandis hic non immoror; adeant quibus volupe
+est opus modo commemoratum. Adiicere liceat tantummode, in confirmationem
+eorum. quae in art. praec. prolata sunt. quae ad meos conatus pertinent. In ipsum
+theorema proprio marte incideram anno 1795, dum omnium, quae in arithmetica
+sublimiori iam elaborata fuerant, penitus ignarus et a subsidiis literar-iis omnino
+praeclusus esseni: sed per integrum annum me torsit, operamque enixissimam ef-
+fugit. donec tandem demonstrationem in Sectione quarta operis illius traditam
+nactus essem. Postea tres aliae principiis prorsus diversis innixae se mihi obtu-
+lerunt. quarum unam in Sectione quinta tradidi, reliquas elegantia illa haud in—
+feriores alia occasione publici iuris faciam. Sed omnes hae demonstrationes,
+etiamsi respectu rigoris nihil desiderandum relinquere videantur, e principiis ni-
+mis heterogeneis derivatae sunt, prima forsan excepta, quae tamen per ratiocinia
+magis laboriosa procedit, operationibusq'ue prolixioribus premitur. Demonstra—
+tionem itaque ι(μηῑιιίηανηι hactenus haud affuisse non dubito pronunciare: esto iam
+penes peritos iudicium, an ea, quam nuper detegere successit, quamque pagellae
+sequentes exhibent, hoc nomine decorari mereatur.
+
+3.
+THEOREMA. Sit 2) numerus primus positivus; lc inteyer quicunque per p mm
+
+divisibili&
+
+A conzplerz'us numerorum 1, 2, 3 . . . . -3—(29—1)
+B compleoeus horum {·(P-l·-¹)› {(p—l-3), &pq-5) . . . ‚p—-l
+
+Capiantur residua minima positiva productorum eoe lc in sinyulos numeros A Secun-
+dum modulum J), quae mamfesto omnia- diversa erunt, atque partim ad A partim ad
+R pertinebunt. Iam si ad B omnino μ residua pertinere supponantur, erit lc vel re-
+siduum vel nnn—resiclumn qecaslratlcum ipsius p, prout μ par est vel impar.
+
+Dem. Sint residua ad A pertinentia haec a, α’ α” . . . ., reliqua ad B
+pertinentia b, ll, ll'.. .., patetque posteriorum complementa p— h, p—b',p—b''.. . .
+cuncta a numeris a, α’, (ι” . . . . diversa esse, cum his vero simul sumta comple-
+

@@ -1,0 +1,59 @@
+ΖΗΕ 'mmmm DER BIQUADRATISCHEN RESTE VI. 37 3
+
+5.
+
+Man leitet aus obigem ohne Mfihe folgende Methode ab zur Bestimmung
+des Characters einer gegebenen ganzen zahl M z A÷Bi in Beziehung auf den
+ungeraden sie nicht messenden Modulus m --- ea-†-ebi.
+
+Zur Abktirzung bedienen wir uns folgender Bezeichnung. Wenn p irgend
+eine gebrechene reelle Zahl vorstellt‚ soll durch [p] diejenige ganze zahl bezeich-
+net. werden, die zugleieh p—[p] und 1—1— [p] —p positiv macht. Bei dieser De-
+finition ist also die Anwendung der Bezeichnung auf ganze Zahlen ausgeschlossen.
+Fasste man die Definition SO, dass weder p—[p] noch 1-†—[p] -p negativ sein
+soll. so wfirde das Zeichen [p] fiir den Fan, wo p ganze Zahl ist, zweideutig sein.
+Man kennte auch, wie in einer frfiheren Abhandlung geschehen ist, die Bedingung
+so stellen, dass 1÷[p]—p positiv und p—[p] nur nicht negativ sein soll. Ffir un-
+sern Zweck ist es etwas bequemer‚ sich an die erste Begriffsbestimmung zu halten.
+
+Das Viertelsystem lc bilden hienae-h alle ganzen Zahlen f, woftir Wenn
+man 2—{0 :z ξ-ὶ-ηἱ setzt, ξ zwischen Ο und 1 ausschliesslich‚ η zwischen Ο
+
+und 1⁷1 die Ο eingeschlossen negt, oder
+
+[5]=⁰· [71]=0
+oder [5]=0‚ ηΞΟ
+2fM
+
+Setzt man nun fiir jedes f, *ff Ξ ξ-ἦ-ἱη und nimmt
+
+sz Ο wenn zugleich [ξ] gerade und entweder [ηἻ1 gerade oder η ganz
+1 [η] gel-ade und entweder [Ξ] ungerade oder Ξ ganz
+2 [ξ] ungerade und entweder [⁴0⁵ ungerade oder η ganz
+3 [η] ungerade und entweder [ξ] gerade oder ξ ganz
+
+tabellarisch so
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[η] gerade [η] ungerade η ganz
+[Ξ] gerade 0 3 0
+[ξ] ungerade 1 2 1 2
+Ε ganz 1 3 Ι -
+
+ 
+
+ 
+
+was man durch V (Ε-ὶ-ἱη) bezeichnen mag, so wird der gesuchte Cha-tracter der
+Zahl M in Beziehung auf den Modulus m aequal dem kleinsten Reste von 2qu
+nach dem Modulus 4. ,
+

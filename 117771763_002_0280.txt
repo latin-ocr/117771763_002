@@ -1,0 +1,44 @@
+2 70 NAcnnAss.
+
+tionibus (quoties constat e pluribus partibus curvis seu rectis), pendebitque ab
+arbitrio nostro, utrum puncta numeris integris complexis respondentia, siquae
+forte in ipsa peripheria sint, multitudini annumerare velimus an inde excludere.
+
+In repraesentatione analytica problematis conditiones illius limitationis sem-
+per ita exhiberi poterunt, ut functio data variabilium x, y vel una vel plures
+P, Q, R etc. nancisci debeant valores positivos‚ vel non-negativos (prout valor 0
+vel excluditur vel admittitur).
+
+Ita e. g. si figura praescripta est circulus, cuius radius -—- χΙΑ, dum cen-
+trum cadit in punctum numero complexo integro respondens, conditio analytica
+erit, ut A-oeoe-yy non sit negativus, siquidem, quod semper supponemus,
+puncta in ipsa peripheria sita retinere placet. Si figura est triangulum, tres
+functiones lineares aoe—l-by-l—c‚ a'oe÷b[y—l—c'‚ a''oe-l-b'[y—}-c'' valores non-nega-
+tivos habere debent, similiterque in aliis casibus.
+
+3.
+
+Solutio problematis eoeacta, generaliter loquendo, ita procedere debet, ut
+primo e natura conditionum variabilis altera e. g. ce intra limites coerceatur, in-
+ter quos valores singuli integri deinceps percurrant, et quot valores integri alte-
+rius y singulis respondeant, eruere oportet, quorum multitudines dein in sum-
+mam colligi debent. In casibus specialibus plerumque aderunt artificia specia-
+lia ad laborem abbreviandum.
+
+E. g. si figura, ut supra, est circulus, cuius radius Ξ χίΑ, sit r integer
+proxime minor quam χΧΑ, vel ipse ψἈ, si A est quadratum. Perinde sint
+ν’, r'‘‚ 7·''' etc. 7⁴0) integri proxime minores quam xl (A—1)‚ &MA— 4), &MA—9) ete.
+usque ad &MA—rr). Tunc multitudo quaesita erit
+
+z 2r-1—1-4-24122·'—{-1)—{-2(2r''—{-1)-{-2(·2r'''-{-1>-{- ete.
+z 1-5-4r-1-42·'÷4r''-{—4r'''—{- etc. -ι- aio-(⁷7
+
+Brevior erit in hoc exemplo methodus sequens. Sit q integer proxime minor quam
+χίὲΑ (vel huic aequalis, quoties est integer), atque φ’(ΨΗ), 7·(9†²)‚ ὙὯΗ) etc. in-
+
+tegri proxime minores quam V(A—(q÷1)²)‚ rs(A——(q-‡-2)²)‚ ts(A——'(q-{—3)²) etc.
+
+usque ad &MA—rr). Tunc erit multitudo quaesita
+
+:- 4 q q —{— 1 -Ι-4 r -Ι- 8 (r(q‘¹'¹) -ξ- r(⁹†²) -ἦ- r(q’*‘³) —Js- etC. ‘i- 9’(ν))
+

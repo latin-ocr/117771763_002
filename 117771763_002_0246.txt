@@ -1,0 +1,51 @@
+236 NAanAss. ANALYSIS RESIDUORUM.
+
+Num congruentia proposita divisores aequales habeat, eodem modo diiudi-
+catur, uti in aequationum theoria. Ponamus
+
+X Ξ ξἠΡ
+patet fore
+ἐξ Ξ ε”ῑ-ῑωιΡῖΞέ-ι-εά-Ρ)
+dx dx dx
+quare (ἐξ per 2⁷²²* dividetur. Generaliter sit
+
+X Ξ ΑαΒόοθ etc.
+
+ubi A, B, 0 etc. denotant functiones primas diversas, erit
+
+ 
+
+{fi} Ξ X (Ξιᾶᾱῖ '⁴‘ 'lieddg ’ἦ- {fle-l- em)
+unde patet, nisi aliquis numerorum a, b, c etc. per modulum dividatur, {ff} per
+Αα’“113ὂ“100”1 etc. dividi posse, non autem per Aa, Bb, 0⁰ etc. Hinc sequitur
+
+THEOREMA. Sz· functionum X et ἒξ divisor communis maximae dimensionis
+
+,Ίῗ
+
+Sit ξ, omnes factores primos, quos ξ habet, etiam X habebit etquidem quemvis toties
+
+-†-1 vice quoties ξ, si {qitzar X et ἐξ sint functiones inter se primae, X nullos
+
+factores aequales habebit. da:
+
+369.
+Exemplum I. Quaeritur an functio
+
+oe5†3oe4—6oe3÷3oe—4 . . . (X)
+
+secundum modulum 17 divisores aequales habeat. Erit
+
+ἐξ Ξ 5oe4—-5oe3—oeoe-l—3
+
+Hinc invenitur, functiones X et (Ξ inter se esse primas, quare X divisores ae-
+
+quales non habet.
+Exemplum ΙΙ. Sit
+
+X Ξ oe5-l—6oe4—3oe3-—4oeoe—1-2oe—23 (mod. 13) r
+
+erit
+ἐξ Ξ 5oe4——2oe3-1—4oeoe4-5oe-1—2
+maxima vero functionum X, (ἐξ communis mensura Ξ 5xx÷7 oe÷7 seu mul-
+

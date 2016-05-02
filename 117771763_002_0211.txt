@@ -1,0 +1,42 @@
+sommo concinnamus αἶ’-1 Ξ 0. γ 201
+
+Quivis ceterum memor erit, signa (n) et (0), (η-ὶ-Ῑ) et (1) etc, et in genere (a) et (b)
+aequivalere, quoties a Ξ b(mod.n).
+
+241.
+
+Sed ad nostrum propositum alio adhuc modo erit procedendum. Videlicet
+eos tantum terminos (k) retinemuS, ubi lc per t non dividitur, quorum multi-
+
+tudo est Ξ-ἶᾸΛι --. λ; omnes autem hi numeri (aut ipsis secundum η congrui)
+per potestates successivas alicuius numeri exhiberi possunt. Sit hic Ξ ρ; quare
+
+omnes radices primitivae congruentiae «τη Ξ 1 ita denotabuntur
+
+(1) (ρ) (9²) (9³) - · · · (ρλἸ)
+
+Hoc autem artificio id obtinemus, ut omnes radices non primitivae penitus exclu-
+dantur, cuius rei rationes et emolumenta infra clarius cognoscentur. In nostro
+igitur exemplo ponere possumus ρ 2: 3 et radices congruentiae oe⁷ Ξ 1 primi-
+tivae ita ordinantur
+
+seu (1)
+quaeerunt 7 24 20 25 23 16
+
+242.
+Ne lector ignarus sit, quorsum disquisitiones sequentes tendant, theorema,
+,quod demonstrandum atque dilucidandum nobis proponimus, indicare iuvabit.
+
+Si numerus λ (qui est :z t”‘¹. t—--1) habeat faetores simplices a, b, c, d ete. et
+sit λ :- αΟι bg εἴ .. ., resolutio conyruentiae ι1ἠ---1 Ξ Ο pendet α resolutione a÷6÷ ..
+corcyruentiarum inferiorum, quarum α sunt ⁸qracilzcs a, ὅ ,orarius b, γ yradus e ete.
+
+Ita in nostro exemplo congruentiae 119⁷ Ξ 1 resolutio pendet a congruentia
+secundi gradus et ab alia tertii gradus; perspiciturque in genere numquam gradum
+harum congruentiarum a modulo p pendere. Ut autem ad huius theorematis de-
+monstrationem perveniamus, necesse est aliquas propositiones ad nexum inter
+congruentias earumque radices spectantes praemittere, quamquam proprie in Cap.
+octavo hae disquisitiones ulterius sint persequendae.
+
+H. 26
+

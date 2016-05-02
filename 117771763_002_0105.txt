@@ -1,0 +1,26 @@
+THEORIA RES] DUORUM BIQUADRATICORUM.
+
+COMMENTATIO SECUNDA.
+
+24.
+
+In commentatione prima ea, quae ad classificationem biquadraticam numeri
+-†-2 requiruntur, complete absoluta sunt. Dum scilicet omnes numeros per mo-
+dulum p (qui supponitur esse numerus primus formae 4n÷1) non divisibiles in-
+ter quatuor complexus A, B, C, D distributos concipimus, prout singuli ad po-
+testatem exponentis {Qu—1) evecti congrui fiunt secundum modulum p ipsi
+—†-1‚ —f—f, —1, -—f, denotante f radicem alterutram congruentiae ff Ξ -1
+(mod. p): invenimus, diiudicationem‚ cuinam complexui adnumerandus sit nume-
+rus -†-2‚ pendere a discerptione numeri p in duo quadrata, ita quidem, ut si
+statuatur p :2 aa÷bb, denotante αα quadratum impar, bb quadratum par, si
+porro siqua ipsorum a, b ita accepta supponantur, ut habeatur a Ξ 1 (mod. 4),
+b=.-—.-af(mod.p), numerus 42 ad complexum A, B, O, D pertinere debeat,
+prout 4Σό sit formae 4η, 4η-1-1, 4η-1-2, 4η-1-3 resp.
+
+Sponte quoque hinc demanat regula classificationi numeri —2 inserviens.
+Scilicet quum —1 pertineat ad classem A pro valore pari ipsius sb, ad clas-
+sem O vero pro impari: pertinebit, per theorema art. 7, numerus —2 ad clas-
+sem A, B, Ο, D, prout {b est formae 4η, 4η-Ι-3, 4η-1-2, 4n-{-1 resp.
+
+Haec theoremata etiam sequenti modo exprimi possunt:
+

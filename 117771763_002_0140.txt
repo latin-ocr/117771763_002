@@ -1,0 +1,45 @@
+130 rumoni». itsssmuoium BlQUADRATICORUM.
+
+-—l-†—ssi, -1-61, -7. —5÷6i‚ —5--622 —3÷82·‚ -3—82‘, ÷9÷4i,
+-l- 9 — 4 z· etc,
+
+non-residuum vero horum -1-1- 22'. -1— 22⁶, -ξ-Ῑ-Ι- 42¹, -†-1 — 42⁸, -—- 5 4- ῃ,
+—5—22', -l—5—-l—4‘i, -l-—5 -4i‚ ÷7÷2i, ÷7 ——2t'‚ —f-5-l—8i‚ -l-5—Si etc.
+
+Priores secundum modulum 3 congrui sunt alicui ex his quatuor numeris
+-1-1, -ι, -4-2', —i; posteriores autem alicui ex his -l—l-l-i‚ -l—l—i, —1—-1-2',
+—l—i. Illi sunt ipsa residua quadratica numeri 3, hi non-residua.
+
+Docet itaque haec inductio, numerum primum a—l-bz‘‚ supponendo a im-
+parem, b parem, ad numerum - 3 (nec nou ad -1-3) eandem relationem habere,
+quam hic habet ad illum, quatenus scilicet alter alterius residuum quadraticum
+sit aut uon-residuum.
+
+Extendendo similem inductionem ad alios numeros primos, ubique 110110 010-
+gantissimam reciprocitatis legem confirmatam invenimus, deferimurque ad theo-
+rema hocce fundamentale circa residua quadratica in arithmetica numerorum com-
+plexorum:
+
+Denotantibus a-†-bi ‚ A—l—Bi numeros primos tales, ut α, A sint impares,
+b, B pares : erit vel uterque alterius residuum quadraticum‚ vel uterque alterius non-
+residuum.
+
+At non obstante summa theorematis simplicitate, ipsius demonstratio mag-
+nis difficultatibus premitur, quibus tamen hic 11011 immoramur, quum theorema
+ipsum sit tantummodo casus specialis theorematis generalioris, summam theoriae
+residuorum biquadraticorum quasi exhaurientis. Ad hanc igitur iam transeamus.
+
+61.
+
+Quae in art. 2 prioris commentationis de notione residui et non—residui bi-
+quadi·atici prolata sunt, etiam ad arithmeticam numerorum complexorum exten-
+dimus, et perinde ut illic etiam hic disquisitionem ad modulos taleS, qui sunt nu-
+meri primi, restringimus: simul plerumque tacite subintelligendum erit, modu—
+lum ita accipi, ut sit inter associatos primariuS, puta Ξ 1 secundum modulum
+2-†- 225, nec non numeros, de quorum charactere (quatenus sint residua biquadra-
+tica vel non—residua) agitur, per modulum non esse divisibiles.
+
+Pro modulo itaque dato numeri per eum non divisibiles in tres classes dis-
+pertiri possent, quarum prima contineret residua biquadratica‚ secunda non—resi-
+dua biquadratica ea, quae sunt residua quadraffica, tertia non-residua quadratica.
+

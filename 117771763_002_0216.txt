@@ -1,0 +1,51 @@
+206 NACHLASS. ANALYSIS RESIDUORUM.
+
+1⁰ si aliquis terminis Ξ 1, tum omnes ceteros eiusdem ordinis etiam fore
+
+1
+2⁰ quemvis ordinem, in quo nullus terminus Ξ 1, periodum formare. —--
+
+ΙΙΙ
+
+Manifesto his demonstratis propositum consecuti erimus.
+
+Forma generalis talis ordinis erit
+(p²†k³-†-pg). (p“†(⁷⁶†¹)⁸—l-pg†⁰)‚ (p“†(k÷²)³—l-p6†²e)‚ . · (ps÷(ls÷s-1)e÷p5÷(s-1)e)
+
+sta-qe etiam scribi pu†(k†f-¹)⁶ propter ef: λ et ρλ Ξ1
+
+potest enim pro 9²4⁵(
+(mod. u), et sic de antecedentibus. Ponatur p“†7⁶⁰-{-pgz—-: 9²(mod.n)‚ quod est
+permissum, nisi forte ραΉΰΘ-ὶ-ρῧ per n divisibilis ²¹²), poteritque ordo ita exhiberi
+(9²), rsp²†‘³), (92÷2e) . . . (p²†(s'“¹)⁶), qui manifesto est periodus (e*x); si vero
+90‘4‘703—4-(23 per n dividitur, omnes ordinis termini erunt Ξ(Ο) i. e. Ξ 1. Q. RD.
+
+Annot. Demonstratio haec simul methodum facillimam ostendit productum
+evolvendi. Aliam infra dabimus, quae hac quidem praerogativa caret, sed ob sim-
+
+plicitatem non contemnenda videtur.
+
+248.
+Periodos omnes minoreS. quae periodum maiorem constituunt, periodorum
+
+systema nominamus. Ita periodi
+(effla), (ef*f÷ α), <esu 2f—1-a> · - - - <efs<e-—1>f÷a>
+
+e quibus componitur periodus (f* α), hoc nomine designabuntur. Rite ordina-
+tum erit, si numeri post signum ια positi, ut hic α, f—1-oc‚ 2f÷oc, secundum
+seriem arithmeticam (cuius differentia est f) progrediantur; similia denique erunt
+systemata, si tam minores quam maiores periodi sint similes.
+
+THEOREMA. Si periodi systematum duorum similium rite ordinatorum invicem
+multiplicentur, prima scillcet in primam, secunda in secundam, tertia iii tertiam etc„
+summa omnium productorum e periodis maiori similibus et numeris datis componi potest,
+
+Demonstr. Sint systemata
+
+(effla), (muers). (φα-μη) · - -
+(em), <essm-f), <ef*6÷2s·) · - -
+
+*) Propositio paullo aliter exprimi debebit, si n generaliter numeri primi potestatem denotat; quando
+
+vero est numerus primus, nihil immutandum.
+

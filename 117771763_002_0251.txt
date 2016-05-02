@@ -1,0 +1,68 @@
+BEMERKUNGEN zon ANALrsis RESIDUORUM. 241
+b
+
+ginnt mit Art. 367 und sollte also die Fortsetzung der Disqq. Arithm. bilden; die wenigen noch vorhande-
+nen Artikel sind aber spater ihrem Inhalte nach in die Abhandlung Summatio quarumdam serierum singu-
+larium fibergegangen‚ und deshalb wird dieses Fragment von der gegenwartigen Ausgabe ausgeschlossen.
+
+In dem vorstehenden Abdruck der beiden Theile der Analysis Residuorum ist der Text des Origi-
+nals im VVesentlichen treu beibehalten, obgleieh dasselbe in formeller Beziehung nicht druckfertig zu nen-
+nen ist; in den folgenden Bemerkungen sind die wichtigsten Abanderungen bezeichnet, und zugleich einige
+Erlauterungen hinzugefiigt.
+
+§. 237. Vergl. Disqq. Arithm. artt. 61, 62.
+
+ξ. 239. Vergl. Disqq. Arithm. artt. 53, 54, 65.
+
+§. 241. WVenn η = 2⁹ und νζ 3 ist, so existirt zwar keine Zahl ρ von der angegebenen Art
+aber die ganze Untersuohuug wird hierdurch nieht wesentlich geandert. ’
+
+ξ. 251. Vermuthlich sollte die hier bemerkte Schwierigkeit durch die Einfuhrung hoherer Potenzen
+von p als Moduln beseitigt werden. Vergl. ξς. 363, 372, 373.
+
+ξ. 332. Die Voraussetzung, dass der Modulus eine Primzahl ist, Wird bis ς. 372 incl. beibehalten.
+
+ς. 333. Das unvollstandige Citat kann auf Disqq. Arithm. art. 44 bezogen werden.
+
+ἓξ. 344-346. Von den beiden im Manuscript vorhandenen Beweisen ist hier der erste, welches mit
+den WVorten iam demonstrare accingimur eingeleitet wird und sich auf eine nabere Untersuchung (16111118-
+drficke (1“2⁶ 37 , , ,) grundet, nach der eigenen Vorschrift des Verfassers ganz unterdri‘ickt (ffrota prae-
+cedens demonstratio una cum altera theorematis praec., quam adiicere mens eratss supprimenda erit, quoniam
+
+aliam infinities simpliciorem deteximus. Nititur ea huic fundamento’.); in dem obigen Ausdruck ist ferner
+
+der zweite Beweis dadurch abgekfirzt, dass die Entwieklung von {iii—{³ statt derjenigen von ³3:⁸1) ben-ach-
+
+tet wird, wodurch zugleich eine im original enthaltene Beziehung auf den unterdrtickten ersten Beweis um-
+
+ 
+
+gangen wird.
+§. 348. Der Ausdruck radix prima ist hier in derselben Bedeutung zu nehmen, wie der Ausdruck
+
+radix propria in der Abhandlung Summatio quarumdam serierum singularium art. 11. — Bei der Behaup-
+tung‚ dass die Coe'fficienten A'. B'. . . des entwickelten Productes ganze rationale Zahlen sind, wird auf
+das sechste Capitel verwiesen, in welchem aber die Theorie der Gleichung :cf—1 ε 0 nur fiir den Fau be-
+handelt wird, dass τ eine Primzahl ist; die Form des Beweises in ξ. 349 fiihrt zunachst auf folgende Er-
+
+ganzung. Wird das entwickelte Product in die (fiir alle Wurzeln der Gleichung 0² z 1 geltende) Form
+
+S = E÷1‹'0÷. . . ἾμΝΘΗ
+
+gebracht, so sind die Co'efficienten E, F . . . Ν ganze rationale Functionen von x mit ganzen rationalen
+Coefficientem da sei-ner das Product ungeandert bleibt, wenn Θ durch 07ί ersetzt wird, wo k irgend eine
+relative Primzahl zu τ bedeutet, so gilt dasselbe von dem Ausdruck S, und hieraus ergibt sich ohne
+Schwierigkeit‚ dass alle diejenigen in S enthaltenen Potenzen von 9, deren Exponenten s einen und deu-
+selben grossten gemeinschaftlichen Divisor mit τ haben, auch identischc Coefficienten haben nisissem da
+endlich eine jede Summe solcher Potenzen 0³ immer eine ganze Zahl ist, so leuchtet ein, dass der Aus-
+druck S, und folglich auch das in Rede stehende Product eine ganze Function von :c mit ganzen (3οὲῆὶ-
+cienten ist, was zu zeigen war. Ebenso geht aus dieser Betrachtung zugleich die Richtigkeit der 13611161·-
+kung am Schlusse des Paragraphen hervor. Andere Grunde lassen indessen vermuthen, dass dem Verfas-
+ser sehon damals das allgemeine Theorem iiber die Transformation der symmetrischen Functionen (Demon-
+stratio nova altera theorematis omnem functionem etc. art. 4) bekannt war, aus welchem sich die obigen
+
+Satze als unmittelbare Folgerungen ergeben.
+§. 352. Das Zeichen ΕΞ S(m0d. P) oder auch ΒΞ S(mod.P‚2›) bedeutet hier und im Folgen-
+
+ΙΙ. 3 1
+

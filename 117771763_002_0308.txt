@@ -1,0 +1,78 @@
+298 BEMERKUNGEN zUR ABHANDLUNG
+
+9)-Τέ z v(—1)cc-¹mtt
+
+0241
+an, in welcher α die Zahlen 1, 2, 3 . . . (D—i) durchlaufen muss. so erhalt man durch Umkehrung der
+Summationsordnung
+
+*3155 = 2252<ss>2<—1>0‘·12<53>rw
+
+Die auf μ bem'igliche Summation lssisst sich bekanntlich mit Imlfe der in der Abhandlung Sammatio qua-
+
+rumdam soz-{erum sinynlariumv bewiesenen Satze ausft'ihrem besehrankt man sich auf den Fau, in welchem
+
+I) durch kein Quadrat theilbar ist, so findet man allgemein
+
+ 
+
+(Β-1 Γ
+Σ-(ξξψ-(ιμ =<33>1 ² «D
+wo (Ξ) z ο gesetzt werden muss, falls α keine relative Primzahl zu D ist. In dem Fall D Ξ 3 (mod. 4)
+erhiilt man daher
+*1212ae = Jff<1³2>2e1>12<3> = ἠρῶ)
+
+ 
+
+wo α’ alle relativen Primzahlen zu D durehli'zuft, die kleiner als {D sind3 da endlich ε -- 2 ist, so wird
+
+die Anzahl der Classen
+
+Jc=2<33>
+
+Ist dagegen D Ξ 1(mod. 4), so erhalt man mit Benutzung der Reihe
+
+-ι 1 1 1 ι
+⁰⁰Se⁰u - ῖ-ῑιῖῑ“ῆ-πὴ-2π u÷22c
+
+ 
+
+ 
+
+auf {ihnliche Weise
+
+n-l v—1
+
+—2—(n)1— π 2 ν νπ πΣ(μ ru
+n
+
+:ivm—¹) (3300sec2D=2D D)r²fl¹⁴-†—1
+
+ 
+
+‘DN—:zen
+
+Σ(
+n ’π
+
+ 
+
+D
+
+ 
+
+wo die Buehstaben ν und μ die frfihere Bedeutung haben3 schliesst man den evidenten Fau D = ¹ aus
+D
+
+ 
+
+und wendet die fiir jede WVurzel ω der Gleichung ω =1 (mit Ausnahme von ω = ι) gultige Formel
+ω 4α” « Β-4α”
+ωω-ἰμι z 1†2m -ὶ-ὶω
+
+an, in welcher α” die Zahlen 1, 2, 3 . . . 2¹1 (D—1) durchlaufen muss‚ so ergiebt sich, wieder unter der
+
+Beschrzinkung, dass D durch kein Quadrat theilbar ist,
+
+und hierans, da ε z 2 ist,
+

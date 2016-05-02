@@ -1,0 +1,38 @@
+110 THEomA REsmUORUM quuADRAricORUM.
+
+m, Μ’, 1 formare proportionem. Sed uberiorem huius rei tractationem ad aliam oc-
+casionem nobis reservamus. Difficultates, quibus theoria quantitatum imagina—
+riarum involuta putatur. ad magnam partem a denominationibus parum idoneis
+originem traxerunt <quu1n'adeo quidam usi sint nomine absono quantitatum im-
+possibilium), si, a conceptibus, quos offerunt varietates duarum dimensionum,
+(quales in maxima puritate conspiciuntur in intuitionibus spatii) profecti, quanti·
+tates positivas directas, negativas inversas, imaginarias laterales nuncupavissemus,
+pro tricis simplicitas, pro caligine claritas successisset.
+
+39.
+
+Quae in art. praec. prolata sunt, ad quantitates complexas continuas refe-
+runtur: in arithmetica, quae tantummodo circa numeros integros versatur, schema
+numerorum complexorum erit systema punctorum aequidistantium et in rectis ae-
+quidistantibus ita dispositorum, ut planum infinitum in infinite multa quadrata ae-
+qualia dispertiant. Omnes numeri per numerum complexum datum a—l—bz' -- m
+divisibiles item infinite multa quadrata formabunt, quorum latera -—-· ts (aa-l- bb)
+sive areae :z cta—l—bb3 quadrata posteriora ad priora inclinata erunt, quoties qui-
+dem neuter numerorum a, b est :- Ο. Cuivis numero per modulum m non divi-
+sibili respondebit punctum vel intra tale quadratum situm vel in latere duobus
+quadratis contiguo; posterior tamen casus locum habere nequit, nisi a, b diviso-
+rem communem habent: porro patet, numeros secundum modulum m congruos in
+quadratis suis locos congruentes occupare. Hinc facile concluditur, si colligantur
+omnes numeri intra quadratum determinatum siti, nec non omnes qui forte in
+duobus eius lateribus non oppositis iaceant, denique his adscribatur numerus per
+m divisibilis, haberi systema completum residuorum incongruorum secundum mo-
+dulum m, i. e. quemvis integrum alicui ex illis et quidem unico tantum congruum
+esse debere. Nec difficile foret ostendere, horum residuorum multitudinem ae-
+qualem esse moduli normae, puta z: αα-ὶ-ὒῖὶ. Sed consultum videtur, hoc gra-
+vissimum theorema alio modo pure arithmetico demonstrare.
+
+40.
+THEOREMA. Secundum modulum compleoeum datum m z: a÷bi‚ cuius norma
+aa—l-bb Ξ p, et pro quo α, b sunt numeri inter se primi, quilibet inteyei· complexus
+conyruus erit alicui residuo e serie Ο, 1, 2, 3 . . . . p-——1‚ et non pluribus.
+
